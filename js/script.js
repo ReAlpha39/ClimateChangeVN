@@ -44,11 +44,12 @@ monogatari.assets ('gallery', {
 
 // Define the music used in the game.
 monogatari.assets ('music', {
-
+	'morning': '1 Alongside Chirping Cicadas.mp3'
 });
 
 // Define the voice files used in the game.
 monogatari.assets ('voices', {
+	'dialog_01': '13.ogg'
 
 });
 
@@ -78,6 +79,13 @@ monogatari.characters ({
 	'y': {
 		name: 'Yui',
 		color: '#5bcaff'
+	},
+
+	'umi': {
+		name: 'Umi',
+		sprites: {
+			normal: '0000.png'
+		}
 	}
 });
 
@@ -110,10 +118,13 @@ monogatari.script ({
 				'Warning': 'You must enter a name!'
 			}
 		},
-		'y Hi {{player.name}} Welcome to Monogatari!',
+		'show character umi normal',
+		'play music morning',
+		'play voice dialog_01',
+		'umi Good Morning {{player.name}}',
 		{
 			'Choice': {
-				'Dialog': 'y Have you already read some documentation?',
+				'Dialog': 'umi Have you already read some documentation?',
 				'Yes': {
 					'Text': 'Yes',
 					'Do': 'jump Yes'
@@ -127,20 +138,20 @@ monogatari.script ({
 	],
 
 	'Yes': [
-		'y Thats awesome!',
-		'y Then you are ready to go ahead and create an amazing Game!',
-		'y I can’t wait to see what story you’ll tell!',
+		'umi Thats awesome!',
+		'umi Then you are ready to go ahead and create an amazing Game!',
+		'umi I can’t wait to see what story you’ll tell!',
 		'end'
 	],
 
 	'No': [
 
-		'y You can do it now.',
+		'umi You can do it now.',
 
 		'show message Help',
 
-		'y Go ahead and create an amazing Game!',
-		'y I can’t wait to see what story you’ll tell!',
+		'umi Go ahead and create an amazing Game!',
+		'umi I can’t wait to see what story you’ll tell!',
 		'end'
 	]
 });
