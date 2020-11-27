@@ -86,6 +86,20 @@ monogatari.characters ({
 		sprites: {
 			normal: '0000.png'
 		}
+	},
+
+	'arif': {
+		name: 'Arif',
+		sprites: {
+
+		}
+	},
+
+	'kinan': {
+		name: 'Kinan',
+		sprites: {
+			
+		}
 	}
 });
 
