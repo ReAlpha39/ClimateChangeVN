@@ -98,8 +98,12 @@ monogatari.characters ({
 	'kinan': {
 		name: 'Kinan',
 		sprites: {
-			
+
 		}
+	},
+
+	'reporter': {
+		name: 'Reporter'
 	}
 });
 
