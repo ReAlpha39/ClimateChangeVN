@@ -1,0 +1,6 @@
+monogatari.script({
+    // Part one
+    '': [
+        
+    ]
+});
