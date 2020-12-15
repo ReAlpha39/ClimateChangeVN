@@ -81,18 +81,11 @@ monogatari.characters ({
 		color: '#5bcaff'
 	},
 
-	'umi': {
-		name: 'Umi',
-		sprites: {
-			normal: '0000.png'
-		}
-	},
-
 	'arif': {
 		name: 'Arif',
 		directory: 'Arif',
 		sprites: {
-			normal: 'Design_Arif.png'
+			normal: 'Arif_Half.png'
 		}
 	},
 
@@ -100,7 +93,7 @@ monogatari.characters ({
 		name: 'Nadia',
 		directory: 'Nadia',
 		sprites: {
-			normal: 'Design_Nadia.png'
+			normal: 'half_nadia.png'
 		}
 	},
 
@@ -108,7 +101,7 @@ monogatari.characters ({
 		name: 'Pak Andi',
 		directory: 'Pak_Andi',
 		sprites: {
-			normal: 'Design_pak_andi.png'
+			normal: 'half_pak_andi.png'
 		}
 	},
 
@@ -116,14 +109,15 @@ monogatari.characters ({
 		name: 'Roy',
 		directory: 'Roy',
 		sprites: {
-			normal: 'Design_Roy.png'
+			normal: 'half_roy.png'
 		}
 	},
 
 	'kinan': {
 		name: 'Kinan',
+		directory: 'Kinan',
 		sprites: {
-
+			normal: 'Kinan_pajama_half.png'
 		}
 	},
 
@@ -161,7 +155,9 @@ monogatari.script ({
 				'Warning': 'You must enter a name!'
 			}
 		},
-		'show character arif normal',
+		'show character arif normal at left',
+		'show character nadia normal',
+		'show character roy normal at right',
 		'play music morning',
 		'arif Good Morning {{player.name}}',
 		{
