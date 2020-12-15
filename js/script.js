@@ -70,7 +70,7 @@ monogatari.assets ('images', {
 
 // Define the backgrounds for each scene.
 monogatari.assets ('scenes', {
-
+	'school': 'school.jpg'
 });
 
 
@@ -90,8 +90,33 @@ monogatari.characters ({
 
 	'arif': {
 		name: 'Arif',
+		directory: 'Arif',
 		sprites: {
+			normal: 'Design_Arif.png'
+		}
+	},
 
+	'nadia': {
+		name: 'Nadia',
+		directory: 'Nadia',
+		sprites: {
+			normal: 'Design_Nadia.png'
+		}
+	},
+
+	'p_andi': {
+		name: 'Pak Andi',
+		directory: 'Pak_Andi',
+		sprites: {
+			normal: 'Design_pak_andi.png'
+		}
+	},
+
+	'roy': {
+		name: 'Roy',
+		directory: 'Roy',
+		sprites: {
+			normal: 'Design_Roy.png'
 		}
 	},
 
@@ -110,7 +135,7 @@ monogatari.characters ({
 monogatari.script ({
 	// The game starts here.
 	'Start': [
-		'show scene #f7f6f6 with fadeIn',
+		'show scene school',
 		'show notification Welcome',
 		{
 			'Input': {
@@ -136,13 +161,12 @@ monogatari.script ({
 				'Warning': 'You must enter a name!'
 			}
 		},
-		'show character umi normal',
+		'show character arif normal',
 		'play music morning',
-		'play voice dialog_01',
-		'umi Good Morning {{player.name}}',
+		'arif Good Morning {{player.name}}',
 		{
 			'Choice': {
-				'Dialog': 'umi Have you already read some documentation?',
+				'Dialog': 'arif Have you already read some documentation?',
 				'Yes': {
 					'Text': 'Yes',
 					'Do': 'jump Yes'
@@ -156,9 +180,9 @@ monogatari.script ({
 	],
 
 	'Yes': [
-		'umi Thats awesome!',
-		'umi Then you are ready to go ahead and create an amazing Game!',
-		'umi I can’t wait to see what story you’ll tell!',
+		'arif Thats awesome!',
+		'arif Then you are ready to go ahead and create an amazing Game!',
+		'arif I can’t wait to see what story you’ll tell!',
 		'end'
 	],
 
