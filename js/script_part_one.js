@@ -75,7 +75,8 @@ monogatari.script({
         "kinan Ngga mau ah. Ntar beruangnya bisa mati, kinan kan jadi sedih.",
         "arif Kalo kinan sedih berarti Kinan sudah tau kan apa yang harus dilakuin?",
         "play voice 012",
-        "kinan (Note: klo cuma buka jendela sama aja boong) Oke kak, Kinan buka jendela dulu.",
+        //(Note: klo cuma buka jendela sama aja boong)
+        "kinan Oke kak, Kinan buka jendela dulu.",
         //"Line 43",
         "arif Hari ini kayanya buat roti bakar aja paling ya.",
         "Setelah beberapa menit membuat roti bakar.",
@@ -84,7 +85,7 @@ monogatari.script({
         "kinan Ayo kak kita berangkat bareng.",
         "arif Iya iya, semangat sekali Kinan.",
         "play voice 014",
-        "kinan Hehehe.. (Note: Raut wajah gembira)",
+        "kinan Hehehe..",
         "arif Nih bekal buat mu nanti di sekolah.",
         "kinan Makasih kak",
         "(Need to change) Mereka berangkat ke sekola bersama - sama",
