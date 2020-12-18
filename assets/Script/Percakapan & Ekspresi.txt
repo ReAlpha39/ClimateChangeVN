@@ -2,373 +2,377 @@ Scene Pagi :
 Reporter : Tinjauan keadaan cuaca pada hari ini menunjukkan keadaan cuaca cerah di kota Sejuk
 diperkirakan suhu naik menjadi 35 derajat celcius. lalu lintas sekarang terlihat macet di sepanjang jalan Diponegoro
 
-Arif : Huaaaaaahhh (melek)
-Arif : wah pagi yang cerah.
-(Arif mematikan ac dan membuka jendela rumahnya)
-Arif : apakah kinan sudah bangun?
-(Arif pergi ke kamarnya kinan) (sf : membuka pintu)
-Arif : Kinan, Kinan.
-Arif : Ayo bangun, sudah pagi ni
-Kinan : huuuuhhh (Masih tidur)
-Kinan : 5 menit lagi ya kak....
-Arif : eh jangan begitu, adek kan sudah besar, harus bangun pagi dong biar sehat.
-Kinan :  iya Kaka (bangun dari tidurny)
-Arif :  1. Menyuruh kinan Membuka jendela kamarnya. (Kinan buka dulu jendela kamarmu.)
-	2. Menyuruh kinan mandi (Eh kinan, mandi dulu sana)
+(000)Arif		: Huaaaaaahhh 
+(000)Arif		: wah pagi yang cerah.
+(000)Arif		: Tapi kok lebih panas ya dari kemaren.
+(000)Arif		: matikan Ac dulu lah, sekalian buka jendela.
+	Memikirkan kinan
+(000)Arif		: apakah kinan sudah bangun ya?
+	(Akupun pergi ke kamar kinan) (sf : mengetuk pintu)
+(000)Arif		: Kinan, 
+	(sf : mengetuk pintu)
+(000)Arif		: Aku masuk ya.
+(000)Arif		: Ayo bangun, sudah pagi ni
+(001)Kinan		: huuuuhhh (Masih tidur)
+(002)Kinan		: 5 menit lagi ya kak..
+(000)Arif		: eh jangan begitu, adek kan sudah besar, harus bangun pagi dong biar sehat.
+(003)Kinan		: iya Kaka 
+	(Adikku pun bangun dari tempat tidur)
+(000)Arif		: 1. Kinan buka dulu jendela kamarmu.
+				  2. Eh kinan, mandi dulu sana.
 
 (pilihan 1) 
-Kinan : heeehhh. buat apa buka jendela?, AC kan lebih dingin, kalo buka jendela jadi panas kaka. 
-	kinan ga mau,ntar kepanasan. hehehe (ngeledek)
-arif  : Hmmmmm.(ekspresi merajuk)
-Kinan : Iya kaka, nanti kinan bukain, kinan mau mandi dulu.
+(001)Kinan		: heeehhh. buat apa buka jendela?, AC kan lebih dingin, kalo buka jendela jadi panas kaka. kinan ga mau,ntar kepanasan. hehehe (ngeledek)
+arif 		: Hmmmmm.(ekspresi merajuk)
+(001)Kinan		: Iya kaka, nanti kinan bukain, kinan mau mandi dulu.
 (pilihan 2)
-Kinan  : gak, kinan malas mandi. mau ditempat tidur aja seharian. :) hehehe (ngeledek)
-Arif   : Hmmmmm.(ekspresi merajuk)
-Kinan  : iya kaka. kakak juga jangan lupa mandi, bau tau :D (senang usil)
+Kinan 		: gak, kinan malas mandi. mau ditempat tidur aja seharian. :) hehehe (ngeledek)
+Arif  		: Hmmmmm.(ekspresi merajuk)
+Kinan 		: iya kaka. kakak juga jangan lupa mandi, bau tau :D (senang usil)
 
 (kinan menuju toilet)
-arif   : Jangan lupa nanti buka jendelanya
-Kinan  : siap kaka
+arif   		: Jangan lupa nanti buka jendelanya
+Kinan  		: siap kaka
 
-(Setelah kinan mandi)
-Kinan ; Buat apa sih buka jendela kaka? kan lebih enak ditutup aja terus hidupin ac biar dingin.
-Arif  : kinana tau beruang dikutub?
-kinan : tau lah, kan kinan suka sama beruang. hehehe
-arif  : kalo kinan gunakan AC terus menerus kasihan beruang dikutub, nanti esnya mencair 
-	ga ada tempat tinggal beruangnya. mau lihat beruangnya sedih ga punya tewmpat tinggal lagi?
-kinan : ga mau ah. ntar beruangnya bisa mati, kinan kan jadi sedih (murung)
-arif  : kalo kinan sedih berarti kinan dah tau kan apa yg harus dilakukan?
-kinan : oke kak, kinan buka jendelanya dulu.
+(Selang beberapa menit, kinan keluar dari toilet dan langsung mengganti pakaiannya.)
+(Diruang tamu)
+Kinan 		: Buat apa sih buka jendela kaka? kan lebih enak ditutup aja terus hidupin ac biar dingin.
+Arif  		: kinana tau beruang dikutub?
+kinan 		: tau lah, kan kinan suka sama beruang. hehehe
+arif  		: kalo kinan gunakan AC terus menerus kasihan beruang dikutub, nanti esnya mencair ga ada tempat tinggal beruangnya. mau lihat beruangnya sedih ga punya tewmpat tinggal lagi?
+kinan 		: ga mau ah. ntar beruangnya bisa mati, kinan kan jadi sedih (murung)
+arif  		: kalo kinan sedih berarti kinan dah tau kan apa yg harus dilakukan?
+kinan 		: oke kak, kinan buka jendelanya dulu.
 
-(Dapur)
-Arif : hari ini kayaknya buat roti aja paling ya.
-()
-Arif : la la la la ....
-Arif : Akhirnya sudah jadi 
-(Setelah kinan membuka jendela)
+(Saat kinan membuka jendela, arif langsung pergi ke Dapur untuk menyiapkan bekal)
+Arif 		: hari ini kayaknya buat roti aja paling ya.
+(Beberapa menit kemudian, roti pun sudah jadi)
+Arif 		: Akhirnya sudah jadi 
 
-kinan : Ayo kak kita berangkat bareng.
-arif  : iya iya, semangat sekali kinan.
-kinan : hehehe (Raut wajah gembira)
+
+kinan 		: Ayo kak kita berangkat bareng.
+arif  		: iya iya, semangat sekali kinan.
+kinan 		: hehehe (Raut wajah gembira)
+Arif		: nih bekal buat mu nanti disekolah
+Kinan		: Makasih kak
 
 (mereka berangkat ke sekolah bersama - sama) (sf : menutup pintu)
+(Sesampainya di persimpanagan)
+Kinan 		: kak, pergi dulu ya. bye bye
+Arif 		: Hati hati ya dek.
 
-Scene di jalan :
+(Tidak lama kemudian, roy datang menghampiri Arif menggunakan motornya) (Sf : Suara motor)
 
-Kinan : kak, pergi dulu ya. bye bye
-Arif : Hati hati ya dek.
-
-(Beberapa menit kemudian)
-
-Roy : Hey arif
-Arif : eh ada roy
-Roy :Sendiri aja, mana pacar mu? hahah (Ekspreso ngejek kketawa)
-Arif : 1. aku ga punya pacar kok
-       2. Pacarku masih dipinjem orang lain. (Sambil tertawa)
+Roy 		: Hey arif
+Arif 		: eh ada roy
+Roy 		: Sendiri aja, mana pacar mu? hahah (Ekspreso ngejek kketawa)
+Arif 		: 1. aku ga punya pacar kok
+       		  2. Pacarku masih dipinjem orang lain. (Sambil tertawa)
  
-Pilihan ()
+Pilihan 1
 
-Roy : dasar ngenes amat kamu rif, hahahah
-Arif : kok punya temen kayak gini ya. 
-Roy : oh gitu ya kamu rif. hahaha
+Roy 		: dasar ngenes amat kamu rif, hahahah
+Arif		: kok punya temen kayak gini ya. 
+Roy 		: oh gitu ya kamu rif.
 
 Pilihan 2
 
-Roy : ah, bisa aja kamu rif. bilang aja jomblo susah amat dah
-Arif : iya nih aku jomblo, cariin kek pacar buat ku. heheh
-Roy : aman, disekolah banyak kok cewek. hahah
+Roy 		: ah, bisa aja kamu rif. bilang aja jomblo susah amat dah
+Arif 		: iya nih aku jomblo, cariin kek pacar buat ku. heheh
+Roy 		: aman, disekolah banyak kok cewek. hahah
 
 
-Roy : mo bareng ga pake motor ku ini?
-Arif : 1 Hayuk gas
-       2 Ga ah, mending jalan kaki biar lebih sehat.
+Roy 		: mo bareng ga pake motor ku ini?
+Arif 		: 1 Hayuk gas
+       		  2 Ga ah, mending jalan kaki biar lebih sehat.
 
 (pilihan 1)
 
-Roy : Ayo naik,
+Roy 		: Ayo naik,
 (Arif kemudian naik ke motor arif) (Sf : Suara knalpot motor)
 
 (pilihan 2)
 
-Roy : Ya elah, jalan kaki ma lama.
-Roy : Mending naik motor aja, biar cepat sampai
-Arif : Maksih roy, tapi ku pengen jalan kaki aja
-Roy : ya udah lah, bareng aja sama kamu
-Arif : gapapa nih?
-Roy :  ya gapapa
+Roy 		: Ya elah, jalan kaki ma lama.
+Roy 		: Mending naik motor aja, biar cepat sampai
+Arif 		: Maksih roy, tapi ku pengen jalan kaki aja
+Roy 		: ya udah lah, bareng aja sama kamu
+Arif 		: gapapa nih?
+Roy 		: ya gapapa
 
-(Roy dan Arif bertemu Nadia)
+(beberapa menit kemudian, Roy dan Arif bertemu dengan Nadia)
 
-Roy : tuh ada nadia rif.
-Arif : mau disamperin kah?
-Roy : Ayok
+Roy 		: tuh ada nadia rif.
+Arif 		: mau disamperin kah?
+Roy 		: Ayok
 
-(jika memilih pilihan 1 ) (sf : suara knalpot motor melambat)
+(jika memilih pilihan 1 ) (sf : suara knalpot motor melambat) 
+(jika memilih pilihan 2 ) (no sound) 
 
-Arif : Pagi nadia
-Nadia : eh ada arif sama roy, pagi juga
-Roy : pagi nadia
-Nadia : Sejak kapan kamu bawa motor ke sekolah sih roy?
-Roy : baru tadi pagi
-Nadia : rumah mu kan dekat, masa masih bawa motor juga
-Roy : ih Biarin, kan motorku juga.
-Roy : dah lah mau cabut dulu
-Roy : bye
+Arif 		: Pagi nadia
+Nadia 		: eh ada arif sama roy, pagi juga
+Roy 		: pagi nadia
+Nadia 		: Sejak kapan kamu bawa motor ke sekolah sih roy?
+Roy 		: baru tadi pagi
+Nadia 		: rumah mu kan dekat, masa masih bawa motor juga
+Roy 		: ih Biarin, kan motorku juga.
+Roy 		: dah lah mau cabut dulu
+Roy 		: bye
 
 (Scene ketika memilih naik motor bersama arif)
-Arif : eh turunin aku dulu. biar aku bareng ma nadia aja
-Roy : oke deh
+Arif 		: eh turunin aku dulu. biar aku bareng ma nadia aja
+Roy 		: oke deh
 (Arif turun & roy langsung cabut)
 
-Nadia : lah kenapa ga bareng sama roy?
-Arif : gapapa sih, mau bareng sama kamu aja
-Nadia : hoooo
-Arif : ngomong ngomong, tadi si roy ngambek tuh.
-Nadia : hah!! ngambek
-Arif : iya pas kamu nasehatin tadi.
-Nadia : oalah, aku nasehatin supaya dia tuh sadar jangan bawa motor ke sekolah.
-Nadia : karena bisa menabah efek dari rumah kaca
-Arif : Huhh?? rumah kaca?? maksud mu pelajaran kita minggu kemaren ya
-Nadia : iya, nah kalo misalnya terjadi secara terus menerus jadinya suhu di bumi jadi panas
-Arif : wah, kamu pintar banget nad. aku aja masih bingung tentang pembahasan kemaren
-Nadia : hehh!! (Muka malu)
-Arif :  kenapa nad
-Nadia : e... e... gak ada. (Muka malu)
-Arif : oalah. kirain kenapa
-Nadia : dah keburu telat nih, ayok cepat 
-Arif : Oke
+Nadia 		: lah kenapa ga bareng sama roy?
+Arif 		: gapapa sih, mau bareng sama kamu aja
+Nadia 		: hoooo
+Arif 		: ngomong ngomong, tadi si roy ngambek tuh.
+Nadia 		: hah!! ngambek
+Arif 		: iya pas kamu nasehatin tadi.
+Nadia 		: oalah, aku nasehatin supaya dia tuh sadar jangan bawa motor ke sekolah.
+Nadia 		: karena bisa menabah efek dari rumah kaca
+Arif 		: Huhh?? rumah kaca?? maksud mu pelajaran kita minggu kemaren ya
+Nadia 		: iya, nah kalo misalnya terjadi secara terus menerus jadinya suhu di bumi jadi panas
+Arif 		: wah, kamu pintar banget nad. aku aja masih bingung tentang pembahasan kemaren
+Nadia 		: hehh!! (Muka malu)
+Arif 		: kenapa nad
+Nadia 		: e... e... gak ada. (Muka malu)
+Arif 		: oalah. kirain kenapa
+Nadia 		: dah keburu telat nih, ayok cepat 
+Arif 		: Oke
 
 Scene disekolah :
 
 (Sementara di kelas) (Pintu kebuka (Kelas))
 (Kinan, arif duduk di dekat roy)
-Siswa 1 : hey
-Siswa 2 : Halo
-Siswa 1 : ngomong ngomong, kalian tau nggak kalo skrng di daerah kita sudah terlalu panas
-Siswa 2 : ya nih, aku juga ngerasa begitu
-Siswa 1 : dulu kan daerah kita dingin ya.
-Siswa 2 : iya, dulu itu bisa sampe 18-25 derajat aja, skrng saya dengar berita pagi tadi malah suhunya 35 derajat
-Siswa 1 : serius lu?
-Siswa 2 : iya serius
-Siswa 1 : apa jangan jangan di daerah kita banyak yang make kendaraan makanya jadi panas ya
-Siswa 2 : bisa jadi sih.
-Siswa 1 : waduh aku kesini malah bawa sepeda motor loh.
-Siswa 2 : besok jangan bawa deh coba untuk 1 bulan dulu. biar kita bareng gitu pergi ke sekolah jalan kaki
-Siswa 1 : oke siap 
+Siswa 1 	: hey
+Siswa 2 	: Halo
+Siswa 1 	: ngomong ngomong, kalian tau nggak kalo skrng di daerah kita sudah terlalu panas
+Siswa 2 	: ya nih, aku juga ngerasa begitu
+Siswa 1 	: dulu kan daerah kita dingin ya.
+Siswa 2 	: iya, dulu itu bisa sampe 18-25 derajat aja, skrng saya dengar berita pagi tadi malah suhunya 35 derajat
+Siswa 1 	: serius lu?
+Siswa 2 	: iya serius
+Siswa 1 	: apa jangan jangan di daerah kita banyak yang make kendaraan makanya jadi panas ya
+Siswa 2 	: bisa jadi sih.
+Siswa 1 	: waduh aku kesini malah bawa sepeda motor loh.
+Siswa 2 	: besok jangan bawa deh coba untuk 1 bulan dulu. biar kita bareng gitu pergi ke sekolah jalan kaki
+Siswa 1 	: oke siap 
 
-Nadia : tuh dengerin gak yg teman lain bilang?
-Roy : Ah bodoh lah, aku mah santai aja. panas kek gini mah biasa
-Arif : gak usah gitu lah roy, ntar nambah panas lagi kalo kamu bawa motor.
-Nadia : Betul tuh roy.
-Roy : dah lah. bahas topik lain ngapa? (Ngotot)
+Nadia 		: tuh dengerin gak yg teman lain bilang?
+Roy 		: Ah bodoh lah, aku mah santai aja. panas kek gini mah biasa
+Arif 		: gak usah gitu lah roy, ntar nambah panas lagi kalo kamu bawa motor.
+Nadia 		: Betul tuh roy.
+Roy 		: dah lah. bahas topik lain ngapa? (Ngotot)
 
 (Tiba tiba Pak Andi Masuk)
 
-Pak Andi : Halo Semua
-Pak Andi : sekarang kita belajar tentang rumah kaca ya
-Pak Andi : Langsung saja deh, bapak kasih pertanyaan dulu sebelu8m lanjut belajar.
-PAk Andi : Di sini ada yang tau definisi rumah kaca?
+Pak Andi 	: Halo Semua
+Pak Andi 	: sekarang kita belajar tentang rumah kaca ya
+Pak Andi 	: Langsung saja deh, bapak kasih pertanyaan dulu sebelu8m lanjut belajar.
+PAk Andi 	: Di sini ada yang tau definisi rumah kaca?
 
 (Tiba tiba hening)
 
-Pak Andi : kok diam nih, ok saya tunjuk aja ya orangnya
-Pak Andi : Ya arif, silahkan dijawab.
-Arif : 1 
-       2
+Pak Andi 	: kok diam nih, ok saya tunjuk aja ya orangnya
+Pak Andi 	: Ya arif, silahkan dijawab.
+Arif 		: 1 
+      		  2
 ............... (Masih dalam pemukiran cara menjelaskan ke siswa tentang rumah kaca)
 
 
 (Istirahat)
 
-Arif : Makan bareng yok roy
-Roy : Ayok lah
-Roy : Ikut ga nad?
-Nad : Ayok lah
+Arif 		: Makan bareng yok roy
+Roy 		: Ayok lah
+Roy 		: Ikut ga nad?
+Nad 		: Ayok lah
 
 (Sepulang Sekolah)
 
-Roy : rif, mau ikut ga nih?
-Arif : kemana?
-Roy : biasa ngabisin waktu lah.
-Arif : 1. Boleh nih
-       2. hmmm, keknya ga deh
+Roy 		: rif, mau ikut ga nih?
+Arif 		: kemana?
+Roy 		: biasa ngabisin waktu lah.
+Arif 		: 1. Boleh nih
+      		  2. hmmm, keknya ga deh
 
 (Pilihan 1)
-Roy : Ada rekomendasi gak?
-Arif : Ke Mall gimana?
-Roy : Boleh nih. bareng aja ya kita ntar
-Arif Oke , sip
+Roy 		: Ada rekomendasi gak?
+Arif 		: Ke Mall gimana?
+Roy 		: Boleh nih. bareng aja ya kita ntar
+Arif 		: Oke , sip
 
 (Pilihan 2)
-Roy : gue ga ada teman nih rif, temenin dong
-Arif : gimana ya?
-Roy : ayolah kita ke mall ngabisin waktu, ntar ku bayarin dah
-Arif : eee.. oke deh
+Roy 		: gue ga ada teman nih rif, temenin dong
+Arif 		: gimana ya?
+Roy 		: ayolah kita ke mall ngabisin waktu, ntar ku bayarin dah
+Arif 		: eee.. oke deh
 
 (Nadia datang menghampiri arif dan roy)
 
-Nadia : kalian pada bahas apa nih?
-Arif : mau ngabisin waktu nih, dari pada ga ad kerjaan dirumah
-Nadia : emangnya pada mau ngabisin waktu dimana?
-Arif : 1 Ni mau pergi ke mall, mau ikut gak nad?
-       2 ehhh.....
+Nadia 		: kalian pada bahas apa nih?
+Arif 		: mau ngabisin waktu nih, dari pada ga ad kerjaan dirumah
+Nadia 		: emangnya pada mau ngabisin waktu dimana?
+Arif 		: 1 Ni mau pergi ke mall, mau ikut gak nad?
+       		  2 ehhh.....
 
 (Pilihan 1)
-Nadia : ayo, mumpung ga ada tugas dari guru nih.
+Nadia 		: ayo, mumpung ga ada tugas dari guru nih.
 
 (Pilihan 2)
-Nadia : gimana kalo kita ke mall aja?
-Roy : ee, iya sih kita juga rencana mau ke mall
-Nadia : Aku ikut ya. hehe
+Nadia 		: gimana kalo kita ke mall aja?
+Roy 		: ee, iya sih kita juga rencana mau ke mall
+Nadia 		: Aku ikut ya. hehe
 
 
-Roy : lu ikut juga, motor ku cuman muat 2 org.
-Nadia : kan aku bisa naik krl
-Roy : Waduh....
-Nadia : Kenapa ga senang kah aku ikut? (muka marah)
-Roy : e.. e... gak kok
-Arif : dah lah jangan berantem.
-Arif : ini mau ngumpul dimana?
-Roy : di depan stasiun aja gimana?
-NAdia : boleh tuh
-Arif : Setuju nih
-ROy : oke ayok gas
-Nadia : aku mau ganti pakaian dulu, kalian duluan aja
-Arif : oke deh 
-Nadia : mau pulang dulu nih, bye
-Arif : Bye nad
-Roy : bye juga
+Roy 		: lu ikut juga, motor ku cuman muat 2 org.
+Nadia 		: kan aku bisa naik krl
+Roy 		: Waduh....
+Nadia 		: Kenapa ga senang kah aku ikut? (muka marah)
+Roy 		: e.. e... gak kok
+Arif 		: dah lah jangan berantem.
+Arif 		: ini mau ngumpul dimana?
+Roy 		: di depan stasiun aja gimana?
+NAdia 		: boleh tuh
+Arif 		: Setuju nih
+Roy 		: oke ayok gas
+Nadia 		: aku mau ganti pakaian dulu, kalian duluan aja
+Arif 		: oke deh 
+Nadia 		: mau pulang dulu nih, bye
+Arif 		: Bye nad
+Roy 		: bye juga
 
 (Arif dan Roy berangkat) (Sf : suara motor bunyi)
 
 ( jalan Raya ) (sf : Suara klakson mobil/motor)
-Roy : ahhh, malah macet.
-Arif : sabar roy
-roy : gimana mau sabar, dah macet terus panas lagi
-Arif : lah katanya tadi panas ma dah biasa
-Roy : iya, tapi ini beda loh rif
-Roy : weii. cepat dikit napa (Klakson motor)
-Arif : roy, keknya besok kalo kita mo ke mall naik kereta aja deh, biar ga panas kek gini
-Roy : iya sih rif, enakan naik kereta juga ya kalo dipikir pikir
-Arif : iya makanya.
-Roy : kapan kapan kita bahas lagi aja untuk ke mall di trip berikutnya
-arif : oke nih.
+Roy 		: ahhh, malah macet.
+Arif 		: sabar roy
+roy 		: gimana mau sabar, dah macet terus panas lagi
+Arif 		: lah katanya tadi panas ma dah biasa
+Roy 		: iya, tapi ini beda loh rif
+Roy 		: weii. cepat dikit napa (Klakson motor)
+Arif 		: roy, keknya besok kalo kita mo ke mall naik kereta aja deh, biar ga panas kek gini
+Roy 		: iya sih rif, enakan naik kereta juga ya kalo dipikir pikir
+Arif 		: iya makanya.
+Roy 		: kapan kapan kita bahas lagi aja untuk ke mall di trip berikutnya
+arif 		: oke nih.
 
 (Disii lain rumah nadia)
 
-Nadia : dah siap, saatnya berangkat
-Nadai : bu, nadia pergi dulu ya. mau ke mall bareng teman
-Ibu nadia : Hati hati ya
-Nadia : iya bu
+Nadia 		: dah siap, saatnya berangkat
+Nadai 		: bu, nadia pergi dulu ya. mau ke mall bareng teman
+Ibu nadia 	: Hati hati ya
+Nadia 		: iya bu
 
-- Nadia keluar (Sf : suara pintu ketutup)
+Nadia keluar (Sf : suara pintu ketutup)
 
-- Tidak lama kemudian nadia sampai ke tempat lokasi
+Tidak lama kemudian nadia sampai ke tempat lokasi
 
-Nadia : la la la la la ... Mereka dimana ya?
-Nadia : kok ga keliatan.
+Nadia 		: Mereka dimana ya?
+Nadia 		: kok ga keliatan.
 
 1 jam setelah nadia sampai
 
-Arif : maaf nad telat, tadi kami kena macet di jalan dipenegoro
-ROy : iya nih. lama bet soalnya
-Nadia : kalian sadar ga sih telat jam berapa?
-Arif : ya mo gimana lagi nad, macet terus panas lagi.
-Nadiia : makanya jangan pake motor, itu yanmg buat suhu di daerah kita naik gara gara polusi.
-Nadia : dah dibilangin tadi disekolah ga usah bawa motor, malah kabur
-Roy : eee.. iya nad maaf, aku ga bawa motor lagi deh baik ke sekolah maupun ke luar jalan jalan.
-Arif : hayolo dimarahin nadia. wkwkwkwk
-Roy : lah kamu kan bareng aku juga.
-Arif : kan cuman numpang. hahahah
-Nadia : awas ya kalo bawa motor
-Roy : iya iya, aku ga bawa 
-Nadia : oke jangan bawa motor untuk 3 bualn ya.
-Roy : huh!!!! 
-Arif : hahahaha
-Roy : lah kamu malah ketawa
-Arif : seru soalnya liatin kamu dimarahin sama cewek. hahaha
-Roy : teman macam apa kamu
-Nadia : udah lah, ntar coba aja ga usah bawa motor 3 bulan. nanti taun sendiri efeknya.
-Roy : iya nad
-Arif : Yok lanjut kita ke mall.
-Arif : ni waktu jalan terus loh
-Roy  : yok
-Nadia : ok
+Arif 		: maaf nad telat, tadi kami kena macet di jalan dipenegoro
+Roy 		: iya nih. lama bet soalnya
+Nadia 		: kalian sadar ga sih telat jam berapa?
+Arif 		: ya mo gimana lagi nad, macet terus panas lagi.
+Nadiia 		: makanya jangan pake motor, itu yanmg buat suhu di daerah kita naik gara gara polusi.
+Nadia 		: dah dibilangin tadi disekolah ga usah bawa motor, malah kabur
+Roy 		: eee.. iya nad maaf, aku ga bawa motor lagi deh baik ke sekolah maupun ke luar jalan jalan.
+Arif 		: hayolo dimarahin nadia. wkwkwkwk
+Roy 		: lah kamu kan bareng aku juga.
+Arif 		: kan cuman numpang. hahahah
+Nadia 		: awas ya kalo bawa motor
+Roy 		: iya iya, aku ga bawa 
+Nadia 		: oke jangan bawa motor untuk 3 bualn ya.
+Roy 		: huh!!!! 
+Arif 		: hahahaha
+Roy 		: lah kamu malah ketawa
+Arif 		: seru soalnya liatin kamu dimarahin sama cewek. hahaha
+Roy 		: teman macam apa kamu
+Nadia 		: udah lah, ntar coba aja ga usah bawa motor 3 bulan. nanti taun sendiri efeknya.
+Roy 		: iya nad
+Arif 		: Yok lanjut kita ke mall.
+Arif 		: ni waktu jalan terus loh
+Roy  		: yok
+Nadia 		: ok
 
-- mereka menghabiskan waktu seharian di mall
+mereka menghabiskan waktu seharian di mall
 Setelah selesai mereka pulang ke rumahnya masing masing.
 
-Arif : Halo
-Arif : Kenapa didalam sepi ya
-Arif : Ada orang di rumah?
-Kinan : kakak 
-Kinan : selamat malam kakak.
-Kinan : kakak kok baru pulang?
-Arif : tadi kakak pergi ke mall
-Kinan : ih kakak ke mall gak ngajak kinan
-Kinan : kinan sendirian dirumah tau
-Arif : hehehe, tadi kakak pulang sekolah langsung diajakin sama roy jalan ke mall
-Kinan : hmmm.. (ekspresi merem)
-Arif : heheh maaf ya, kaka ga ngabarin
-Kinan : kaka jahat, gak mau tau kaka harus buatin kinan makan malam 
-Arif : ya iya, kakak buatin tapi maafin kak
-Kinan : hmm (Sambil menganggunk)
+Arif 		: Halo
+Arif 		: Kenapa didalam sepi ya
+Arif 		: Ada orang di rumah?
+Kinan 		: kakak 
+Kinan 		: selamat malam kakak.
+Kinan 		: kakak kok baru pulang?
+Arif 		: tadi kakak pergi ke mall
+Kinan 		: ih kakak ke mall gak ngajak kinan
+Kinan 		: kinan sendirian dirumah tau
+Arif 		: hehehe, tadi kakak pulang sekolah langsung diajakin sama roy jalan ke mall
+Kinan 		: hmmm.. (ekspresi merem)
+Arif 		: heheh maaf ya, kaka ga ngabarin
+Kinan 		: kaka jahat, gak mau tau kaka harus buatin kinan makan malam 
+Arif 		: ya iya, kakak buatin tapi maafin kak
+Kinan 		: hmm (Sambil menganggunk)
 
 - Setelah itu arif membuat makan malam. dan mereka makan bersama.
 
-Kinan : akhirnya kenyang juga
-Kinan: masakan kakak emang enak
-Arif : hehehe, makasih
-Kinan : sama sama kakak
-Arif : kinan tidur lagi ya
-Kinan : gak mau sebelum kakak bacain cerita
-Arif : heee
-Kinan : Harus cerita baru kinan mau tidur
-Arif : kakak ga tau mau cerita apa
-Kinan : terserah kakak, yang penting kakak ceritain sesuatu terus baru kinan mau tidur
-Arif : hmmm... ya udah, kinan kinan ke kamar dulu, nanti kaka ceritain sesuatu
-Kinan : yeeee, sayang kakak
+Kinan 		: akhirnya kenyang juga
+Kinan		: masakan kakak emang enak
+Arif 		: hehehe, makasih
+Kinan 		: sama sama kakak
+Arif 		: kinan tidur lagi ya
+Kinan 		: gak mau sebelum kakak bacain cerita
+Arif 		: heee
+Kinan 		: Harus cerita baru kinan mau tidur
+Arif 		: kakak ga tau mau cerita apa
+Kinan 		: terserah kakak, yang penting kakak ceritain sesuatu terus baru kinan mau tidur
+Arif 		: hmmm... ya udah, kinan kinan ke kamar dulu, nanti kaka ceritain sesuatu
+Kinan 		: yeeee, sayang kakak
 
 (Kamar Kinan)
 
-Arif : ayok tidur dikasur dulu
-Kinan : oke kaka
-Kinan : ceritanya yang bagus ya
-Arif : iya
-Arif, kakak mulai nih
-Kinan : siap
+Arif 		: ayok tidur dikasur dulu
+Kinan 		: oke kaka
+Kinan 		: ceritanya yang bagus ya
+Arif 		: iya
+Arif		: kakak mulai nih
+Kinan 		: siap
 Arif : ...... (Masih dalam proses)
 
 
 
 
-Arif : Sudah tidur ternyata
-Arif : aku harus belajar nih.
+Arif 		: Sudah tidur ternyata
+Arif 		: aku harus belajar nih.
 
 (Arif keluar kamar kinan) (Se : suara pintu )
-Arif : banyak pelajaran yang diambil tadi disekolah
-Arif : lumayan buat nambah ilmu
-Arif : tentang rumah kaca, kenapa gak kuterapin juga pada diriku ya
-Arif : mana tau membantu juga
-Arif : tapi ngelakuin apa ya?
+Arif 		: banyak pelajaran yang diambil tadi disekolah
+Arif 		: lumayan buat nambah ilmu
+Arif		: tentang rumah kaca, kenapa gak kuterapin juga pada diriku ya
+Arif 		: mana tau membantu juga
+Arif 		: tapi ngelakuin apa ya?
 
-- Setaelah arif belajar, arif langsung ke kamarnya dan tidur
+Setaelah arif belajar, arif langsung ke kamarnya dan tidur
 
 semenjak kejadian naiknys suhu di kota sejuk, Banyak para siswa sadar betapa bahayanya asap kendaraan bermotor
 yang asapnya sangat berbahaya dan berpotensi terjadinya efek rumah kaca, roy yang selalu ditegur nadia dan arif 
 pun sekarang sudah berjalan kaki ke sekolah. 6 bulan lebih  kemudian mereka jalani untuk mengurangi gas rumah kaca
 pada suatu hari disekolah
 
-Arif : udah 6 bualn nih banyak siswa disekolah kita ga bawa motor ke sekolah
-Kinan : iya nih, termasuk roy juga
-Roy : hehehe
-Roy : ngomongin itu, suhu sekarang dikota kita udah lumayan loh
-Roy : yang sebelumnya 35 derajat sekarang udah jadi 29 derajat
-Kinan : nah kan, luamyan sejuk kan jadinya.
-Kinan : walaupun itu hal yang sepele, tetapi efeknya akan kita rasakan pada masa yang akan datang
-Arif : untung ditegur terus sama kinan, kalo ga dah pasti bawa motor terus ke sekolah
-Arif : ga disekolah aja mungkin, di luar juga kan
-Roy : he he he...(Ketawa kecil)
+Arif 		: udah 6 bualn nih banyak siswa disekolah kita ga bawa motor ke sekolah
+Kinan 		: iya nih, termasuk roy juga
+Roy 		: hehehe
+Roy 		: ngomongin itu, suhu sekarang dikota kita udah lumayan loh
+Roy 		: yang sebelumnya 35 derajat sekarang udah jadi 29 derajat
+Kinan 		: nah kan, luamyan sejuk kan jadinya.
+Kinan 		: walaupun itu hal yang sepele, tetapi efeknya akan kita rasakan pada masa yang akan datang
+Arif 		: untung ditegur terus sama kinan, kalo ga dah pasti bawa motor terus ke sekolah
+Arif 		: ga disekolah aja mungkin, di luar juga kan
+Roy 		: he he he...(Ketawa kecil)
 
 Pesan :
 hal yang ada disekitar kita walaupun itu hal kecil bisa mendatangkan suatu efek kepada kita
@@ -377,3 +381,5 @@ maka sedikit demi sedkit Pembakaran bahan bakar kendaraan bermotor ini menghasil
 karbonmonoksida (CO), karbondioksida (CO2), dan uap air (H2O). inilah yang akan membuat suhu bumi menjadi panas
 jadi mari sams sama kita basmi dampak efek rumah kaca. :)
 Stay safe for our health
+
+The End
