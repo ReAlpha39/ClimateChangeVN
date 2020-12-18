@@ -9,7 +9,7 @@ diperkirakan suhu naik menjadi 35 derajat celcius. lalu lintas sekarang terlihat
 	Memikirkan kinan
 (000)Arif		: apakah kinan sudah bangun ya?
 	(Akupun pergi ke kamar kinan) (sf : mengetuk pintu)
-(000)Arif		: Kinan, 
+(000)Arif		: Kinan
 	(sf : mengetuk pintu)
 (000)Arif		: Aku masuk ya.
 (000)Arif		: Ayo bangun, sudah pagi ni
@@ -22,20 +22,21 @@ diperkirakan suhu naik menjadi 35 derajat celcius. lalu lintas sekarang terlihat
 				  2. Eh kinan, mandi dulu sana.
 
 (pilihan 1) 
-(001)Kinan		: heeehhh. buat apa buka jendela?, AC kan lebih dingin, kalo buka jendela jadi panas kaka. kinan ga mau,ntar kepanasan. hehehe (ngeledek)
-arif 		: Hmmmmm.(ekspresi merajuk)
-(001)Kinan		: Iya kaka, nanti kinan bukain, kinan mau mandi dulu.
+(004)Kinan		: heeehhh. buat apa buka jendela?, AC kan lebih dingin, kalo buka jendela jadi panas kaka. kinan ga mau,ntar kepanasan. hehehe (ngeledek)
+(000)Arif 		: Hmmmmm.(ekspresi merajuk)
+(005)Kinan		: Iya kaka, nanti kinan bukain, kinan mau mandi dulu.
 (pilihan 2)
-Kinan 		: gak, kinan malas mandi. mau ditempat tidur aja seharian. :) hehehe (ngeledek)
-Arif  		: Hmmmmm.(ekspresi merajuk)
-Kinan 		: iya kaka. kakak juga jangan lupa mandi, bau tau :D (senang usil)
+(006)Kinan 		: gak, kinan malas mandi. mau ditempat tidur aja seharian. :) hehehe (ngeledek)
+(000)Arif  		: Hmmmmm.(ekspresi merajuk)
+(007)Kinan 		: iya kaka. kakak juga jangan lupa mandi, bau tau :D (senang usil)
 
 (kinan menuju toilet)
-arif   		: Jangan lupa nanti buka jendelanya
-Kinan  		: siap kaka
+(000)arif   		: Jangan lupa nanti buka jendelanya
+(008)Kinan  		: siap kaka
 
-(Selang beberapa menit, kinan keluar dari toilet dan langsung mengganti pakaiannya.)
-(Diruang tamu)
+(Selang beberapa menit, Adikku keluar dari toilet dan langsung mengganti pakaiannya.)
+(Aku berada di ruang tamu)
+(Tiba tiba Adikku menghampiriku)
 Kinan 		: Buat apa sih buka jendela kaka? kan lebih enak ditutup aja terus hidupin ac biar dingin.
 Arif  		: kinana tau beruang dikutub?
 kinan 		: tau lah, kan kinan suka sama beruang. hehehe
@@ -44,12 +45,12 @@ kinan 		: ga mau ah. ntar beruangnya bisa mati, kinan kan jadi sedih (murung)
 arif  		: kalo kinan sedih berarti kinan dah tau kan apa yg harus dilakukan?
 kinan 		: oke kak, kinan buka jendelanya dulu.
 
-(Saat kinan membuka jendela, arif langsung pergi ke Dapur untuk menyiapkan bekal)
-Arif 		: hari ini kayaknya buat roti aja paling ya.
-(Beberapa menit kemudian, roti pun sudah jadi)
+(Saat Adikku membuka jendela, Akulangsung pergi ke Dapur untuk menyiapkan bekal)
+Arif 		: hari ini kayaknya buat roti bakar aja paling ya.
+(Beberapa menit kemudian, roti bakar pun sduah jadi)
 Arif 		: Akhirnya sudah jadi 
 
-
+()
 kinan 		: Ayo kak kita berangkat bareng.
 arif  		: iya iya, semangat sekali kinan.
 kinan 		: hehehe (Raut wajah gembira)
