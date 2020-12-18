@@ -20,7 +20,7 @@ monogatari.script({
         "kinan 5 menit lagi kak...",
         "arif Eh jangan gitu, adek kan sudah besar, harus bangun pagi dong biar sehat",
         "play voice 003",
-        "kinan Iya kak..",
+        "kinan Iya kaka..",
         "Kinan bangun dari tempat tidurnya.",
         {
             'Choice': {
@@ -39,7 +39,7 @@ monogatari.script({
 
     'buka_jendela': [
         "play voice 004",
-        "kinan heeeehh.. buat apa buka jendela? AC kan lebih dingin, kalau jendelanya dibuka kan jadi panas.." +
+        "kinan heeeehh.. buat apa buka jendela? AC kan lebih dingin, kalau jendelanya dibuka kan jadi panas kaka.." +
         " kinan ngga mau, ntar kepanasan.",
         "arif hhhhmmmmm.",
         "play voice 005",
