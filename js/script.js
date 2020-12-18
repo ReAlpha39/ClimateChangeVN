@@ -55,7 +55,9 @@ monogatari.assets ('voices', {
 
 // Define the sounds used in the game.
 monogatari.assets ('sounds', {
-
+	'door_open': 'SE_buka_pintu.mp3',
+	'door_knock': 'SE_ketuk_pintu.mp3',
+	'door_close': 'SE_tutup_pintu.mp3'
 });
 
 // Define the videos used in the game.
