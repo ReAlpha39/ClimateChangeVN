@@ -1,14 +1,15 @@
 monogatari.script({
     // Part one
     'PartOne': [
-        "Reporter Tinjauan keadaan cuaca pada hari ini menunjukkan keadaan cuaca cerah di kota" +
+        "Reporter Tinjauan keadaan cuaca pada hari ini menunjukkan keadaan cuaca cerah di kota " +
         "diperkirakan suhu naik menjadi 32 derajat celcius. lalu lintas sekarang terlihat macet di sepanjang jalan",
         "arif Huaaaaaahhh...",
         "aku membuka mataku yang terpapar sinar mentari pagi.",
         "arif Wah pagi yang cerah.",
-        "Matikan AC dan buka jendela rumah.",
+        "arif Tapi kok lebih panas ya dari kemaren.",
+        "arif Matikan Ac dulu lah, sekalian buka jendela.",
         "Hmmm apakah kinan sudah bangun?",
-        "Line 9",
+        //"Line 9",
         "play sound door_open",
         "arif Kinan, Kinan.",
         "arif Ayo bangun, sudah pagi ni.",
@@ -63,7 +64,7 @@ monogatari.script({
         "kinan Ngga mau ah. Ntar beruangnya bisa mati, kinan kan jadi sedih.",
         "arif Kalo kinan sedih berarti Kinan sudah tau kan apa yang harus dilakuin?",
         "kinan (Note: klo cuma buka jendela sama aja boong) Oke kak, Kinan buka jendela dulu.",
-        "Line 43",
+        //"Line 43",
         "arif Hari ini kayanya buat roti bakar aja paling ya.",
         "Setelah beberapa menit membuat roti bakar.",
         "arif Akhirnya sudah jadi.",
@@ -73,7 +74,7 @@ monogatari.script({
         "arif Nih bekal buat mu nanti di sekolah.",
         "kinan Makasih kak",
         "(Need to change) Mereka berangkat ke sekola bersama - sama",
-        "(sfx menutup pintu)",
+        "(sfx close_door)",
         "end"
         //"jump partTwo"
     ]
