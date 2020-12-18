@@ -9,7 +9,7 @@ monogatari.script({
         "Matikan AC dan buka jendela rumah.",
         "Hmmm apakah kinan sudah bangun?",
         "Line 9",
-        "play sound open_door",
+        "play sound door_open",
         "arif Kinan, Kinan.",
         "arif Ayo bangun, sudah pagi ni.",
         "kinan huuuuhhh..",
