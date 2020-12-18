@@ -131,6 +131,6 @@ monogatari.characters ({
 monogatari.script ({
 	// The game starts here.
 	'Start': [
-		'jump partOne',
+		'jump PartOne',
 	]
 });
