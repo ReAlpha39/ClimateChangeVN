@@ -70,6 +70,8 @@ monogatari.script({
         "kinan Ayo kak kita berangkat bareng.",
         "arif Iya iya, semangat sekali Kinan.",
         "kinan Hehehe.. (Note: Raut wajah gembira)",
+        "arif Nih bekal buat mu nanti di sekolah.",
+        "kinan Makasih kak",
         "(Need to change) Mereka berangkat ke sekola bersama - sama",
         "(sfx menutup pintu)",
         "jump partTwo"
