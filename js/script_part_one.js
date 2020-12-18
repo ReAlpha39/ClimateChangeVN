@@ -1,7 +1,7 @@
 monogatari.script({
     // Part one
     'PartOne': [
-        "Reporter Tinjauan keadaan cuaca pada hari ini menunjukkan keadaan cuaca cerah di kota " +
+        "reporter Tinjauan keadaan cuaca pada hari ini menunjukkan keadaan cuaca cerah di kota " +
         "diperkirakan suhu naik menjadi 32 derajat celcius. lalu lintas sekarang terlihat macet di sepanjang jalan",
         "arif Huaaaaaahhh...",
         "aku membuka mataku yang terpapar sinar mentari pagi.",
