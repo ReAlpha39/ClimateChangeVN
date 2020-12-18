@@ -131,67 +131,6 @@ monogatari.characters ({
 monogatari.script ({
 	// The game starts here.
 	'Start': [
-		'show scene school',
-		'show notification Welcome',
-		{
-			'Input': {
-				'Text': 'What is your name?',
-				'Validation': function (input) {
-					return input.trim ().length > 0;
-				},
-				'Save': function (input) {
-					this.storage ({
-						player: {
-							name: input
-						}
-					});
-					return true;
-				},
-				'Revert': function () {
-					this.storage ({
-						player: {
-							name: ''
-						}
-					});
-				},
-				'Warning': 'You must enter a name!'
-			}
-		},
-		'show character arif normal at left',
-		'show character nadia normal',
-		'show character roy normal at right',
-		'play music morning',
-		'arif Good Morning {{player.name}}',
-		{
-			'Choice': {
-				'Dialog': 'arif Have you already read some documentation?',
-				'Yes': {
-					'Text': 'Yes',
-					'Do': 'jump Yes'
-				},
-				'No': {
-					'Text': 'No',
-					'Do': 'jump No'
-				}
-			}
-		}
-	],
-
-	'Yes': [
-		'arif Thats awesome!',
-		'arif Then you are ready to go ahead and create an amazing Game!',
-		'arif I can’t wait to see what story you’ll tell!',
-		'end'
-	],
-
-	'No': [
-
-		'umi You can do it now.',
-
-		'show message Help',
-
-		'umi Go ahead and create an amazing Game!',
-		'umi I can’t wait to see what story you’ll tell!',
-		'end'
+		'jump partOne',
 	]
 });
