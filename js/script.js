@@ -49,8 +49,20 @@ monogatari.assets ('music', {
 
 // Define the voice files used in the game.
 monogatari.assets ('voices', {
-	'dialog_01': '13.ogg'
-
+	'001': '001.mp3',
+	'002': '002.mp3',
+	'003': '003.mp3',
+	'004': '004.mp3',
+	'005': '005.mp3',
+	'006': '006.mp3',
+	'007': '007.mp3',
+	'008': '008.mp3',
+	'009': '009.mp3',
+	'010': '010.mp3',
+	'011': '011.mp3',
+	'012': '012.mp3',
+	'013': '013.mp3',
+	'014': '014.mp3',
 });
 
 // Define the sounds used in the game.
