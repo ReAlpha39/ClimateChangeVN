@@ -76,8 +76,8 @@ monogatari.script({
         "terhadap permukaan bumi atau yang kita kenal dengan pemanasan global.",
         "Pak Andi pun menjelaskan materinya kepada kami.",
         "Saking asiknya belajar bersama pak andi, tanpa sadar bel istirahat pun berbunyi.",
-        "end"
-        //"jump PartFour"
+        "end",
+        "jump PartFour"
     ]
 
 });
