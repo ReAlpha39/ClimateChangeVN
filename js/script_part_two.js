@@ -87,7 +87,7 @@ monogatari.script({
         "arif Gapapa nih?",
         //"play voice 028",
         "roy Ya gapapa.",
-        "jump  partTwoCont_Two"
+        "jump partTwoCont_Two"
     ],
 
     'partTwoCont_Two': [
