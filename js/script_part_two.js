@@ -103,7 +103,7 @@ monogatari.script({
         "play voice 031",
         "nadia Eh ada Arif sama Roy, pagi juga.",
         //"play voice 032",
-        "roy agi Nadia.",
+        "roy Pagi Nadia.",
         "play voice 033",
         "nadia Sejak kapan kamu bawa motor ke sekolah sih Roy?",
         //"play voice 034",
