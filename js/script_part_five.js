@@ -52,7 +52,7 @@ monogatari.script({
         "nadia Ok.",
         //(Aku dan teman teman ku menghabiskan waktu seharian di mall)
         //(Tak sadar hari sudah mulai gelap, kami pun pulang kerumah masing masing.)
-        "end"
+        "jump PartSix"
     ]
 
 });
