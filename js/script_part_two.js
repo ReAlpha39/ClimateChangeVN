@@ -116,7 +116,6 @@ monogatari.script({
         "arif Oalah. kirain kenapa.", //Ngga peka emng v:
         "nadia dah keburu telat nih, ayok cepat",
         "arif Oke",
-        "end"
-        //"jump PartThree"
+        "jump PartThree"
     ]
 });

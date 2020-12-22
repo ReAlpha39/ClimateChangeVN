@@ -137,6 +137,14 @@ monogatari.characters ({
 
 	'reporter': {
 		name: 'Reporter'
+	},
+
+	'siswaOne': {
+		name: 'Siswa 1'
+	},
+
+	'siswaTwo': {
+		name: 'Siswa 2'
 	}
 });
 
