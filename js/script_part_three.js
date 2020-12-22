@@ -2,44 +2,44 @@ monogatari.script({
     // Scene Sekolah
     'PartThree': [
         //sfx open door
-        "play voice 049",
+        //"play voice 049",
         "siswaOne Hey.", //Rada aneh, knpa ngga
-        "play voice 050",
+        //"play voice 050",
         "siswaTwo Halo.",//kek biasa aja seperti "Pagi"?
-        "play voice 051",
+        //"play voice 051",
         "siswaOne Ngomong ngomong, Kalian tau nggak " +
         "kalo skrng di daerah kita sudah terlalu panas?",
-        "play voice 052",
+        //"play voice 052",
         "siswaTwo Ya nih, aku juga ngerasa begitu.",
-        "play voice 053",
+        //"play voice 053",
         "siswaOne Dulu kan daerah kita dingin ya.", //Dulu? tahun brpa? lul
-        "play voice 054",
+        //"play voice 054",
         "siswaTwo Iya, dulu itu bisa sampe 18-25 derajat aja, "+
         "skrng saya dengar berita pagi tadi malah suhunya 35 derajat.",
-        "play voice 055",
+        //"play voice 055",
         "siswaOne Serius lu?",
-        "play voice 056",
+        //"play voice 056",
         "siswaTwo Iya serius.",
-        "play voice 057",
+        //"play voice 057",
         "siswaOne Apa jangan jangan di daerah kita banyak yang "+
         "make kendaraan makanya jadi panas ya.",
-        "play voice 058",
+        //"play voice 058",
         "siswaTwo Bisa jadi sih.",
-        "play voice 059",
+        //"play voice 059",
         "siswaOne Waduh aku kesini malah bawa sepeda motor loh.",
-        "play voice 060",
+        //"play voice 060",
         "siswaTwo Besok jangan bawa deh coba untuk 1 bulan dulu. "+
         "Biar kita bareng gitu pergi ke sekolah jalan kaki.",
-        "play voice 061",
+        //"play voice 061",
         "siswaOne Oke siap.",
-        "play voice 062",
+        //"play voice 062",
         "nadia Tuh dengerin gak yg teman lain bilang?",
-        "play voice 063",
+        //"play voice 063",
         "roy Ah bodoh lah, aku mah santai aja. panas kek gini mah biasa.",
         "arif Gak usah gitu lah Roy, ntar nambah panas lagi kalo kamu bawa motor.",
         "play voice 064",
         "nadia Betul tuh roy.",
-        "play voice 065",
+        //"play voice 065",
         "roy Dah lah. Bahas topik lain ngapa?", //(Ngotot)
         //sfx buka pintu
         //Andi sensei masuk kelas.
