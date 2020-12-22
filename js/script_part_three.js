@@ -108,7 +108,6 @@ monogatari.script({
         //"play voice 079",
         "Pak Andi pun menjelaskan materinya kepada kami.",
         "Saking asiknya belajar bersama pak andi, tanpa sadar bel istirahat pun berbunyi.",
-        "end",
         "jump PartFour"
     ]
 
