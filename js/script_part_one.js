@@ -87,6 +87,7 @@ monogatari.script({
         "play voice 014",
         "kinan Hehehe..",
         "arif Nih bekal buat mu nanti di sekolah.",
+        "play voice 015",
         "kinan Makasih kak",
         "(Need to change) Mereka berangkat ke sekola bersama - sama",
         "(sfx close_door)",
