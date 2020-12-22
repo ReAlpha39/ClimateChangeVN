@@ -98,7 +98,7 @@ monogatari.script({
         "nadia Mau pulang dulu nih, bye.",
         "arif Bye Nad.",
         "roy Bye juga.",
-        "end"
+        "jump PartFive"
     ]
 
 });

@@ -145,7 +145,11 @@ monogatari.characters ({
 
 	'siswaTwo': {
 		name: 'Siswa 2'
-	}
+	},
+
+	'ibuNadia': {
+		name: 'Ibu Nadia'
+	},
 });
 
 monogatari.script ({
