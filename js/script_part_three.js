@@ -32,7 +32,7 @@ monogatari.script({
         "Biar kita bareng gitu pergi ke sekolah jalan kaki.",
         //"play voice 061",
         "siswaOne Oke siap.",
-        //"play voice 062",
+        "play voice 062",
         "nadia Tuh dengerin gak yg teman lain bilang?",
         //"play voice 063",
         "roy Ah bodoh lah, aku mah santai aja. panas kek gini mah biasa.",
@@ -43,22 +43,22 @@ monogatari.script({
         "roy Dah lah. Bahas topik lain ngapa?", //(Ngotot)
         //sfx buka pintu
         //Andi sensei masuk kelas.
-        "play voice 066",
+        //"play voice 066",
         "p_andi Selamat pagi semua.",
-        "play voice 067",
+        //"play voice 067",
         "p_andi Pagi ini kita akan mnmperdalam materi tentang rumah kaca.",
-        "play voice 068",
+        //"play voice 068",
         "p_andi Sebelum masuk ke materi, disini bapak bakal mengulang materi minggu kemaren.",
-        "play voice 069",
+        //"play voice 069",
         "p_andi Bapak akan memberikan 1 pertanyaan buat kelas ini sebelum masuk ke materi.",
-        "play voice 070",
+        //"play voice 070",
         "p_andi Pertanyaannya adalah Efek rumah kaca disebabkan oleh "+
         "meningkatnya emisi gas. Apa saja gas tersebut?",
         //Improvisasi Line 180
         "Tidak ada seseorang pun yang menjawab.", //typical murid
-        "play voice 071",
+        //"play voice 071",
         "p_andi Kok diam nih, ok saya tunjuk aja ya orangnya.", //typical guru
-        "play voice 072",
+        //"play voice 072",
         "p_andi Ya Arif, silahkan dijawab.",
         {
             'Choice': {
@@ -77,7 +77,7 @@ monogatari.script({
 
     'partThree_One': [
         "arif CO2 (Karbon dioksida).",
-        "play voice 073",
+        //"play voice 073",
         "p_andi Yup betul sekali, tidak hanya senyawa CO2 "+
         "tetapi ada juga gas lain ada yang tau?",
         "jump partThreeCont"
@@ -86,7 +86,7 @@ monogatari.script({
     'partThree_Two': [
         "arif NO2 (nitrogen dioksida)",
         //harusnya "Jawabannya kurang tepat" biar halus gitu
-        "play voice 074",
+        //"play voice 074",
         "p_andi jawabannya salah, ada yang tau gas apa saja?",
         "jump partThreeCont"
     ],
@@ -94,19 +94,19 @@ monogatari.script({
     'partThreeCont': [
         "play voice 075",
         "Nadia mengangkat tangannya.",
-        "play voice 076",
+        //"play voice 076",
         "p_andi Ya nadia, silahkan dijawab.",
         "play voice 077",
         "nadia Efek rumah kaca disebabkan oleh meningkatnya emisi "+
         "gas-gas seperti karbondioksida, metana, dinitrooksida, dan CFC "+
         "atau chlorofluorocarbons.",
-        "play voice 078",
+        //"play voice 078",
         "p_andi Yup tepat sekali, gas gas itulah nanti yang membuat energi "+
         "matahari terperangkap dalam atmosfer bumi.",
-        "play voice 079",
+        //"play voice 079",
         "p_andi Sehingga akan meningkatkan efek pemanasan tambahan "+
         "terhadap permukaan bumi atau yang kita kenal dengan pemanasan global.",
-        "play voice 080",
+        //"play voice 080",
         "Pak Andi pun menjelaskan materinya kepada kami.",
         "Saking asiknya belajar bersama pak andi, tanpa sadar bel istirahat pun berbunyi.",
         "end",
