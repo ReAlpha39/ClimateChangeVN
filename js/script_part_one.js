@@ -90,8 +90,7 @@ monogatari.script({
         "kinan Makasih kak",
         "(Need to change) Mereka berangkat ke sekola bersama - sama",
         "(sfx close_door)",
-        "end"
-        //"jump partTwo"
+        "jump partTwo"
     ]
 
 });
