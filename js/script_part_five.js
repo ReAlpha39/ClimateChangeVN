@@ -3,10 +3,10 @@ monogatari.script({
     //sfx motor bunyi
     //sfx klakson
     'PartFive': [
-        "play voice 106",
+        "play voice 105",
         "roy Ahh, malah macet.",
         "arif Sabar Roy.",
-        "play voice 107",
+        "play voice 106",
         "roy Gimana mau sabar, dah macet terus panas lagi.",
         "arif Lah katanya tadi panas ma dah biasa.",
         "play voice 107",
