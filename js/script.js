@@ -271,7 +271,9 @@ monogatari.characters ({
 		name: 'Pak Andi',
 		directory: 'Pak_Andi',
 		sprites: {
-			normal: 'half_pak_andi.png'
+			normal: 'normal_pakandi.png',
+			bicara: 'bicara_pakandi.png',
+			senang: 'senang_pakandi.png'
 		}
 	},
 
