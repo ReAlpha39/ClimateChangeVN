@@ -3,20 +3,20 @@ monogatari.script({
     'PartFour': [
         "Hiruyasumi",
         "arif Makan bareng yok Roy",
-        "play voice 080",
+        "play voice 079",
         "roy Ayok lah.",
-        "play voice 081",
+        "play voice 080",
         "roy Ikut ngga Nad?",
-        "play voice 082",
+        "play voice 081",
         "nadia Boleh.",
         //Aku, Nadia, dan Roy pergi ke kantin.
         "Setelah itu kami pun makan siang dan mengikuti pelajaran hingga akhir",
         //bell sekolah
         //Tak lama kemudian roy tiba tiba menghampiri ku.
-        "play voice 083",
+        "play voice 082",
         "roy Rif, mau ikut ga nih?",
         "arif Kemana?",
-        "play voice 084",
+        "play voice 083",
         "roy Biasa ngabisin waktu lah.",
         {
             'Choice': {
@@ -35,10 +35,10 @@ monogatari.script({
 
     'partFour_One': [
         "arif Boleh nih.",
-        "play voice 085",
+        "play voice 084",
         "roy Ada rekomendasi ngga?",
         "arif Ke Mall gimana?",
-        "play voice 086",
+        "play voice 085",
         "roy Boleh nih. Bareng aja ya kita ntar.",
         "arif Oke sip.",
         "jump partFourCont"
@@ -46,10 +46,10 @@ monogatari.script({
 
     'partFour_Two': [
         "arif Hmmm, keknya ga deh.",
-        "play voice 087",
+        "play voice 086",
         "roy Gue ga ada teman nih Rif, temenin dong.",
         "arif Gimana ya?",
-        "play voice 088",
+        "play voice 087",
         "roy Ayolah kita ke mall ngabisin waktu, ntar ku bayarin dah.",
         //Impro "Eee.. oke deh."
         "arif hmm... ges kan",
@@ -58,10 +58,10 @@ monogatari.script({
 
     'partFourCont': [
         //Nadia datang menghampiri ku dan Roy.
-        "play voice 089",
+        "play voice 088",
         "nadia Kalian pada bahas apa nih?",
         "arif Mau ngabisin waktu nih, dari pada ngga ada kerjaan dirumah.",
-        "play voice 090",
+        "play voice 089",
         "nadia Emangnya pada mau ngabisin waktu dimana?",
         {
             'Choice': {
@@ -80,49 +80,49 @@ monogatari.script({
 
     'partFour_Three': [
         "arif ini mau pergi ke mall, mau ikut gak Nad?",
-        "play voice 091",
+        "play voice 090",
         "nadia Ayo, mumpung ga ada tugas dari guru nih.",
         "jump partFourContTwo"
     ],
 
     'partFour_Four': [
         "arif Mmm...",
-        "play voice 092",
+        "play voice 091",
         "nadia Gimana kalo kita ke mall aja?",
-        "play voice 093",
+        "play voice 092",
         "roy E... Iya sih kita juga rencana mau ke mall.",
-        "play voice 094",
+        "play voice 093",
         "nadia Aku ikut ya. Hehe...",
         "jump partFourContTwo"
     ],
 
     'partFourContTwo': [
-        "play voice 095",
+        "play voice 094",
         "roy Lu ikut juga, motor ku cuman muat 2 org.",
-        "play voice 096",
+        "play voice 095",
         "nadia Kan aku bisa naik KRL.",
-        "play voice 097",
+        "play voice 096",
         "roy Waduh...",
-        "play voice 098",
+        "play voice 096",
         "nadia Kenapa ga senang kah aku ikut?", //(muka marah)
-        "play voice 099",
+        "play voice 097",
         "roy E.. e... gak kok.",
         "arif Dah lah jangan berantem.",
         "arif Ini mau ngumpul dimana?",
-        "play voice 100",
+        "play voice 098",
         "roy Di depan stasiun aja gimana?",
-        "play voice 101",
+        "play voice 099",
         "nadia Boleh tuh.",
         "arif Setuju nih.",
-        "play voice 102",
+        "play voice 100",
         "roy Oke ayok gas.",
-        "play voice 103",
+        "play voice 101",
         "nadia Aku mau ganti pakaian dulu, kalian duluan aja.",
         "arif Oke deh.",
-        "play voice 104",
+        "play voice 102",
         "nadia Mau pulang dulu nih, bye.",
         "arif Bye Nad.",
-        "play voice 105",
+        "play voice 103",
         "roy Bye juga.",
         "jump PartFive"
     ]
