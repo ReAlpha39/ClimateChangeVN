@@ -250,7 +250,20 @@ monogatari.characters ({
 		name: 'Nadia',
 		directory: 'Nadia',
 		sprites: {
-			normal: 'half_nadia.png'
+			bebasNormal: 'normal_nadiabebas.png',
+			sekolahNormal: 'normal_nadiasekolah.png',
+			bebasBicara: 'bicara_nadiabebas.png',
+			sekolahBicara: 'bicara_nadiasekolah.png',
+			bebasGembira: 'gembira_nadiabebas.png',
+			sekolahGembira: 'gembira_nadiasekolah.png',
+			sekolahKaget: 'kaget_nadiasekolah.png',
+			sekolahMalu: 'malu_nadiasekolah.png',
+			bebasMarah: 'marah_nadiabebas.png',
+			sekolahMarah: 'marah_nadiasekolah.png',
+			bebasSenang: 'senang_nadiabebas.png',
+			sekolahSenang: 'senang_nadiasekolah.png',
+			bebasSenyum: 'senyum_nadiabebas.png',
+			sekolahSenyum: 'senyum_nadiasekolah.png'
 		}
 	},
 
