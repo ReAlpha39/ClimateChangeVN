@@ -9,9 +9,10 @@ monogatari.script({
         "arif Tapi kok lebih panas ya dari kemaren.",
         "arif Matikan Ac dulu lah, sekalian buka jendela.",
         "Hmmm apakah kinan sudah bangun?",
-        //"Line 9",
-        "play sound door_open",
         "arif Kinan, Kinan.",
+        "play sound door_knock",
+        "arif Aku masuk ya..",
+        "play sound door_open",
         "arif Ayo bangun, sudah pagi ni.",
         "play voice 001",
         "kinan huuuuhhh..",
@@ -20,6 +21,7 @@ monogatari.script({
         "kinan 5 menit lagi kak...",
         "arif Eh jangan gitu, adek kan sudah besar, harus bangun pagi dong biar sehat",
         "play voice 003",
+        "show character kinan piyamaNgantuk center with fadeInUp",
         "kinan Iya kaka..",
         "Kinan bangun dari tempat tidurnya.",
         {
@@ -38,19 +40,23 @@ monogatari.script({
     ],
 
     'buka_jendela': [
+        "show character kinan piyamaMeledek center with fadeIn",
         "play voice 004",
         "kinan heeeehh.. buat apa buka jendela? AC kan lebih dingin, kalau jendelanya dibuka kan jadi panas kaka.." +
         " kinan ngga mau, ntar kepanasan.",
         "arif hhhhmmmmm.",
+        "show character kinan piyamaSenang  with fadeIn",
         "play voice 005",
         "kinan Iya kak, nanti kinan buka-in, kinan mau mandi dulu.",
         "jump partOneCont"
     ],
 
     'mandi': [
+        "show character kinan piyamaMeledek with fadeIn",
         "play voice 006",
         "kinan Gak, kinan malas mandi, mau mager aja seharian tehe.",
         "arif hhhmmmmmm",
+        "show character kinan piyamaSenang with fadeIn",
         "play voice 007",
         "kinan Iya kak, kakak juga jangan lupa mandi, bau tau..",
         "jump partOneCont"
@@ -59,21 +65,26 @@ monogatari.script({
     'partOneCont': [
         "Kinan pun berjalan menuju kamar mandi.",
         "arif Jangan lupa nanti buka jendela kamarmu ya.",
+        "show character kinan piyamaBicara with fadeIn end-fadeOut",
         "play voice 008",
         "kinan Siap kak.",
-        "Line 33",
+        //"Line 33",
+        //"show character kinan piyamaBicara",
         "play voice 009",
         "kinan Buat apa sih buka jendela kaka? kan lebih enak ditutup aja terus " +
         "dihidupin ac biar dingin.",
         "arif Kinan tau beruang di kutub?",
+        //"show character kinan",
         "play voice 010",
         "kinan Tau lah, kan kinan suka sama beruang. hehehe..",
         "arif Kalo Kinan gunakan AC terus menerus kasihan beruang di Kutub, " +
         "nanti es nya mencair tidak ngga ada tempat tinggal beruangnya. " +
         "mau liat beruangnya sedih ngga ada punya tempat tinggal lagi?",
+        //"show character kinan ",
         "play voice 011",
         "kinan Ngga mau ah. Ntar beruangnya bisa mati, kinan kan jadi sedih.",
         "arif Kalo kinan sedih berarti Kinan sudah tau kan apa yang harus dilakuin?",
+        //"show character kinan ",
         "play voice 012",
         //(Note: klo cuma buka jendela sama aja boong)
         "kinan Oke kak, Kinan buka jendela dulu.",
@@ -81,12 +92,15 @@ monogatari.script({
         "arif Hari ini kayanya buat roti bakar aja paling ya.",
         "Setelah beberapa menit membuat roti bakar.",
         "arif Akhirnya sudah jadi.",
+        //"show character kinan ",
         "play voice 013",
         "kinan Ayo kak kita berangkat bareng.",
         "arif Iya iya, semangat sekali Kinan.",
+        //"show character kinan ",
         "play voice 014",
         "kinan Hehehe..",
         "arif Nih bekal buat mu nanti di sekolah.",
+        //"show character kinan ",
         "play voice 015",
         "kinan Makasih kak",
         "(Need to change) Mereka berangkat ke sekola bersama - sama",

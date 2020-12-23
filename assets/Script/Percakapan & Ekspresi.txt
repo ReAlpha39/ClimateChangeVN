@@ -9,7 +9,7 @@ diperkirakan suhu naik menjadi 35 derajat celcius. lalu lintas sekarang terlihat
 (000)Arif		: Matikan Ac dulu lah, sekalian buka jendela.
 	(Memikirkan Kinan.)
 (000)Arif		: Apakah kinan sudah bangun ya?
-(sf : Buka pintu)
+(sf : Buka pintu kamar arif)
 
 (Latar : dirumah)
 	(Akupun pergi ke kamar kinan.) (sf : mengetuk pintu)
@@ -45,113 +45,115 @@ diperkirakan suhu naik menjadi 35 derajat celcius. lalu lintas sekarang terlihat
 (Selang beberapa menit, Adikku keluar dari toilet dan langsung mengganti pakaiannya.)
 (Aku berada di ruang tamu.)
 (Tiba tiba Adikku menghampiriku.)
-(009)Kinan 		: Buat apa sih buka jendela kaka? kan lebih enak ditutup aja terus hidupin ac biar dingin.
+(Latar : dirumah)
+(009)Kinan 		: Buat apa sih buka jendela kaka? kan lebih enak ditutup aja terus hidupin ac biar dingin. (bicara_kinanuniform)
 (000)Arif  		: kinana tau beruang dikutub?
-(018)kinan 		: Tau lah, kan kinan suka sama beruang. Hehehe...
+(018)kinan 		: Tau lah, kan kinan suka sama beruang. Hehehe... (fresh_gembira_kinanuniform)
 (000)Arif  		: Kalo kinan gunakan AC terus menerus kasihan beruang dikutub, nanti esnya mencair ga ada tempat tinggal beruangnya. 
 (000)Arif 		: Mau lihat beruangnya sedih ga punya tewmpat tinggal lagi?
-(011)kinan 		: Ga mau ah. ntar beruangnya bisa mati. kinan kan jadi sedih (murung).
+(011)kinan 		: Ga mau ah. ntar beruangnya bisa mati. kinan kan jadi sedih (murung). (bicara_kinanuniform)
 (000)Arif  		: Kalo kinan sedih berarti kinan dah tau kan apa yg harus dilakukan?
-(012)kinan 		: oke kak, kinan buka jendelanya dulu.
+(012)kinan 		: oke kak, kinan buka jendelanya dulu. (senyum_kinanuniform)
 
 (Saat Adikku membuka jendela, Aku langsung pergi ke Dapur untuk menyiapkan bekal)
 (000)Arif 		: Hari ini kayaknya buat roti bakar aja paling ya.
 (Beberapa menit kemudian, roti bakar pun sduah jadi.)
 (000)Arif 		: Akhirnya sudah jadi.
 
-(013)kinan 		: Ayo kak kita berangkat bareng.
+(013)kinan 		: Ayo kak kita berangkat bareng. (fresh_gembira_kinanuniform)
 (000)Arif  		: iya iya, semangat sekali kinan.
-(014)kinan 		: Hehehe (Raut wajah gembira).
+(014)kinan 		: Hehehe (Raut wajah gembira). (fresh_gembira_kinanuniform)
 (000)Arif		: Nih bekal buat mu nanti disekolah.
-(015)Kinan		: Makasih kak.
+(015)Kinan		: Makasih kak. (senyum_kinanuniform)
 
 (Aku dan Adikku pergi ke sekolah.) (sf : menutup pintu)
 (Setelah beberapa menit, aku dan adikku sampai ke persimpangan jalan. Kamipun berpisah disana)
-(016)Kinan 		: Kak, pergi dulu ya. bye bye...
+(Latar : di jalan)
+(016)Kinan 		: Kak, pergi dulu ya. bye bye... (senyum_kinanuniform)
 (000)Arif 		: Hati hati ya dek.
 
 (Tidak lama kemudian, Roy teman sekelasku datang menghampiri ku menggunakan motornya.) (Sf : Suara motor)
 
-(017)Roy 		: Hey arif.
+(017)Roy 		: Hey arif. (normal_roy)
 (000)Arif 		: Eh ada roy.
-(018)Roy 		: Sendiri aja, mana pacar mu? hahah... (ekspresi ngejek kketawa)
+(018)Roy 		: Sendiri aja, mana pacar mu? hahah... (ekspresi ngejek kketawa) (mengejek_roy)
 (000)Arif 		: 1. Aku ga punya pacar kok.
      	  		  2. Pacarku masih dipinjem orang lain. (Sambil tertawa)
  
 Pilihan 1
 
-(019)Roy 		: Dasar ngenes amat kamu rif. Hahahah...
+(019)Roy 		: Dasar ngenes amat kamu rif. Hahahah... (tertawa_senang_roy)
 (000)Arif		: kok punya temen kayak gini ya. 
-(020)Roy 		: oh gitu ya kamu rif.
+(020)Roy 		: oh gitu ya kamu rif.(senyum_roy)
 
 Pilihan 2
 
-(021)Roy 		: Ah, bisa aja kamu rif. Bilang aja jomblo susah amat dah.
+(021)Roy 		: Ah, bisa aja kamu rif. Bilang aja jomblo susah amat dah. (tertawa_senang_roy)
 (000)Arif 		: Iya nih aku jomblo. Cariin kek pacar buat ku. Hehehe...
-(022)Roy 		: Aman, disekolah banyak kok cewek. hahaha.
+(022)Roy 		: Aman, disekolah banyak kok cewek. hahaha. (tertawa_senang_roy)
 
 
-(023)Roy 		: Mau bareng ga pake motor ku ini?
+(023)Roy 		: Mau bareng ga pake motor ku ini?  (normal_roy)
 (000)Arif 		: 1 Hayuk gas.
 	       		  2 Ga ah, mending jalan kaki biar lebih sehat.
 
 (pilihan 1)
 
-(024)Roy 		: Ayo naik,
+(024)Roy 		: Ayo naik, (normal_roy)
 (Aku naik ke motornya Roy.) (Sf : Suara knalpot motor)
 
 (pilihan 2)
 
-(025)Roy 		: Ya elah, jalan kaki ma lama.
-(026)Roy 		: Mending naik motor aja, biar cepat sampai.
+(025)Roy 		: Ya elah, jalan kaki ma lama. (senyum_roy)
+(026)Roy 		: Mending naik motor aja, biar cepat sampai.(senyum_roy)
 (000)Arif 		: Maksih roy, tapi ku pengen jalan kaki aja.
-(027)Roy 		: Ya udah lah, bareng aja sama kamu.
+(027)Roy 		: Ya udah lah, bareng aja sama kamu. (bicara_roy)
 (000)Arif 		: Gapapa nih?
-(028)Roy 		: Ya gapapa.
+(028)Roy 		: Ya gapapa. (bicara_roy)
 
 (Beberapa menit kemudian, Aku dan Roy bertemu dengan Nadia)
 
-(029)Roy 		: tuh ada nadia rif.
+(029)Roy 		: tuh ada nadia rif. (bicara_roy)
 (000)Arif 		: mau disamperin kah?
-(030)Roy 		: Ayok.
+(030)Roy 		: Ayok.(bicara_roy)
 
 (jika memilih pilihan 1 ) (sf : suara knalpot motor melambat) 
 (jika memilih pilihan 2 ) (no sound) 
 
-(000)Arif 		: Pagi nadia.
-(031)Nadia 		: Eh ada Arif sama Roy, pagi juga.
-(032)Roy 		: Pagi Nadia.
-(033)Nadia 		: Sejak kapan kamu bawa motor ke sekolah sih Roy?
-(034)Roy 		: Baru tadi pagi.
+(000)Arif 		: Pagi nadia. 
+(031)Nadia 		: Eh ada Arif sama Roy, pagi juga.(senyum_nadiasekolah)
+(032)Roy 		: Pagi Nadia. (senyum_roy)
+(033)Nadia 		: Sejak kapan kamu bawa motor ke sekolah sih Roy? (bicara_nadiasekolah)
+(034)Roy 		: Baru tadi pagi.(bicara_roy)
 (035)Nadia 		: Rumah mu kan dekat, masa masih bawa motor juga.
-(036)Roy 		: ih biarin, kan motorku juga.
-(037)Roy 		: Dah lah mau cabut dulu
-(038)Roy 		: Bye.
+(036)Roy 		: ih biarin, kan motorku juga.(marah_roy)
+(037)Roy 		: Dah lah mau cabut dulu. (marah_roy)
+(038)Roy 		: Bye. (marah_roy)
 
 (Scene ketika memilih naik motor bersama Roy.)
 (000)Arif 		: Eh turunin aku dulu. Biar aku bareng ma nadia aja
-(039)Roy 		: Oke deh
+(039)Roy 		: Oke deh (ngambek_roy)
 (Akupun turun dari motor roy & dia langsung cabut.)
 
-(040)Nadia 		: Lah kenapa ga bareng sama Roy?
-(000)Arif 		: Gapapa sih, mau bareng sama kamu aja.
-(041)Nadia 		: Hoooo...
+(040)Nadia 		: Lah kenapa ga bareng sama Roy? (normal_nadiasekolah)
+(000)Arif 		: Gapapa sih, mau bareng sama kamu aja. 
+(041)Nadia 		: Hoooo... (bicara_nadiasekolah)
 (000)Arif 		: Ngomong ngomong, tadi si roy ngambek tuh.
-(042)Nadia 		: Hah!! ngambek.
+(042)Nadia 		: Hah!! ngambek. (kaget_nadiasekolah)
 (000)Arif 		: iya pas kamu nasehatin tadi.
-(043)Nadia 		: Oalah, Aku nasehatin supaya dia tuh sadar jangan bawa motor ke sekolah.
-(044)Nadia 		: Karena bisa menabah efek dari rumah kaca.
+(043)Nadia 		: Oalah, Aku nasehatin supaya dia tuh sadar jangan bawa motor ke sekolah. (bicara_nadiasekolah)
+(044)Nadia 		: Karena bisa menabah efek dari rumah kaca. (senyum_nadiasekolah)
 (008)Arif 		: Huhh? Rumah kaca?? Maksud mu pelajaran kita minggu kemaren ya.
-(045)Nadia 		: Iya, nah kalo misalnya terjadi secara terus menerus jadinya suhu di bumi jadi panas.
+(045)Nadia 		: Iya, nah kalo misalnya terjadi secara terus menerus jadinya suhu di bumi jadi panas.(senyum_nadiasekolah)
 (000)Arif 		: Wah, Kamu pintar banget nad. aku aja masih bingung tentang pembahasan kemaren.
-(046)Nadia 		: Hehh!! (Muka malu)
+(046)Nadia 		: Hehh!! (Muka malu) (kaget_nadiasekolah)
 (000)Arif 		: Kenapa nad?
-(047)Nadia 		: E... e... gak ada. (Muka malu)
+(047)Nadia 		: E... e... gak ada. (Muka malu) (malu_nadiasekolah)
 (000)Arif 		: Oalah. kirain kenapa
-(048)Nadia 		: Dah keburu telat nih, ayok cepat 
+(048)Nadia 		: Dah keburu telat nih, ayok cepat (bicara_nadiasekolah)
 (000)Arif 		: Oke
 
-Scene disekolah :
+(Latar : diKelas)
 
 (Sementara di kelas.) (Sf : Pintu kebuka 
 (Aku dan Nadia duduk di dekat Roy.)
@@ -170,39 +172,39 @@ Scene disekolah :
 (060)Siswa 2 	: Besok jangan bawa deh coba untuk 1 bulan dulu. biar kita bareng gitu pergi ke sekolah jalan kaki.
 (061)Siswa 1 	: oke siap. 
 
-(062)Nadia 		: Tuh dengerin gak yg teman lain bilang?
-(063)Roy 		: Ah bodoh lah, aku mah santai aja. panas kek gini mah biasa.
+(062)Nadia 		: Tuh dengerin gak yg teman lain bilang? (bicara_nadiasekolah)
+(063)Roy 		: Ah bodoh lah, aku mah santai aja. panas kek gini mah biasa. (marah_roy)
 (000)Arif 		: Gak usah gitu lah roy, ntar nambah panas lagi kalo kamu bawa motor.
-(064)Nadia 		: Betul tuh roy.
-(065)Roy 		: Dah lah. Bahas topik lain ngapa? (Ngotot)
+(064)Nadia 		: Betul tuh roy. (bicara_nadiasekolah)
+(065)Roy 		: Dah lah. Bahas topik lain ngapa? (Ngotot) ((marah_roy))
 
 (Tiba tiba Pak Andi Masuk.) 
 
-(066)Pak Andi 	: Selamat pagi semua.
-(067)Pak Andi 	: Pagi ini kita akan mnmperdalam materi tentang rumah kaca.
-(068)Pak Andi 	: Sebelum masuk ke materi, disini bapak bakal mengulang materi minggu kemaren.
-(069)PAk Andi 	: Bapak akan memberikan 1 pertanyaan buat kelas ini sebelum masuk ke materi.
-(070)Pak Andi	: Pertanyaannya adalah Efek rumah kaca disebabkan oleh meningkatnya emisi gas. Apa saja gas tersebut?
+(066)Pak Andi 	: Selamat pagi semua.(normal_pakandi)
+(067)Pak Andi 	: Pagi ini kita akan mnmperdalam materi tentang rumah kaca. (bicara_pakandi)
+(068)Pak Andi 	: Sebelum masuk ke materi, disini bapak bakal mengulang materi minggu kemaren. (bicara_pakandi)
+(069)PAk Andi 	: Bapak akan memberikan 1 pertanyaan buat kelas ini sebelum masuk ke materi.(senang_pakandi)
+(070)Pak Andi	: Pertanyaannya adalah Efek rumah kaca disebabkan oleh meningkatnya emisi gas. Apa saja gas tersebut? (senang_pakandi)
 
 (Tiba tiba hening)
 
-(071)Pak Andi 	: kok diam nih, ok saya tunjuk aja ya orangnya.
-(072)Pak Andi 	: Ya arif, silahkan dijawab.
+(071)Pak Andi 	: kok diam nih, ok saya tunjuk aja ya orangnya.(bicara_pakandi)
+(072)Pak Andi 	: Ya arif, silahkan dijawab.(bicara_pakandi)
 (000)Arif 		: 1 CO2 (Karbon dioksida).
      	 		  2 NO2 (nitrogen dioksida).
 
 (Pilihan 1)
-(073)Pak Andi	: Yup betul sekali, tidak hanya senyawa CO@ tetapi ada juga gas lain ada yang tau?
+(073)Pak Andi	: Yup betul sekali, tidak hanya senyawa CO@ tetapi ada juga gas lain ada yang tau? (senang_pakandi)
 
 (Pilihan 2)
-(074)Pak Andi	: jawabannya salah, ada yang tau gas apa saja?
+(074)Pak Andi	: jawabannya salah, ada yang tau gas apa saja? (bicara_pakandi)
 
 (Nadia mengangkat tangannya)
 
-(075)Pak Andi	: Ya nadia, silahkan dijawab.
-(076)Nadia		: Efek rumah kaca disebabkan oleh meningkatnya emisi gas-gas seperti karbondioksida, metana, dinitrooksida, dan CFC atau chlorofluorocarbons.
-(077)Pak Andi	: Yup tepat sekali, gas gas itulah nanti yang membuat energi matahari terperangkap dalam atmosfer bumi.
-(078)Pak Andi	: Sehingga akan meningkatkan efek pemanasan tambahan terhadap permukaan bumi atau yang kita kenal dengan pemanasan global.
+(075)Pak Andi	: Ya nadia, silahkan dijawab. (senang_pakandi)
+(076)Nadia		: Efek rumah kaca disebabkan oleh meningkatnya emisi gas-gas seperti karbondioksida, metana, dinitrooksida, dan CFC atau chlorofluorocarbons. (bicara_nadiasekolah)
+(077)Pak Andi	: Yup tepat sekali, gas gas itulah nanti yang membuat energi matahari terperangkap dalam atmosfer bumi. (senang_pakandi)
+(078)Pak Andi	: Sehingga akan meningkatkan efek pemanasan tambahan terhadap permukaan bumi atau yang kita kenal dengan pemanasan global. (bicara_pakandi)
 
 (Pak Andi pun menjelaskan materinya kepada kami.)
 (Saking asiknya belajar bersama pak andi, tanpa sadar bel istirahat pun berbunyi.)
