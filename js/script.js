@@ -299,7 +299,18 @@ monogatari.characters ({
 		name: 'Kinan',
 		directory: 'Kinan',
 		sprites: {
-			normal: 'Kinan_pajama_half.png'
+			piyamaNormal: 'Kinan_pajama_half.png',
+			seragamNormal: 'normal_kinanuniform.png',
+			piyamaBicara: 'bicara_kinanpajama.png',
+			seragamBicara: 'bicara_kinanuniform.png',
+			seragamBye: 'fresh_gembira_kinanuniform.png',
+			piyamaKaget: 'kaget_kinanpajama.png',
+			piyamaMeledek: 'meledek_kinanpajama.png',
+			piyamaNgantuk: 'ngantuk_kinanpajama.png',
+			piyamaSedih: 'sedih_kinanpajama.png',
+			piyamaSenang: 'senang_kinanpajama.png',
+			seragamSenang: 'senang_kinanuniform.png',
+			seragamSenyum: 'senang_kinanuniform.png',
 		}
 	},
 
