@@ -235,7 +235,22 @@ monogatari.assets ('images', {
 
 // Define the backgrounds for each scene.
 monogatari.assets ('scenes', {
-	'school': 'school.jpg'
+	'dalamRumah': 'dalam_rumah_arif.png',
+    'jalanRaya': 'jalan_raya.png',
+    'jalanSiang': 'jalan_siang.png',
+    'jalanSore': 'jalan_sore.png',
+    'kamarArifMalam': 'kamar_arif_malam.png',
+	'kamarArifSiang': 'kamar_arif_siang.png',
+	'kamarKinanMalam': 'kamar_kinan_malam.png',
+	'kamarKinanSiang': 'kamar_kinan_siang.png',
+	'kamarNadia': 'kamar_nadia.png',
+	'kelasSiang': 'kelas_siang.png',
+	'kelasSore': 'kelas_sore.png',
+	'langitSiang': 'langit_siang.png',
+	'langitSore': 'langit_sore.png',
+	'lorongKelasSiang': 'lorongkelas_siang.png',
+	'lorengkelasSore': 'lorongkelas_sore.png',
+	'stasiun': 'stasiun.png'
 });
 
 
