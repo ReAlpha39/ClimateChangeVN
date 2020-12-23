@@ -102,7 +102,7 @@ monogatari.script({
         "play voice 077",
         "p_andi Yup tepat sekali, gas gas itulah nanti yang membuat energi "+
         "matahari terperangkap dalam atmosfer bumi.",
-        "play voice 78",
+        "play voice 078",
         "p_andi Sehingga akan meningkatkan efek pemanasan tambahan "+
         "terhadap permukaan bumi atau yang kita kenal dengan pemanasan global.",
         "Pak Andi pun menjelaskan materinya kepada kami.",
