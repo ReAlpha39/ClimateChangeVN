@@ -2,90 +2,97 @@ Scene Pagi :
 Reporter : Tinjauan keadaan cuaca pada hari ini menunjukkan keadaan cuaca cerah di kota Sejuk
 diperkirakan suhu naik menjadi 35 derajat celcius. lalu lintas sekarang terlihat macet di sepanjang jalan Diponegoro
 
+(Latar : kamar Arif)
 (000)Arif		: Huaaaaaahhh.
 (000)Arif		: Wah pagi yang cerah.
 (000)Arif		: Tapi kok lebih panas ya dari kemaren.
 (000)Arif		: Matikan Ac dulu lah, sekalian buka jendela.
 	(Memikirkan Kinan.)
 (000)Arif		: Apakah kinan sudah bangun ya?
+(sf : Buka pintu)
+
+(Latar : dirumah)
 	(Akupun pergi ke kamar kinan.) (sf : mengetuk pintu)
 (000)Arif		: Kinan
-	(sf : Mengetuk pintu.)
+	(sf : Mengetuk pintu)
 (000)Arif		: Aku masuk ya.
+	(sf : Membuka pintu)
+
+(Latar : Kamar Kinan)
 (000)Arif		: Ayo bangun, sudah pagi ni.
-(001)Kinan		: Huuuuhhh
+(001)Kinan		: Huuuuhhh (ngantuk_kinanpajama)
 	(Adikku masih tertidur pulas.)
-(002)Kinan		: 5 menit lagi ya kak.
+(002)Kinan		: 5 menit lagi ya kak.((ngantuk_kinanpajama))
 (000)Arif		: Oh jangan begitu, adek kan sudah besar, harus bangun pagi dong biar sehat.
-(003)Kinan		: iya Kaka.
+(003)Kinan		: iya Kaka.(normal_kinanpajama)
 	(Adikku pun bangun dari tempat tidur)
 (000)Arif		: 1. Kinan matikan AC terus buka dulu jendela kamarmu ya.
 				  2. Eh kinan, mandi dulu sana.
 
 (pilihan 1) 
-(004)Kinan		: Heeehhh. buat apa buka jendela? AC kan lebih dingin, kalo buka jendela jadi panas kaka. kinan ga mau,ntar kepanasan. hehehe (ngeledek)
+(004)Kinan		: Heeehhh. buat apa buka jendela? AC kan lebih dingin, kalo buka jendela jadi panas kaka. kinan ga mau,ntar kepanasan. hehehe (meledek_kinanpajama)
 (000)Arif 		: Hmmmmm.(ekspresi merajuk)
-(005)Kinan		: Iya kaka, nanti kinan  matikan AC sekalian buka jendelanya, kinan mau mandi dulu.
+(005)Kinan		: Iya kaka, nanti kinan  matikan AC sekalian buka jendelanya, kinan mau mandi dulu. (senang_kinanpajama)
 (pilihan 2)
-(006)Kinan 		: Gak, kinan malas mandi. mau ditempat tidur aja seharian. hehehe (ngeledek).
+(006)Kinan 		: Gak, kinan malas mandi. mau ditempat tidur aja seharian. hehehe (meledek_kinanpajama)
 (000)Arif  		: Hmmmmm.(ekspresi merajuk).
-(007)Kinan 		: iya kaka. kakak juga jangan lupa mandi, bau tau :D (senang usil).
+(007)Kinan 		: iya kaka. kakak juga jangan lupa mandi, bau tau :D (senang_kinanpajama)
 
 (kinan menuju toilet)
 (000)Arif   		: Jangan lupa nanti matikan AC dan buka jendelanya,
-(008)Kinan  		: siap kaka.
+(008)Kinan  		: siap kaka. (bicara_kinanpajama)
 
 (Selang beberapa menit, Adikku keluar dari toilet dan langsung mengganti pakaiannya.)
 (Aku berada di ruang tamu.)
 (Tiba tiba Adikku menghampiriku.)
 (009)Kinan 		: Buat apa sih buka jendela kaka? kan lebih enak ditutup aja terus hidupin ac biar dingin.
-(008)Arif  		: kinana tau beruang dikutub?
+(000)Arif  		: kinana tau beruang dikutub?
 (018)kinan 		: Tau lah, kan kinan suka sama beruang. Hehehe...
-(008)Arif  		: Kalo kinan gunakan AC terus menerus kasihan beruang dikutub, nanti esnya mencair ga ada tempat tinggal beruangnya. 
-(008)Arif 		: Mau lihat beruangnya sedih ga punya tewmpat tinggal lagi?
+(000)Arif  		: Kalo kinan gunakan AC terus menerus kasihan beruang dikutub, nanti esnya mencair ga ada tempat tinggal beruangnya. 
+(000)Arif 		: Mau lihat beruangnya sedih ga punya tewmpat tinggal lagi?
 (011)kinan 		: Ga mau ah. ntar beruangnya bisa mati. kinan kan jadi sedih (murung).
-(008)Arif  		: Kalo kinan sedih berarti kinan dah tau kan apa yg harus dilakukan?
+(000)Arif  		: Kalo kinan sedih berarti kinan dah tau kan apa yg harus dilakukan?
 (012)kinan 		: oke kak, kinan buka jendelanya dulu.
 
 (Saat Adikku membuka jendela, Aku langsung pergi ke Dapur untuk menyiapkan bekal)
-(008)Arif 		: Hari ini kayaknya buat roti bakar aja paling ya.
+(000)Arif 		: Hari ini kayaknya buat roti bakar aja paling ya.
 (Beberapa menit kemudian, roti bakar pun sduah jadi.)
-(008)Arif 		: Akhirnya sudah jadi.
+(000)Arif 		: Akhirnya sudah jadi.
 
 (013)kinan 		: Ayo kak kita berangkat bareng.
-(008)Arif  		: iya iya, semangat sekali kinan.
+(000)Arif  		: iya iya, semangat sekali kinan.
 (014)kinan 		: Hehehe (Raut wajah gembira).
-(008)Arif		: Nih bekal buat mu nanti disekolah.
+(000)Arif		: Nih bekal buat mu nanti disekolah.
 (015)Kinan		: Makasih kak.
 
 (Aku dan Adikku pergi ke sekolah.) (sf : menutup pintu)
 (Setelah beberapa menit, aku dan adikku sampai ke persimpangan jalan. Kamipun berpisah disana)
 (016)Kinan 		: Kak, pergi dulu ya. bye bye...
-(008)Arif 		: Hati hati ya dek.
+(000)Arif 		: Hati hati ya dek.
 
 (Tidak lama kemudian, Roy teman sekelasku datang menghampiri ku menggunakan motornya.) (Sf : Suara motor)
 
 (017)Roy 		: Hey arif.
-(008)Arif 		: Eh ada roy.
+(000)Arif 		: Eh ada roy.
 (018)Roy 		: Sendiri aja, mana pacar mu? hahah... (ekspresi ngejek kketawa)
-(008)Arif 		: 1. Aku ga punya pacar kok.
+(000)Arif 		: 1. Aku ga punya pacar kok.
      	  		  2. Pacarku masih dipinjem orang lain. (Sambil tertawa)
  
 Pilihan 1
 
 (019)Roy 		: Dasar ngenes amat kamu rif. Hahahah...
-(008)Arif		: kok punya temen kayak gini ya. 
+(000)Arif		: kok punya temen kayak gini ya. 
 (020)Roy 		: oh gitu ya kamu rif.
 
 Pilihan 2
 
 (021)Roy 		: Ah, bisa aja kamu rif. Bilang aja jomblo susah amat dah.
-(008)Arif 		: Iya nih aku jomblo. Cariin kek pacar buat ku. Hehehe...
+(000)Arif 		: Iya nih aku jomblo. Cariin kek pacar buat ku. Hehehe...
 (022)Roy 		: Aman, disekolah banyak kok cewek. hahaha.
 
 
 (023)Roy 		: Mau bareng ga pake motor ku ini?
-(008)Arif 		: 1 Hayuk gas.
+(000)Arif 		: 1 Hayuk gas.
 	       		  2 Ga ah, mending jalan kaki biar lebih sehat.
 
 (pilihan 1)
@@ -97,21 +104,21 @@ Pilihan 2
 
 (025)Roy 		: Ya elah, jalan kaki ma lama.
 (026)Roy 		: Mending naik motor aja, biar cepat sampai.
-(008)Arif 		: Maksih roy, tapi ku pengen jalan kaki aja.
+(000)Arif 		: Maksih roy, tapi ku pengen jalan kaki aja.
 (027)Roy 		: Ya udah lah, bareng aja sama kamu.
-(008)Arif 		: Gapapa nih?
+(000)Arif 		: Gapapa nih?
 (028)Roy 		: Ya gapapa.
 
 (Beberapa menit kemudian, Aku dan Roy bertemu dengan Nadia)
 
 (029)Roy 		: tuh ada nadia rif.
-(008)Arif 		: mau disamperin kah?
+(000)Arif 		: mau disamperin kah?
 (030)Roy 		: Ayok.
 
 (jika memilih pilihan 1 ) (sf : suara knalpot motor melambat) 
 (jika memilih pilihan 2 ) (no sound) 
 
-(008)Arif 		: Pagi nadia.
+(000)Arif 		: Pagi nadia.
 (031)Nadia 		: Eh ada Arif sama Roy, pagi juga.
 (032)Roy 		: Pagi Nadia.
 (033)Nadia 		: Sejak kapan kamu bawa motor ke sekolah sih Roy?
@@ -122,27 +129,27 @@ Pilihan 2
 (038)Roy 		: Bye.
 
 (Scene ketika memilih naik motor bersama Roy.)
-(008)Arif 		: Eh turunin aku dulu. Biar aku bareng ma nadia aja
+(000)Arif 		: Eh turunin aku dulu. Biar aku bareng ma nadia aja
 (039)Roy 		: Oke deh
 (Akupun turun dari motor roy & dia langsung cabut.)
 
 (040)Nadia 		: Lah kenapa ga bareng sama Roy?
-(008)Arif 		: Gapapa sih, mau bareng sama kamu aja.
+(000)Arif 		: Gapapa sih, mau bareng sama kamu aja.
 (041)Nadia 		: Hoooo...
-(008)Arif 		: Ngomong ngomong, tadi si roy ngambek tuh.
+(000)Arif 		: Ngomong ngomong, tadi si roy ngambek tuh.
 (042)Nadia 		: Hah!! ngambek.
-(008)Arif 		: iya pas kamu nasehatin tadi.
+(000)Arif 		: iya pas kamu nasehatin tadi.
 (043)Nadia 		: Oalah, Aku nasehatin supaya dia tuh sadar jangan bawa motor ke sekolah.
 (044)Nadia 		: Karena bisa menabah efek dari rumah kaca.
 (008)Arif 		: Huhh? Rumah kaca?? Maksud mu pelajaran kita minggu kemaren ya.
 (045)Nadia 		: Iya, nah kalo misalnya terjadi secara terus menerus jadinya suhu di bumi jadi panas.
-(008)Arif 		: Wah, Kamu pintar banget nad. aku aja masih bingung tentang pembahasan kemaren.
+(000)Arif 		: Wah, Kamu pintar banget nad. aku aja masih bingung tentang pembahasan kemaren.
 (046)Nadia 		: Hehh!! (Muka malu)
-(008)Arif 		: Kenapa nad?
+(000)Arif 		: Kenapa nad?
 (047)Nadia 		: E... e... gak ada. (Muka malu)
-(008)Arif 		: Oalah. kirain kenapa
+(000)Arif 		: Oalah. kirain kenapa
 (048)Nadia 		: Dah keburu telat nih, ayok cepat 
-(008)Arif 		: Oke
+(000)Arif 		: Oke
 
 Scene disekolah :
 
