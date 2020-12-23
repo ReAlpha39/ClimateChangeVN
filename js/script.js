@@ -281,7 +281,17 @@ monogatari.characters ({
 		name: 'Roy',
 		directory: 'Roy',
 		sprites: {
-			normal: 'half_roy.png'
+			normal: 'normal_roy.png',
+			bicara: 'bicara_roy.png',
+			gugup: 'gugup_roy.png',
+			kaget: 'kaget_roy.png',
+			marah: 'marah_roy.png',
+			ngejek: 'mengejek_roy.png',
+			murung: 'murung_roy.png',
+			ngambek: 'ngambek_roy.png',
+			senyum: 'senyum_roy.png',
+			tertawaSenang: 'tertawa_senang_roy.png'
+
 		}
 	},
 
