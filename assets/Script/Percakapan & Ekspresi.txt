@@ -9,7 +9,7 @@ diperkirakan suhu naik menjadi 35 derajat celcius. lalu lintas sekarang terlihat
 (000)Arif		: Matikan Ac dulu lah, sekalian buka jendela.
 	(Memikirkan Kinan.)
 (000)Arif		: Apakah kinan sudah bangun ya?
-(sf : Buka pintu)
+(sf : Buka pintu kamar arif)
 
 (Latar : dirumah)
 	(Akupun pergi ke kamar kinan.) (sf : mengetuk pintu)
@@ -45,29 +45,29 @@ diperkirakan suhu naik menjadi 35 derajat celcius. lalu lintas sekarang terlihat
 (Selang beberapa menit, Adikku keluar dari toilet dan langsung mengganti pakaiannya.)
 (Aku berada di ruang tamu.)
 (Tiba tiba Adikku menghampiriku.)
-(009)Kinan 		: Buat apa sih buka jendela kaka? kan lebih enak ditutup aja terus hidupin ac biar dingin.
+(009)Kinan 		: Buat apa sih buka jendela kaka? kan lebih enak ditutup aja terus hidupin ac biar dingin. (bicara_kinanuniform)
 (000)Arif  		: kinana tau beruang dikutub?
-(018)kinan 		: Tau lah, kan kinan suka sama beruang. Hehehe...
+(018)kinan 		: Tau lah, kan kinan suka sama beruang. Hehehe... (fresh_gembira_kinanuniform)
 (000)Arif  		: Kalo kinan gunakan AC terus menerus kasihan beruang dikutub, nanti esnya mencair ga ada tempat tinggal beruangnya. 
 (000)Arif 		: Mau lihat beruangnya sedih ga punya tewmpat tinggal lagi?
-(011)kinan 		: Ga mau ah. ntar beruangnya bisa mati. kinan kan jadi sedih (murung).
+(011)kinan 		: Ga mau ah. ntar beruangnya bisa mati. kinan kan jadi sedih (murung). (bicara_kinanuniform)
 (000)Arif  		: Kalo kinan sedih berarti kinan dah tau kan apa yg harus dilakukan?
-(012)kinan 		: oke kak, kinan buka jendelanya dulu.
+(012)kinan 		: oke kak, kinan buka jendelanya dulu. (senyum_kinanuniform)
 
 (Saat Adikku membuka jendela, Aku langsung pergi ke Dapur untuk menyiapkan bekal)
 (000)Arif 		: Hari ini kayaknya buat roti bakar aja paling ya.
 (Beberapa menit kemudian, roti bakar pun sduah jadi.)
 (000)Arif 		: Akhirnya sudah jadi.
 
-(013)kinan 		: Ayo kak kita berangkat bareng.
+(013)kinan 		: Ayo kak kita berangkat bareng. (fresh_gembira_kinanuniform)
 (000)Arif  		: iya iya, semangat sekali kinan.
-(014)kinan 		: Hehehe (Raut wajah gembira).
+(014)kinan 		: Hehehe (Raut wajah gembira). (fresh_gembira_kinanuniform)
 (000)Arif		: Nih bekal buat mu nanti disekolah.
-(015)Kinan		: Makasih kak.
+(015)Kinan		: Makasih kak. (senyum_kinanuniform)
 
 (Aku dan Adikku pergi ke sekolah.) (sf : menutup pintu)
 (Setelah beberapa menit, aku dan adikku sampai ke persimpangan jalan. Kamipun berpisah disana)
-(016)Kinan 		: Kak, pergi dulu ya. bye bye...
+(016)Kinan 		: Kak, pergi dulu ya. bye bye... (senyum_kinanuniform)
 (000)Arif 		: Hati hati ya dek.
 
 (Tidak lama kemudian, Roy teman sekelasku datang menghampiri ku menggunakan motornya.) (Sf : Suara motor)
