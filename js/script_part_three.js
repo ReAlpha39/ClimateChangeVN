@@ -94,11 +94,11 @@ monogatari.script({
     'partThreeCont': [
         "Nadia mengangkat tangannya.",
         //"play voice 075",
-        "p_andi Ya nadia, silahkan dijawab.",
+        "p_andi Ya Nadia, silahkan dijawab.",
         "play voice 076",
         "nadia Efek rumah kaca disebabkan oleh meningkatnya emisi "+
-        "gas-gas seperti karbondioksida, metana, dinitrooksida, dan CFC "+
-        "atau chlorofluorocarbons.",
+        "gas-gas seperti karbon dioksida, metana, dinitrooksida, dan CFC "+
+        "atau chlorofluorocarbon.",
         //"play voice 077",
         "p_andi Yup tepat sekali, gas gas itulah nanti yang membuat energi "+
         "matahari terperangkap dalam atmosfer bumi.",
@@ -108,7 +108,6 @@ monogatari.script({
         //"play voice 079",
         "Pak Andi pun menjelaskan materinya kepada kami.",
         "Saking asiknya belajar bersama pak andi, tanpa sadar bel istirahat pun berbunyi.",
-        "end",
         "jump PartFour"
     ]
 
