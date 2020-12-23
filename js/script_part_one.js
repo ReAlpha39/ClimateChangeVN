@@ -73,8 +73,8 @@ monogatari.script({
         "play voice 008",
         "kinan Siap kak.",
         //"Line 33",
-        "hide character kinan",
-        "show character kinan seragamBicara",
+        "hide character kinan with fadeOut",
+        "show character kinan seragamBicara with fadeIn",
         "play voice 009",
         "kinan Buat apa sih buka jendela kaka? kan lebih enak ditutup aja terus " +
         "dihidupin ac biar dingin.",
