@@ -6,6 +6,8 @@ monogatari.script({
         "show scene langitSore with fadeIn duration 1s",
         "Diperjalanan menuju stasiun",
         "show scene jalanRaya with fadeIn duration 1s",
+        "play sound kemacetan with loop",
+        "play sound motorIdle with loop",
         //"show character  with fadeIn",
         "play voice 105",
         "roy Ahh, malah macet.",
@@ -19,6 +21,7 @@ monogatari.script({
         "roy Iya, tapi ini beda loh Rif.",
         //"show character  with fadeIn",
         "play voice 108",
+        "play sound klakson",
         "roy Weii. cepat dikit napa", //sfx klakson
         "arif Roy, keknya besok kalo kita mo ke mall naik "+
         "kereta aja deh, biar ga panas kek gini.",
@@ -30,6 +33,8 @@ monogatari.script({
         "play voice 110",
         "roy Kapan kapan kita bahas lagi aja untuk ke mall di trip berikutnya.",
         "arif Oke nih.",
+        "stop sound kemacetan fade 3",
+        "stop sound motorIdle fade 3",
         //Disii lain dirumah Nadia.
         "Disisi lain..",
         "show scene kamarNadia with fadeIn duration 2s",

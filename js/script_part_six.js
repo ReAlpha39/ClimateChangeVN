@@ -3,8 +3,10 @@ monogatari.script({
     'PartSix': [
         "Sepulangnya kerumah.",
         "show scene dalamRumah with fadeIn duration 2s",
+        "play sound door_open",
         "arif Halo..",
         "arif Kenapa didalam sepi ya?",
+        "play sound door_close",
         "arif Ada orang di rumah?",
         "show character kinan piyamaSenang with fadeIn",
         "play voice 133",
@@ -67,6 +69,7 @@ monogatari.script({
         "kinan Yeeee, sayang kakak.",
         "show scene kamarKinanMalam with fadeIn duration 2s",
         //Kamar Kinan
+        "play sound door_open",
         "arif Ayok baring dikasur dulu.",
         "show character kinan piyamaSenang with fadeIn",
         "play voice 148",

@@ -86,7 +86,19 @@ monogatari.script({
         "play voice 024",
         "roy Ayo naik",
         "Kemudian aku pun naik ke motor arif",
-        //sfx knalpot motor
+        "play sound motorStart",
+        "Beberapa menit kemudian",
+        "stop sound motorStart with fade 3",
+        "play sound motorJalan",
+        //"show character roy bicara with fadeIn",
+        "play voice 029",
+        "roy Tuh ada Nadia, Rif.",
+        "arif Mau disamperin kah?",
+        //"show character roy bicara with fadeIn",
+        "play voice 030",
+        "roy Ayok",
+        "stop sound motorJalan with fade 3",
+        "play sound motorStop",
         "jump partTwoCont_Two"
     ],
 
@@ -106,11 +118,8 @@ monogatari.script({
         "show character roy bicara with fadeIn",
         "play voice 028",
         "roy Ya gapapa.",
-        "jump partTwoCont_Two"
-    ],
-
-    'partTwoCont_Two': [
         "Beberapa menit kemudian",
+        "play sound motorDorong with loop",
         "show character roy bicara with fadeIn",
         "play voice 029",
         "roy Tuh ada Nadia, Rif.",
@@ -118,6 +127,12 @@ monogatari.script({
         "show character roy bicara with fadeIn",
         "play voice 030",
         "roy Ayok",
+        "stop sound motorDorong with fade 3",
+        "jump partTwoCont_Two"
+    ],
+
+    'partTwoCont_Two': [
+        
         //Line 111 & 112
         //hmm wakannai
         "hide character roy with fadeOut",
@@ -153,7 +168,8 @@ monogatari.script({
         "play voice 039",
         "roy Oke deh",
         "hide character roy with fadeOutLeft",
-        "Akupun turun dari motor Roy & dia langsung cabut.",
+        "play sound motorStart",
+        "Akupun turun dari motor Roy & dia langsung pergi.",
         "show character nadia sekolahNormal at center with move transition 1s",
         "play voice 040",
         "nadia Lah kenapa ga bareng sama Roy?",

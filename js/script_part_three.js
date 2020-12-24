@@ -3,6 +3,7 @@ monogatari.script({
     'PartThree': [
         //sfx open door
         "show scene kelasSiang with fadeIn duration 2s",
+        "play sound kelas with loop",
         //"show character  with fadeIn",
         //"play voice 049",
         "siswaOne Hey.", //Rada aneh, knpa ngga
@@ -64,10 +65,13 @@ monogatari.script({
         //Andi sensei masuk kelas.
         "hide character nadia with fadeOut",
         "hide character roy with fadeOut",
+        "stop sound kelas with fade 1",
         "show scene #000000 with fadeIn duration 2s",
         "Beberapa menit kemudian",
+        "play sound bell_sekolah",
         "show scene kelasSiang with fadeIn duration 2s",
-        "show character p_andi normal with fadeIn",
+        "play sound door_open",
+        "show character p_andi normal with fadeInRight",
         "play voice 066",
         "p_andi Selamat pagi semua.",
         "show character p_andi bicara with fadeIn",
