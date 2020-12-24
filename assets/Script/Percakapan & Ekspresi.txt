@@ -209,7 +209,7 @@ Pilihan 2
 (Pak Andi pun menjelaskan materinya kepada kami.)
 (Saking asiknya belajar bersama pak andi, tanpa sadar bel istirahat pun berbunyi.)
 (Istirahat)
-(Latar : Lorong sekolah
+
 (000)Arif 		: Makan bareng yok roy
 (079)Roy 		: Ayok lah (senyum_roy)
 (080)Roy 		: Ikut ga nad? (bicara_roy)
