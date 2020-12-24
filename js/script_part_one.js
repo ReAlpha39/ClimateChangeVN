@@ -110,7 +110,7 @@ monogatari.script({
         "kinan Makasih kak",
         "hide character kinan with fadeOut duration 1s",
         "(Need to change) Mereka berangkat ke sekola bersama - sama",
-        "(sfx close_door)",
+        //"(sfx close_door)",
         "jump PartTwo"
     ]
 

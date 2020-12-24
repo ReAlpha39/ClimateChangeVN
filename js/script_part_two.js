@@ -11,8 +11,8 @@ monogatari.script({
         ".....",
         "Tidak lama kemudian, Roy teman sekelasku menghampiriku " +
         "dengan motornya.",
-        //Sfx motor
-        "show character roy normal with fadeInRight duration 1s",
+        "play sound motorStop",
+        "show character roy normal with fadeInLeft duration 1s",
         "play voice 017",
         "roy Hey Arif.",
         "arif Eh ada Roy.",
@@ -118,7 +118,7 @@ monogatari.script({
         "roy Ayok",
         //Line 111 & 112
         //hmm wakannai
-        "hide character roy with fadeIn duration 1s",
+        "hide character roy with fadeOut",
         "arif Pagi Nadia.",
         "show character nadia sekolahSenyum with fadeIn",
         "play voice 031",
