@@ -205,7 +205,7 @@ monogatari.assets ('voices', {
 	'154': '154.mp3',
 	'155': '155.mp3',
 	'156': '156.mp3',
-
+	'157': '157.mp3'
 });
 
 // Define the sounds used in the game.
