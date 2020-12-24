@@ -60,7 +60,7 @@ monogatari.script({
         "play voice 146",
         "kinan Terserah kakak, yang penting kakak "+
         "ceritain sesuatu terus baru kinan mau tidur.",
-        "arif Hmmm... ya udah, kinan kinan ke kamar dulu, "+
+        "arif Hmmm... ya udah, kinan ke kamar dulu, "+
         "nanti kaka ceritain sesuatu.",
         "show character kinan piyamaSenang with fadeIn",
         "play voice 147",
@@ -72,7 +72,7 @@ monogatari.script({
         "play voice 148",
         "kinan Oke kaka.",
         //"show character  with fadeIn",
-        "hide character kinan with fadeOutBown",
+        "hide character kinan with fadeOutDown",
         "play voice 149",
         "kinan Ceritanya yang bagus ya.",
         "arif Iya.",
