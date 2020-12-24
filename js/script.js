@@ -221,6 +221,12 @@ monogatari.assets ('sounds', {
 	'jendela': 'SE_jendela.mp3',
 	'kelas': 'SE_Siswa.mp3',
 	'cicadas2': 'SE_tonggaret.mp3',
+	'motorStart': 'SE_engine_start.mp3',
+	'motorStop': 'SE_engine_stop.mp3',
+	'klakson': 'SE_klakson.mp3',
+	'motorJalan': 'SE_motor jalan.mp3',
+	'motorJalanSlow': 'SE_motor jalan_slow.mp3',
+
 });
 
 // Define the videos used in the game.
