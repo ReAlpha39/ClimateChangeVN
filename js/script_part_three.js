@@ -64,6 +64,8 @@ monogatari.script({
         //Andi sensei masuk kelas.
         "hide character nadia with fadeOut",
         "hide character roy with fadeOut",
+        "show scene #000000 with fadeIn duration 2s",
+        "Beberapa menit kemudian",
         "show scene kelasSiang with fadeIn duration 2s",
         "show character p_andi normal with fadeIn",
         "play voice 066",
@@ -141,6 +143,7 @@ monogatari.script({
         "p_andi Sehingga akan meningkatkan efek pemanasan tambahan "+
         "terhadap permukaan bumi atau yang kita kenal dengan pemanasan global.",
         "Pak Andi pun menjelaskan materinya kepada kami.",
+        "show scene LangitSiang with fadeIn duration 2s",
         "Saking asiknya belajar bersama pak andi, tanpa sadar bel istirahat pun berbunyi.",
         "jump PartFour"
     ]

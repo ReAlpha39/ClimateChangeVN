@@ -3,7 +3,9 @@ monogatari.script({
     //sfx motor bunyi
     //sfx klakson
     'PartFive': [
-        "show scene jalanRaya with fadeIn duration 2s",
+        "show scene langitSore with fadeIn duration 1s",
+        "Diperjalanan menuju stasiun",
+        "show scene jalanRaya with fadeIn duration 1s",
         //"show character  with fadeIn",
         "play voice 105",
         "roy Ahh, malah macet.",
@@ -114,6 +116,8 @@ monogatari.script({
         "show character nadia bebasSenang at right with fadeIn",
         "play voice 132",
         "nadia Ok.",
+        "show scene langitSore with fadeIn duration 1s",
+        "show scene langitMalam with fadeIn duration 1s",
         //(Aku dan teman teman ku menghabiskan waktu seharian di mall)
         //(Tak sadar hari sudah mulai gelap, kami pun pulang kerumah masing masing.)
         "jump PartSix"

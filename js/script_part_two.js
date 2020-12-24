@@ -8,9 +8,11 @@ monogatari.script({
         "kinan Kak, pergi dulu ya. bye - bye",
         "arif Hati - hati ya dek.",
         "hide character kinan with fadeOutRight duration 1s",
+        "show scene #000000 with fadeIn duration 2s",
         ".....",
         "Tidak lama kemudian, Roy teman sekelasku menghampiriku " +
         "dengan motornya.",
+        "show scene jalanSiang with fadeIn duration 2s",
         "play sound motorStop",
         "show character roy normal with fadeInLeft duration 1s",
         "play voice 017",
@@ -189,6 +191,7 @@ monogatari.script({
         "play voice 048",
         "nadia dah keburu telat nih, ayok cepat",
         "arif Oke",
+        "show scene #000000 with fadeIn duration 2s",
         "jump PartThree"
     ]
 });

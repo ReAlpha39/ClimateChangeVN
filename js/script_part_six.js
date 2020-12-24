@@ -2,6 +2,7 @@ monogatari.script({
     //scene rumah
     'PartSix': [
         "Sepulangnya kerumah.",
+        "show scene dalamRumah with fadeIn duration 2s",
         "arif Halo..",
         "arif Kenapa didalam sepi ya?",
         "arif Ada orang di rumah?",
@@ -87,16 +88,16 @@ monogatari.script({
         "arif Sudah tidur ternyata",
         "arif Aku harus belajar nih.",
         //sfx pintu tutup
-        //scene langit malam
+        "show scene langitMalam with fadeIn duration 2s",
         "arif Banyak pelajaran yang diambil tadi disekolah.",
         "arif Lumayan buat nambah ilmu.",
         "arif Tentang rumah kaca, kenapa gak kuterapin juga pada diriku ya.",
         "arif Mana tau membantu juga.",
         "arif Tapi ngelakuin apa ya?",
-        //black screen
         "............",
         ".......",
         "...",
+        "show scene #000000 with fadeIn duration 2s",
         "Semenjak kejadian naiknys suhu di kota sejuk, "+
         "Banyak para siswa sadar betapa bahayanya asap kendaraan "+
         "bermotor yang asapnya sangat berbahaya dan berpotensi "+
