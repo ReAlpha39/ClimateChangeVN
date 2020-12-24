@@ -6,7 +6,7 @@ diperkirakan suhu naik menjadi 35 derajat celcius. lalu lintas sekarang terlihat
 (000)Arif		: Huaaaaaahhh.
 (000)Arif		: Wah pagi yang cerah.
 (000)Arif		: Tapi kok lebih panas ya dari kemaren.
-(000)Arif		: Matikan Ac dulu lah, sekalian buka jendela.
+(000)Arif		: Matikan Ac dulu lah, sekalian buka jendela. (Sf : Tombol AC & buka jendela)
 	(Memikirkan Kinan.)
 (000)Arif		: Apakah kinan sudah bangun ya?
 (sf : Buka pintu kamar arif)
@@ -54,7 +54,7 @@ diperkirakan suhu naik menjadi 35 derajat celcius. lalu lintas sekarang terlihat
 (011)kinan 		: Ga mau ah. ntar beruangnya bisa mati. kinan kan jadi sedih (murung). (bicara_kinanuniform)
 (000)Arif  		: Kalo kinan sedih berarti kinan dah tau kan apa yg harus dilakukan?
 (012)kinan 		: oke kak, kinan buka jendelanya dulu. (senyum_kinanuniform)
-
+(Sf : Tombol AC & buka jendela)
 (Saat Adikku membuka jendela, Aku langsung pergi ke Dapur untuk menyiapkan bekal)
 (000)Arif 		: Hari ini kayaknya buat roti bakar aja paling ya.
 (Beberapa menit kemudian, roti bakar pun sduah jadi.)
@@ -211,95 +211,95 @@ Pilihan 2
 (Istirahat)
 
 (000)Arif 		: Makan bareng yok roy
-(079)Roy 		: Ayok lah
-(080)Roy 		: Ikut ga nad?
-(081)NAdia 		: Boleh
+(079)Roy 		: Ayok lah (senyum_roy)
+(080)Roy 		: Ikut ga nad? (bicara_roy)
+(081)NAdia 		: Boleh (senyum_nadiasekolah)
 
 (Aku, Nadia, dan Roy pergi ke kantin.)
 (Setelah selesai makan, kami pun langsung ke kelas dan mengikuti pelajaran berikutnya.)
 (Waktu telah berlalu, bel pulang sekolah pun berbunyi. Siswa pun langsung bersiap untuk pulang.)
 (Tak lama kemudian roy tiba tiba menghampiri ku.)
 
-(082)Roy 		: Rif, mau ikut ga nih?
-(000)Arif 		: Kemana?
-(083)Roy 		: biasa ngabisin waktu lah.
+(082)Roy 		: Rif, mau ikut ga nih? (bicara_roy)
+(000)Arif 		: Kemana? 
+(083)Roy 		: biasa ngabisin waktu lah. (senyum_roy)
 (000)Arif 		: 1. Boleh nih.
      	 		  2. Hmmm, keknya ga deh.
 
 (Pilihan 1)
-(084)Roy 		: Ada rekomendasi gak?
+(084)Roy 		: Ada rekomendasi gak? (bicara_roy)
 (000)Arif 		: Ke Mall gimana?
-(085)Roy 		: Boleh nih. bareng aja ya kita ntar.
+(085)Roy 		: Boleh nih. bareng aja ya kita ntar. (tertawa_senang_roy)
 (000)Arif 		: Oke sip.
 
 (Pilihan 2)
-(086)Roy 		: Gue ga ada teman nih rif, temenin dong.
+(086)Roy 		: Gue ga ada teman nih rif, temenin dong.(normal_roy)
 (000)Arif 		: Gimana ya?
-(087)Roy 		: Ayolah kita ke mall ngabisin waktu, ntar ku bayarin dah.
+(087)Roy 		: Ayolah kita ke mall ngabisin waktu, ntar ku bayarin dah. (bicara_roy)
 (000)Arif 		: Eee.. oke deh.
 
 (Nadia datang menghampiri ku dan Roy.)
 
-(088)Nadia 		: Kalian pada bahas apa nih?
+(088)Nadia 		: Kalian pada bahas apa nih? (normal_nadiasekolah)
 (000)Arif 		: Mau ngabisin waktu nih, dari pada ga ad kerjaan dirumah.
-(089)Nadia 		: Emangnya pada mau ngabisin waktu dimana?
+(089)Nadia 		: Emangnya pada mau ngabisin waktu dimana? (bicara_nadiasekolah)
 (000)Arif 		: 1 ini mau pergi ke mall, mau ikut gak nad?
    	    		  2 ehhh...
 
 (Pilihan 1)
-(090)Nadia 		: Ayo, mumpung ga ada tugas dari guru nih.
+(090)Nadia 		: Ayo, mumpung ga ada tugas dari guru nih. (gembira_nadiasekolah)
 
 (Pilihan 2)
-(091)Nadia 		: Gimana kalo kita ke mall aja?
-(092)Roy 		: E... Iya sih kita juga rencana mau ke mall.
-(093)Nadia 		: Aku ikut ya. Hehe...
+(091)Nadia 		: Gimana kalo kita ke mall aja? (senang_nadiasekolah)
+(092)Roy 		: E... Iya sih kita juga rencana mau ke mall. (gugup_roy)
+(093)Nadia 		: Aku ikut ya. Hehe...((gembira_nadiasekolah))
 
 
-(094)Roy 		: Lu ikut juga, motor ku cuman muat 2 org.
-(095)Nadia 		: Kan aku bisa naik krl.
-(096)Roy 		: Waduh....
-(097)Nadia 		: Kenapa ga senang kah aku ikut? (muka marah)
-(098)Roy 		: E.. e... gak kok.
+(094)Roy 		: Lu ikut juga, motor ku cuman muat 2 org. (kaget_roy)
+(095)Nadia 		: Kan aku bisa naik krl. (bicara_nadiasekolah)
+(096)Roy 		: Waduh.... (gugup_roy)
+(097)Nadia 		: Kenapa ga senang kah aku ikut? (muka marah) (marah_nadiasekolah)
+(098)Roy 		: E.. e... gak kok. (gugup_roy)
 (000)Arif 		: Dah lah jangan berantem.
 (000)Arif 		: Ini mau ngumpul dimana?
-(099)Roy 		: Di depan stasiun aja gimana?
-(100)Nadia 		: Boleh tuh.
+(099)Roy 		: Di depan stasiun aja gimana? (bicara_roy)
+(100)Nadia 		: Boleh tuh. (senyum_nadiasekolah)
 (000)Arif 		: Setuju nih.
-(101)Roy 		: Oke ayok gas.
-(102)Nadia 		: Aku mau ganti pakaian dulu, kalian duluan aja.
-(000)Arif 		: Oke deh .
-(103)Nadia 		: Mau pulang dulu nih, bye.
+(101)Roy 		: Oke ayok gas. (tertawa_senang_roy)
+(102)Nadia 		: Aku mau ganti pakaian dulu, kalian duluan aja. (bicara_nadiasekolah)
+(000)Arif 		: Oke deh . (bicara_roy)
+(103)Nadia 		: Mau pulang dulu nih, bye. (gembira_nadiasekolah)
 (000)Arif 		: Bye Nad.
-(104)Roy 		: Bye juga.
+(104)Roy 		: Bye juga.((bicara_roy))
 
 (Aku bersama Roy pun langsung berangkat ke mall.) (Sf : suara motor bunyi)
 
 ( jalan Raya ) (sf : Suara klakson mobil/motor)
-(105)Roy 		: Ahhh, malah macet.
+(105)Roy 		: Ahhh, malah macet. (marah_roy)
 (000)Arif 		: Sabar roy.
-(106)Roy 		: Gimana mau sabar, dah macet terus panas lagi.
+(106)Roy 		: Gimana mau sabar, dah macet terus panas lagi.(marah_roy)
 (000)Arif 		: Lah katanya tadi panas ma dah biasa.
-(107)Roy 		: iya, tapi ini beda loh rif.
-(108)Roy 		: Weii. cepat dikit napa (Klakson motor)
+(107)Roy 		: iya, tapi ini beda loh rif. (marah_roy)
+(108)Roy 		: Weii. cepat dikit napa (Klakson motor) (marah_roy)
 (000)Arif 		: Roy, keknya besok kalo kita mo ke mall naik kereta aja deh, biar ga panas kek gini.
-(109)Roy 		: Iya sih rif, enakan naik kereta juga ya kalo dipikir pikir.
+(109)Roy 		: Iya sih rif, enakan naik kereta juga ya kalo dipikir pikir.(bicara_roy)
 (000)Arif 		: Iya makanya.
-(110)Roy 		: Kapan kapan kita bahas lagi aja untuk ke mall di trip berikutnya.
+(110)Roy 		: Kapan kapan kita bahas lagi aja untuk ke mall di trip berikutnya. (bicara_roy)
 (000)arif 		: Oke nih.
 
 (Disii lain dirumah Nadia.)
 
-(111)Nadia 		: Dah siap, Saatnya berangkat.
-(112)Nadia 		: Bu, nadia pergi dulu ya. mau ke mall bareng teman.
-(113)Ibu Nadia 	: Hati hati ya nak.
-(114)Nadia 		: iya bu.
+(111)Nadia 		: Dah siap, Saatnya berangkat. (senyum_nadiabebas)
+(112)Nadia 		: Bu, nadia pergi dulu ya. mau ke mall bareng teman. (senyum_nadiabebas)
+(113)Ibu Nadia 	: Hati hati ya nak. 
+(114)Nadia 		: iya bu. (gembira_nadiabebas)
 
 Nadia keluar. (Sf : suara pintu ketutup)
 
 (Tidak lama kemudian nadia sampai ke tempat lokasi.)
 
-(115)Nadia 		: Mereka dimana ya?
-(116)Nadia 		: Kok ga keliatan.
+(115)Nadia 		: Mereka dimana ya? (normal_nadiabebas)
+(116)Nadia 		: Kok ga keliatan. (bicara_nadiabebas)
 
 (Karena terlibat macet. Aku dan Roy pun datang terlambat.)
 
