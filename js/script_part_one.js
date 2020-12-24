@@ -43,7 +43,7 @@ monogatari.script({
     ],
 
     'buka_jendela': [
-        "show character kinan piyamaMeledek center with fadeIn",
+        "show character kinan piyamaKaget center with fadeIn",
         "play voice 004",
         "kinan heeeehh.. buat apa buka jendela? AC kan lebih dingin, kalau jendelanya dibuka kan jadi panas kaka.." +
         " kinan ngga mau, ntar kepanasan.",
