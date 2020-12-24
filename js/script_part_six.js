@@ -133,6 +133,7 @@ monogatari.script({
         "show character roy tertawaSenang with fadeIn",
         "play voice 157",
         "roy He he he...", // (Ketawa kecil)
+        "show scene langitSiang with fadeIn duration 2s",
         "hal yang ada disekitar kita walaupun itu hal kecil bisa mendatangkan suatu efek ",
         "kepada kita baik efek buruk maupun efek baik.",
         "Berkendara motor boleh, tapi ingat semakin banyak penggunaan kendaraan bermotor " +
