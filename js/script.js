@@ -222,6 +222,7 @@ monogatari.assets ('sounds', {
 	'kelas': 'SE_Siswa.mp3',
 	'cicadas2': 'SE_tonggaret.mp3',
 	'motorStart': 'SE_engine_start.mp3',
+	'motorStartIdle': 'SE_cub_engine_start_idling_loop.mp3',
 	'motorStop': 'SE_engine_stop.mp3',
 	'klakson': 'SE_klakson.mp3',
 	'motorJalan': 'SE_motor jalan.mp3',
