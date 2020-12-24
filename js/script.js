@@ -254,6 +254,7 @@ monogatari.assets ('scenes', {
 	'kelasSore': 'kelas_sore.png',
 	'langitSiang': 'langit_siang.png',
 	'langitSore': 'langit_sore.png',
+	'langitMalam': 'langit_malam.png',
 	'lorongKelasSiang': 'lorongkelas_siang.png',
 	'lorengkelasSore': 'lorongkelas_sore.png',
 	'stasiun': 'stasiun.png'
