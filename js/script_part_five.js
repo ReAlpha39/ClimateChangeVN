@@ -49,7 +49,7 @@ monogatari.script({
         "show scene #000000 with fadeIn duration 2s",
         ".....",
         //Tidak lama kemudian nadia sampai ke tempat lokasi.
-        "show scene stasiun with fadeIn duration 2s",
+        "show scene stasiunSore with fadeIn duration 2s",
         "show character nadia bebasNormal with fadeIn",
         "play voice 115",
         "nadia Mereka dimana ya?", //knpa ini ngga digabung aja?
