@@ -38,7 +38,7 @@ monogatari.script({
         "play voice 112",
         "nadia Bu, Nadia pergi dulu ya. mau ke mall bareng teman.",
         //"show character  with fadeIn",//
-        "play voice 113",
+        //"play voice 113",
         "ibuNadia Hati hati ya nak.",
         "show character nadia bebasGembira with fadeIn",
         "play voice 114",
