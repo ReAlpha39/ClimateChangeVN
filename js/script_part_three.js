@@ -143,7 +143,7 @@ monogatari.script({
         "p_andi Sehingga akan meningkatkan efek pemanasan tambahan "+
         "terhadap permukaan bumi atau yang kita kenal dengan pemanasan global.",
         "Pak Andi pun menjelaskan materinya kepada kami.",
-        "show scene langitSiang with fadeIn duration 2s",
+        "show scene kelasSiang with fadeIn duration 2s",
         "Saking asiknya belajar bersama pak andi, tanpa sadar bel istirahat pun berbunyi.",
         "jump PartFour"
     ]

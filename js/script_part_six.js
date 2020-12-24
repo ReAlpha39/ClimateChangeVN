@@ -65,8 +65,7 @@ monogatari.script({
         "show character kinan piyamaSenang with fadeIn",
         "play voice 147",
         "kinan Yeeee, sayang kakak.",
-        "show scene #000000 with fadeIn duration 2s",
-        "show scene kamarKinan with fadeIn duration 2s",
+        "show scene kamarKinanMalam with fadeIn duration 2s",
         //Kamar Kinan
         "arif Ayok baring dikasur dulu.",
         "show character kinan piyamaSenang with fadeIn",
@@ -131,7 +130,7 @@ monogatari.script({
         "arif Untung ditegur terus sama Kinan, "+
         "kalo ga dah pasti bawa motor terus ke sekolah.",
         "arif Ngga disekolah aja mungkin, di luar juga kan.",
-        "show character roy tertawaSenang with fadeIn",
+        "show character roy tertawaSenang at left with fadeIn",
         "play voice 157",
         "roy He he he...", // (Ketawa kecil)
         "show scene langitSiang with fadeIn duration 2s",
