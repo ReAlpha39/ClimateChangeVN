@@ -70,7 +70,7 @@ monogatari.script({
 
     'partFourCont': [
         //Nadia datang menghampiri ku dan Roy.
-        "show character roy bicara at left with move duration 1s",
+        "show character roy bicara at left with move transition 1s",
         "show character nadia sekolahNormal at right with fadeInLeft",
         "play voice 088",
         "nadia Kalian pada bahas apa nih?",
