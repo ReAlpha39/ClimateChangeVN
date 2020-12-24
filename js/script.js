@@ -329,7 +329,7 @@ monogatari.characters ({
 		name: 'Kinan',
 		directory: 'Kinan',
 		sprites: {
-			piyamaNormal: 'Kinan_pajama_half.png',
+			piyamaNormal: 'normal_kinanpajama.png',
 			seragamNormal: 'normal_kinanuniform.png',
 			piyamaBicara: 'bicara_kinanpajama.png',
 			seragamBicara: 'bicara_kinanuniform.png',
