@@ -15,6 +15,8 @@ monogatari.script({
         "play voice 081",
         "nadia Boleh.",
         //Aku, Nadia, dan Roy pergi ke kantin.
+        "show scene langitSiang with fadeIn duration 1s",
+        "show scene langitSore with fadeIn duration 1s",
         "Setelah itu kami pun makan siang dan mengikuti pelajaran hingga akhir",
         //bell sekolah
         //Tak lama kemudian roy tiba tiba menghampiri ku.
