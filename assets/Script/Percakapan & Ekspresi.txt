@@ -363,7 +363,7 @@ Nadia keluar. (Sf : suara pintu ketutup)
 (000)Arif 		: Hmmm... ya udah, kinan kinan ke kamar dulu, nanti kaka ceritain sesuatu.
 (147)Kinan 		: Yeeee, sayang kakak. ((senang_kinanpajama))
 
-(Kamar Kinan)
+Latar : (Kamar Kinan (Mode malam))
 
 (000)Arif 		: Ayok tidur dikasur dulu.
 (148)Kinan 		: Oke kaka. (senang_kinanpajama)
@@ -378,6 +378,7 @@ Nadia keluar. (Sf : suara pintu ketutup)
 (000)Arif 		: Aku harus belajar nih.
 
 (Aku keluar dari kamar kinan.) (Se : suara pintu )
+(Latar : Kamar Arif (Mode malam))
 (000)Arif 		: Banyak pelajaran yang diambil tadi disekolah.
 (000)Arif 		: Lumayan buat nambah ilmu.
 (000)Arif		: Tentang rumah kaca, kenapa gak kuterapin juga pada diriku ya.
