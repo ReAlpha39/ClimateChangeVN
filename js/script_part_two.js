@@ -152,7 +152,7 @@ monogatari.script({
         "show character roy ngambek at left with fadeIn",
         "play voice 039",
         "roy Oke deh",
-        "hide character roy with fadeOutRight",
+        "hide character roy with fadeOutLeft",
         "Akupun turun dari motor Roy & dia langsung cabut.",
         "show character nadia sekolahNormal at center with move transition 1s",
         "play voice 040",
