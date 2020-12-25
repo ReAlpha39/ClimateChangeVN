@@ -73,6 +73,7 @@ monogatari.script({
         "play voice 008",
         "kinan Siap kak.",
         //"Line 33",
+        "wait 1000",
         "hide character kinan with fadeOut",
         "show character kinan seragamBicara with fadeIn",
         "play voice 009",
