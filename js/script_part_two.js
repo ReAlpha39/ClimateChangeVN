@@ -129,13 +129,13 @@ monogatari.script({
         "play voice 030",
         "roy Ayok",
         "stop sound motorDorong with fade 3",
+        "hide character roy with fadeOut",
         "jump partTwoCont_Two"
     ],
 
     'partTwoCont_Two': [
         //Line 111 & 112
         //hmm wakannai
-        "hide character roy with fadeOut",
         "arif Pagi Nadia.",
         "show character nadia sekolahSenyum with fadeIn",
         "play voice 031",
