@@ -343,6 +343,7 @@ monogatari.characters ({
 			piyamaMeledek: 'meledek_kinanpajama.png',
 			piyamaNgantuk: 'ngantuk_kinanpajama.png',
 			piyamaSedih: 'sedih_kinanpajama.png',
+			seragamSedih: 'sedih_kinanuniform.png',
 			piyamaSenang: 'senang_kinanpajama.png',
 			seragamSenang: 'senang_kinanuniform.png',
 			seragamSenyum: 'senang_kinanuniform.png',

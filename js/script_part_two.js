@@ -1,11 +1,11 @@
 monogatari.script({
     // Part two
     'PartTwo': [
-        "Sesampainya di persimpangan",
         "show scene jalanSiang with fadeIn duration 2s",
+        "Sesampainya di persimpangan",
         "show character kinan seragamSenyum with fadeIn",
         "play voice 016",
-        "kinan Kak, pergi dulu ya. bye - bye",
+        "kinan Kak, pergi dulu ya. Bye - bye.",
         "arif Hati - hati ya dek.",
         "hide character kinan with fadeOutRight duration 1s",
         "show scene #000000 with fadeIn duration 2s",

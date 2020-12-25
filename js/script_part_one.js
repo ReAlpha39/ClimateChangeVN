@@ -51,6 +51,7 @@ monogatari.script({
         "show character kinan piyamaSenang  with fadeIn",
         "play voice 005",
         "kinan Iya kak, nanti kinan buka-in, kinan mau mandi dulu.",
+        "hide character kinan with fadeOut duration 2s",
         "jump partOneCont"
     ],
 
@@ -62,6 +63,7 @@ monogatari.script({
         "show character kinan piyamaSenang with fadeIn",
         "play voice 007",
         "kinan Iya kak, kakak juga jangan lupa mandi, bau tau..",
+        "hide character kinan with fadeOut duration 2s",
         "jump partOneCont"
     ],
 
@@ -73,8 +75,10 @@ monogatari.script({
         "play voice 008",
         "kinan Siap kak.",
         //"Line 33",
-        "wait 1000",
         "hide character kinan with fadeOut",
+        "show scene #000000 with fadeIn 2s",
+        "wait 100",
+        "show scene dalamRumah with fadeIn duration 2s",
         "show character kinan seragamBicara with fadeIn",
         "play voice 009",
         "kinan Buat apa sih buka jendela kaka? kan lebih enak ditutup aja terus " +
@@ -85,8 +89,8 @@ monogatari.script({
         "kinan Tau lah, kan kinan suka sama beruang. hehehe..",
         "arif Kalo Kinan gunakan AC terus menerus kasihan beruang di Kutub, " +
         "nanti es nya mencair tidak ngga ada tempat tinggal beruangnya. " +
-        "mau liat beruangnya sedih ngga ada punya tempat tinggal lagi?",
-        "show character kinan seragamBicara",
+        "Mau liat beruangnya sedih ngga ada punya tempat tinggal lagi?",
+        "show character kinan seragamSedih",
         "play voice 011",
         "kinan Ngga mau ah. Ntar beruangnya bisa mati, kinan kan jadi sedih.",
         "arif Kalo kinan sedih berarti Kinan sudah tau kan apa yang harus dilakuin?",
@@ -94,9 +98,15 @@ monogatari.script({
         "play voice 012",
         //(Note: klo cuma buka jendela sama aja boong)
         "kinan Oke kak, Kinan buka jendela dulu.",
+        "hide character kinan with fadeOut duration 2s",
+        "show scene #000000 with fadeIn 2s",
+        "wait 100",
+        "show scene dalamRumah with fadeIn duration 2s",
         //"Line 43",
         "arif Hari ini kayanya buat roti bakar aja paling ya.",
+        "show scene #000000 with fadeIn 2s",
         "Setelah beberapa menit membuat roti bakar.",
+        "show scene dalamRumah with fadeIn duration 2s",
         "arif Akhirnya sudah jadi.",
         "show character kinan seragamBye",
         "play voice 013",
@@ -105,12 +115,13 @@ monogatari.script({
         "show character kinan seragamBye",
         "play voice 014",
         "kinan Hehehe..",
-        "arif Nih bekal buat mu nanti di sekolah.",
+        "arif Ini bekal buat Kinan nanti di sekolah.",
         "show character kinan seragamSenyum",
         "play voice 015",
         "kinan Makasih kakak.",
         "hide character kinan with fadeOut duration 1s",
-        "(Need to change) Mereka berangkat ke sekola bersama - sama",
+        "show scene #000000 with fadeIn duration 2s",
+        "Kami pun berangkat ke sekola bersama - sama",
         //"(sfx close_door)",
         "jump PartTwo"
     ]
