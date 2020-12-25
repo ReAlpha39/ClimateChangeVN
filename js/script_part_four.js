@@ -118,7 +118,7 @@ monogatari.script({
     'partFourContTwo': [
         "show character roy kaget at left with fadeIn",
         "play voice 094",
-        "roy Lu ikut juga, motor ku cuman muat 2 org.",
+        "roy Lu ikut juga, motor ku cuman muat 2 orang.",
         "show character nadia sekolahBicara at right with fadeIn",
         "play voice 095",
         "nadia Kan aku bisa naik KRL.",

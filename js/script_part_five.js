@@ -74,7 +74,7 @@ monogatari.script({
         "arif Ya mau gimana lagi Nad, macet terus panas lagi.",
         //"show character  with fadeIn",
         "play voice 119",
-        "nadia Makanya jangan pake motor, itu yanmg buat suhu "+
+        "nadia Makanya jangan pake motor, itu yang buat suhu "+
         "di daerah kita naik gara gara polusi.",
         //"show character  with fadeIn",
         "play voice 120",

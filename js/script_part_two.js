@@ -29,7 +29,7 @@ monogatari.script({
                     'Do': 'jump partTwo_One'
                 },
                 'No': {
-                    'Text': 'Pacarku masih dipinjam orang lain. (Note: Sambil tertawa??)',
+                    'Text': 'Pacarku masih dipinjam orang lain',
                     'Do': 'jump partTwo_Two'
                 }
             }
@@ -132,7 +132,6 @@ monogatari.script({
     ],
 
     'partTwoCont_Two': [
-        
         //Line 111 & 112
         //hmm wakannai
         "hide character roy with fadeOut",

@@ -100,7 +100,7 @@ monogatari.script({
         ".......",
         "...",
         "show scene #000000 with fadeIn duration 2s",
-        "Semenjak kejadian naiknys suhu di kota sejuk, "+
+        "Semenjak kejadian naiknya suhu di kota sejuk, "+
         "Banyak para siswa sadar betapa bahayanya asap kendaraan "+
         "bermotor yang asapnya sangat berbahaya dan berpotensi "+
         "terjadinya efek rumah kaca, roy yang selalu ditegur nadia dan arif " +
@@ -125,7 +125,7 @@ monogatari.script({
         "roy Yang sebelumnya 35 derajat sekarang udah jadi 29 derajat.",
         "show character nadia sekolahSenyum with fadeIn",
         "play voice 155",
-        "nadia Nah kan, luamyan sejuk kan jadinya.", //masuk musim dingin paling ini
+        "nadia Nah kan, lumayan sejuk kan jadinya.", //masuk musim dingin paling ini
         "show character nadia sekolahSenang with fadeIn",
         "play voice 156",
         "nadia Walaupun itu hal yang sepele, "+

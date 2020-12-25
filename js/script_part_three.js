@@ -76,7 +76,7 @@ monogatari.script({
         "p_andi Selamat pagi semua.",
         "show character p_andi bicara with fadeIn",
         "play voice 067",
-        "p_andi Pagi ini kita akan mnmperdalam materi tentang rumah kaca.",
+        "p_andi Pagi ini kita akan memperdalam materi tentang rumah kaca.",
         //"show character p_andi senang with fadeIn",
         "play voice 068",
         "p_andi Sebelum masuk ke materi, disini bapak bakal mengulang materi minggu kemaren.",
