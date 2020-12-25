@@ -7,9 +7,9 @@ monogatari.script({
         "show scene kamarArifSiang with fadeIn duration 2s",
         "aku membuka mataku yang terpapar sinar mentari pagi.",
         "arif Wah pagi yang cerah.",
-        "arif Tapi kok lebih panas ya dari kemaren.",
+        "arif Tapi kok lebih panas ya dari kemarin.",
         "arif Matikan Ac dulu lah, sekalian buka jendela.",
-        "Hmmm apakah kinan sudah bangun?",
+        "Kira-Kira Kinan sudah bangun dulu ya?",
         "show scene dalamRumah with fadeIn duration 2s",
         "arif Kinan, Kinan.",
         "play sound door_knock",
@@ -50,7 +50,7 @@ monogatari.script({
         "arif hhhhmmmmm.",
         "show character kinan piyamaSenang  with fadeIn",
         "play voice 005",
-        "kinan Iya kak, nanti kinan buka-in, kinan mau mandi dulu.",
+        "kinan Iya kak, nanti Kinan bukain, Kinan mau mandi dulu.",
         "hide character kinan with fadeOut duration 2s",
         "jump partOneCont"
     ],
@@ -58,7 +58,7 @@ monogatari.script({
     'mandi': [
         "show character kinan piyamaMeledek with fadeIn",
         "play voice 006",
-        "kinan Gak, kinan malas mandi, mau mager aja seharian tehe.",
+        "kinan Gak, kinan malas mandi, mau tiduran aja seharian tehe.",
         "arif hhhmmmmmm",
         "show character kinan piyamaSenang with fadeIn",
         "play voice 007",
@@ -74,8 +74,8 @@ monogatari.script({
         "show character kinan piyamaBicara",
         "play voice 008",
         "kinan Siap kak.",
-        //"Line 33",
-        "hide character kinan with fadeOut",
+        //"Line 33", need to edit the effect
+        //"hide character kinan with fadeOut",
         "show scene #000000 with fadeIn 2s",
         "wait 100",
         "show scene dalamRumah with fadeIn duration 2s",
@@ -87,9 +87,9 @@ monogatari.script({
         "show character kinan seragamBye",
         "play voice 010",
         "kinan Tau lah, kan kinan suka sama beruang. hehehe..",
-        "arif Kalo Kinan gunakan AC terus menerus kasihan beruang di Kutub, " +
-        "nanti es nya mencair tidak ngga ada tempat tinggal beruangnya. " +
-        "Mau liat beruangnya sedih ngga ada punya tempat tinggal lagi?",
+        "arif Kalo kinan gunain AC terus menerus, nanti es ditempat " +
+        "tinggal berung itu jadi mencair, emangnya kinan mau kalo beruangnya " +
+        "sedih karena es ditempat tinggalnya mencair?",
         "show character kinan seragamSedih",
         "play voice 011",
         "kinan Ngga mau ah. Ntar beruangnya bisa mati, kinan kan jadi sedih.",
@@ -121,7 +121,7 @@ monogatari.script({
         "kinan Makasih kakak.",
         "hide character kinan with fadeOut duration 1s",
         "show scene #000000 with fadeIn duration 2s",
-        "Kami pun berangkat ke sekola bersama - sama",
+        "Kami pun berangkat ke sekolah bersama - sama.",
         //"(sfx close_door)",
         "jump PartTwo"
     ]
