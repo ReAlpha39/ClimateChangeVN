@@ -190,7 +190,7 @@ monogatari.script({
         "nadia Karena bisa menabah efek dari rumah kaca.",
         //hmm bukannya si arif uda paham ya sama rumah kaca?
         //ref. script part one
-        "arif Huhh? Rumah kaca?? Maksud mu pelajaran kita minggu kemaren ya.",
+        "arif Huhh? Rumah kaca?? Maksudmu pelajaran kita minggu kemaren ya.",
         //"show character  with fadeIn",
         "play voice 045",
         "nadia Iya, nah kalo misalnya terjadi secara terus menerus jadinya suhu di bumi jadi panas.",
@@ -205,7 +205,7 @@ monogatari.script({
         "arif Oalah. Kirain kenapa.", //Ngga peka emng v:
         "show character nadia sekolahBicara with fadeIn",
         "play voice 048",
-        "nadia dah keburu telat nih, ayok cepat",
+        "nadia Dah keburu telat nih, ayok cepat.",
         "arif Oke",
         "show scene #000000 with fadeIn duration 2s",
         "jump PartThree"

@@ -70,7 +70,7 @@ monogatari.script({
         "Beberapa menit kemudian",
         "play sound bell_sekolah",
         "show scene lorongKelasSiang with fadeIn duration 2s",
-        "wait 1000",
+        "wait 3000",
         "show scene lorongKelasSiang with fadeOut duration 2s",
         "wait 3000",
         "show scene kelasSiang with fadeIn duration 2s",

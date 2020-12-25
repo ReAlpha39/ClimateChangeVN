@@ -1,7 +1,8 @@
 monogatari.script({
     // Scene Hiruyasumi
     'PartFour': [
-        "Hiruyasumi",
+        "play sound bell_sekolah",
+        "wait 1000",
         "arif Makan bareng yok Roy",
         "show character roy senyum with fadeIn",
         "play voice 079",
@@ -19,6 +20,7 @@ monogatari.script({
         //bell sekolah
         //Tak lama kemudian roy tiba tiba menghampiri ku.
         "show scene kelasSore with fadeIn duration 2s",
+        "wait 1000",
         "show character roy bicara with fadeIn",
         "play voice 082",
         "roy Rif, mau ikut ga nih?",
@@ -127,7 +129,7 @@ monogatari.script({
         "roy Waduh...",
         "show character nadia sekolahMarah at right with fadeIn",
         "play voice 097",
-        "nadia Kenapa ga senang kah aku ikut?", //(muka marah)
+        "nadia Kenapa? ga senang kah aku ikut?", //(muka marah)
         //"show character roy gugup with fadeIn",
         "play voice 098",
         "roy E.. e... gak kok.",
