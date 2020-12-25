@@ -87,8 +87,9 @@ monogatari.script({
         "roy Ayo naik",
         "Kemudian aku pun naik ke motor arif",
         "play sound motorStart",
+        "show scene jalanSiang with fadeIn duration 2s",
         "Beberapa menit kemudian",
-        "stop sound motorStart with fade 3",
+        "stop sound with fade 3",
         "play sound motorJalan",
         //"show character roy bicara with fadeIn",
         "play voice 029",
@@ -128,13 +129,13 @@ monogatari.script({
         "play voice 030",
         "roy Ayok",
         "stop sound motorDorong with fade 3",
+        "hide character roy with fadeOut",
         "jump partTwoCont_Two"
     ],
 
     'partTwoCont_Two': [
         //Line 111 & 112
         //hmm wakannai
-        "hide character roy with fadeOut",
         "arif Pagi Nadia.",
         "show character nadia sekolahSenyum with fadeIn",
         "play voice 031",
@@ -162,7 +163,7 @@ monogatari.script({
         "play voice 038",
         "roy Bye.",
         //Line 124
-        "arif Eh turunin aku dulu. Biar aku bareng ma Nadia aja.",
+        "arif Eh turunin aku dulu. Biar aku bareng sama Nadia aja.",
         "show character roy ngambek at left with fadeIn",
         "play voice 039",
         "roy Oke deh",
@@ -193,15 +194,15 @@ monogatari.script({
         //"show character  with fadeIn",
         "play voice 045",
         "nadia Iya, nah kalo misalnya terjadi secara terus menerus jadinya suhu di bumi jadi panas.",
-        "arif Wah, Kamu pintar banget nad. aku aja masih bingung tentang pembahasan kemaren.",
+        "arif Wah, Kamu pintar banget Nad. Aku aja masih bingung tentang pembahasan kemaren.",
         "show character nadia sekolahKaget with fadeIn",
         "play voice 046",
         "nadia hehh!!", //(Muka malu)
         "arif Kenapa Nad?", //Donkan ternyata ini protagonist
         "show character nadia sekolahMalu with fadeIn",
         "play voice 047",
-        "nadia e... e... gak ada.", // hmm menarik2
-        "arif Oalah. kirain kenapa.", //Ngga peka emng v:
+        "nadia E... e... gak ada.", // hmm menarik2
+        "arif Oalah. Kirain kenapa.", //Ngga peka emng v:
         "show character nadia sekolahBicara with fadeIn",
         "play voice 048",
         "nadia dah keburu telat nih, ayok cepat",
