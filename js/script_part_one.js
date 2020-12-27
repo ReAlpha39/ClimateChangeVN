@@ -78,8 +78,9 @@ monogatari.script({
         //"Line 33", need to edit the effect
         //"hide character kinan with fadeOut",
         "show scene #000000 with fadeIn 2s",
-        "wait 100",
+        "wait 2000",
         "show scene dalamRumah with fadeIn duration 2s",
+        "wait 3000",
         "show character kinan seragamBicara with fadeIn",
         "play voice 009",
         "kinan Buat apa sih buka jendela kaka? kan lebih enak ditutup aja terus " +
