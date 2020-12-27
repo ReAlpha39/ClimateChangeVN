@@ -140,7 +140,7 @@ monogatari.preferences ({
 
 	// Initial Volumes from 0.0 to 1.
 	'Volume': {
-		'Music': 1,
+		'Music': 0.2,
 		'Voice': 1,
 		'Sound': 1,
 		'Video': 1
