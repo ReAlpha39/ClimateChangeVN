@@ -248,8 +248,6 @@ monogatari.assets ('scenes', {
 	'dalamRumah': 'dalam_rumah_arif.png',
     'jalanRaya': 'jalan_raya.png',
     'jalanSiang': 'jalan_siang.png',
-    'jalanSore': 'jalan_sore.png',
-    'kamarArifMalam': 'kamar_arif_malam.png',
 	'kamarArifSiang': 'kamar_arif_siang.png',
 	'kamarKinanMalam': 'kamar_kinan_malam.png',
 	'kamarKinanSiang': 'kamar_kinan_siang.png',
@@ -260,25 +258,14 @@ monogatari.assets ('scenes', {
 	'langitSore': 'langit_sore.png',
 	'langitMalam': 'langit_malam.png',
 	'lorongKelasSiang': 'lorongkelas_siang.png',
-	'lorengkelasSore': 'lorongkelas_sore.png',
-	'stasiun': 'stasiun.png',
 	'stasiunSore': 'stasiun_sore.png'
 });
 
 
 // Define the Characters
 monogatari.characters ({
-	'y': {
-		name: 'Yui',
-		color: '#5bcaff'
-	},
-
 	'arif': {
 		name: 'Arif',
-		directory: 'Arif',
-		sprites: {
-			normal: 'Arif_Half.png'
-		}
 	},
 
 	'nadia': {
