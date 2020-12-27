@@ -1,6 +1,4 @@
 Scene Pagi :
-Reporter : Tinjauan keadaan cuaca pada hari ini menunjukkan keadaan cuaca cerah di kota Sejuk
-diperkirakan suhu naik menjadi 35 derajat celcius. lalu lintas sekarang terlihat macet di sepanjang jalan Diponegoro
 
 (Latar : kamar Arif)
 (000)Arif		: Huaaaaaahhh.
@@ -160,7 +158,7 @@ Pilihan 2
 (Kami mendengar perbincangan siswa lain.)
 (049)Siswa 1 	: Hey.
 (050)Siswa 2 	: Halo.
-(051)Siswa 1 	: Ngomong ngomong, Kalian tau nggak kalo skrng di daerah kita sudah terlalu panas?
+(051)Siswa 1 	: Ngomong ngomong, Kamu tau nggak kalo skrng di daerah kita sudah terlalu panas?
 (052)Siswa 2 	: Ya nih, aku juga ngerasa begitu.
 (053)Siswa 1 	: Dulu kan daerah kita dingin ya.
 (054)Siswa 2 	: Iya, dulu itu bisa sampe 18-25 derajat aja, skrng saya dengar berita pagi tadi malah suhunya 35 derajat.
