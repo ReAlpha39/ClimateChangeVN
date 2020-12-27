@@ -3,6 +3,7 @@ monogatari.script({
     'PartFour': [
         "play sound bell_sekolah",
         "wait 1000",
+        "play music bgm03 with loop",
         "arif Makan bareng yok Roy",
         "show character roy senyum with fadeIn",
         "play voice 079",
@@ -158,6 +159,7 @@ monogatari.script({
         //"show character roy bicara with fadeIn",
         "play voice 104",
         "roy Bye juga.",
+        "stop music bgm03 with fade 3",
         "hide character nadia sekolahGembira with fadeOutLeft",
         "jump PartFive"
     ]

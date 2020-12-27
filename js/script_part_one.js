@@ -3,10 +3,13 @@ monogatari.script({
     'PartOne': [
         "reporter Tinjauan keadaan cuaca pada hari ini menunjukkan keadaan cuaca cerah di kota " +
         "diperkirakan suhu naik menjadi 32 derajat celcius. lalu lintas sekarang terlihat macet di sepanjang jalan",
+        "play sound burung_short with loop",
         "arif Huaaaaaahhh...",
         "show scene kamarArifSiang with fadeIn duration 2s",
+        "play music bgm01 with loop",
         "aku membuka mataku yang terpapar sinar mentari pagi.",
         "arif Wah pagi yang cerah.",
+        "stop sound burung_short with fade 3",
         "arif Tapi kok lebih panas ya dari kemarin.",
         "arif Matikan Ac dulu lah, sekalian buka jendela.",
         "Kira-Kira Kinan sudah bangun dulu ya?",
@@ -120,6 +123,7 @@ monogatari.script({
         "play voice 015",
         "kinan Makasih kakak.",
         "hide character kinan with fadeOut duration 1s",
+        "stop music bgm01 with fade 3",
         "show scene #000000 with fadeIn duration 2s",
         "Kami pun berangkat ke sekolah bersama - sama.",
         //"(sfx close_door)",

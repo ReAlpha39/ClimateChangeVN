@@ -2,6 +2,7 @@ monogatari.script({
     // Part two
     'PartTwo': [
         "show scene jalanSiang with fadeIn duration 2s",
+        "play music bgm02 with loop",
         "Sesampainya di persimpangan",
         "show character kinan seragamSenyum with fadeIn",
         "play voice 016",
@@ -207,6 +208,7 @@ monogatari.script({
         "play voice 048",
         "nadia Dah keburu telat nih, ayok cepat.",
         "arif Oke",
+        "stop music bgm02 with fade 3",
         "show scene #000000 with fadeIn duration 2s",
         "jump PartThree"
     ]
