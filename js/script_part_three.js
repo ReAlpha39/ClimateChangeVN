@@ -140,6 +140,7 @@ monogatari.script({
         "terhadap permukaan bumi atau yang kita kenal dengan pemanasan global.",
         "Pak Andi pun menjelaskan materinya kepada kami.",
         "show scene kelasSiang with fadeIn duration 2s",
+        "play sound bell_sekolah",
         "Saking asiknya belajar bersama pak andi, tanpa sadar bel istirahat pun berbunyi.",
         "jump PartFour"
     ]

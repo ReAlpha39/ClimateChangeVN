@@ -1,7 +1,6 @@
 monogatari.script({
     // Scene Hiruyasumi
     'PartFour': [
-        "play sound bell_sekolah",
         "wait 1000",
         "play music bgm03 with loop",
         "arif Makan bareng yok Roy",
@@ -16,12 +15,12 @@ monogatari.script({
         "play voice 081",
         "nadia Boleh.",
         //Aku, Nadia, dan Roy pergi ke kantin.
-        "show scene #000000 with fadeIn duration 1s",
+        "show scene #000000 with fadeIn duration 2s",
         "Setelah itu kami pun makan siang dan mengikuti pelajaran hingga akhir",
         //bell sekolah
         //Tak lama kemudian roy tiba tiba menghampiri ku.
         "show scene kelasSore with fadeIn duration 2s",
-        "wait 1000",
+        "wait 3000",
         "show character roy bicara with fadeIn",
         "play voice 082",
         "roy Rif, mau ikut ga nih?",
