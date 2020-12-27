@@ -44,7 +44,12 @@ monogatari.assets ('gallery', {
 
 // Define the music used in the game.
 monogatari.assets ('music', {
-	'morning': '1 Alongside Chirping Cicadas.mp3'
+	'morning': '1 Alongside Chirping Cicadas.mp3',
+	'bgm01': 'bgm01.mp3',
+	'bgm02': 'bgm02.mp3',
+	'bgm03': 'bgm03.mp3',
+	'bgm04': 'bgm04.mp3',
+	'bgm05': 'bgm05.mp3',
 });
 
 // Define the voice files used in the game.
