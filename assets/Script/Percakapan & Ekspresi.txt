@@ -156,9 +156,9 @@ Pilihan 2
 (Sementara di kelas.) (Sf : Pintu kebuka 
 (Aku dan Nadia duduk di dekat Roy.)
 (Kami mendengar perbincangan siswa lain.)
-(049)Siswa 1 	: Hey.
-(050)Siswa 2 	: Halo.
-(051)Siswa 1 	: Ngomong ngomong, Kamu tau nggak kalo skrng di daerah kita sudah terlalu panas?
+(049)Siswa 1 	: Pagi.
+(050)Siswa 2 	: Pagi juga.
+(051)Siswa 1 	: Ngemeng Ngemeng Kamu tau nggak kalo skrng di daerah kita sudah terlalu panas?
 (052)Siswa 2 	: Ya nih, aku juga ngerasa begitu.
 (053)Siswa 1 	: Dulu kan daerah kita dingin ya.
 (054)Siswa 2 	: Iya, dulu itu bisa sampe 18-25 derajat aja, skrng saya dengar berita pagi tadi malah suhunya 35 derajat.
