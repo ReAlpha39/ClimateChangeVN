@@ -16,7 +16,7 @@ monogatari.script({
         "kinan Selamat malam kakak.", //hmm rasa aneh
         "show character kinan piyamaKaget with fadeIn",
         "play voice 135",
-        "kinan Kakak kok baru pulang?",
+        "kinan Kakak kok baru pulang sih?",
         "arif Tadi kakak pergi ke Mall.",
         "show character kinan piyamaSedih with fadeIn",
         "play voice 136",
@@ -25,11 +25,11 @@ monogatari.script({
         "play voice 137",
         "kinan Kinan sendirian dirumah tau.",
         "arif Hehehe, tadi kakak pulang sekolah "+
-        "langsung diajakin sama Roy jalan ke mall.",
+        "langsung diajakin sama Roy jalan ke Mall.",
         //"show character  with fadeIn",
         "play voice 138",
         "kinan Hmm..",
-        "arif Heheh maaf ya, kaka ga ngabarin.",
+        "arif Heheh maaf ya, kaka ngga ngabarin.",
         //"show character  with fadeIn",
         "play voice 139",
         "kinan Kaka jahat, gak mau tau kaka harus buatin kinan makan malam.",
@@ -38,7 +38,9 @@ monogatari.script({
         "play voice 140",
         "kinan mm..",
         "Kinan menganggukkan kepalanya secara vertikal",
+        "show scene #000000 with fadeIn 2s",
         "Setelah itu kami pun makan malam bersama.",
+        "show scene dalamRumah with fadeIn duration 2s",
         "show character kinan piyamaBicara with fadeIn",
         "play voice 141",
         "kinan Akhirnya kenyang juga.",
@@ -103,7 +105,7 @@ monogatari.script({
         "Semenjak kejadian naiknya suhu di kota sejuk, "+
         "Banyak para siswa sadar betapa bahayanya asap kendaraan "+
         "bermotor yang asapnya sangat berbahaya dan berpotensi "+
-        "terjadinya efek rumah kaca, roy yang selalu ditegur nadia dan arif " +
+        "terjadinya efek rumah kaca, Roy yang selalu ditegur nadia dan arif " +
         "pun sekarang sudah berjalan kaki ke sekolah.",
         "show scene langitSiang with fadeIn duration 2s",
         "6 bulan lebih  kemudian mereka jalani untuk mengurangi gas rumah kaca" + 
@@ -125,22 +127,22 @@ monogatari.script({
         "roy Yang sebelumnya 35 derajat sekarang udah jadi 29 derajat.",
         "show character nadia sekolahSenyum with fadeIn",
         "play voice 155",
-        "nadia Nah kan, lumayan sejuk kan jadinya.", //masuk musim dingin paling ini
+        "nadia Nah kan, lumayan sejukkan jadinya.", //masuk musim dingin paling ini
         "show character nadia sekolahSenang with fadeIn",
         "play voice 156",
         "nadia Walaupun itu hal yang sepele, "+
         "tetapi efeknya akan kita rasakan pada masa yang akan datang.",
-        "arif Untung ditegur terus sama Kinan, "+
+        "arif Untung ditegur terus sama Nadia, "+
         "kalo ga dah pasti bawa motor terus ke sekolah.",
         "arif Ngga disekolah aja mungkin, di luar juga kan.",
         "show character roy tertawaSenang at left with fadeIn",
         "play voice 157",
         "roy He he he...", // (Ketawa kecil)
         "show scene langitSiang with fadeIn duration 2s",
-        "hal yang ada disekitar kita walaupun itu hal kecil bisa mendatangkan suatu efek ",
+        "Hal yang ada disekitar kita walaupun itu hal kecil bisa mendatangkan suatu efek " +
         "kepada kita baik efek buruk maupun efek baik.",
         "Berkendara motor boleh, tapi ingat semakin banyak penggunaan kendaraan bermotor " +
-        "maka sedikit demi sedkit Pembakaran bahan bakar kendaraan bermotor ini menghasilkan " +
+        "maka sedikit demi sedikit pembakaran bahan bakar kendaraan bermotor ini menghasilkan " +
         "gas rumah kaca berupa karbonmonoksida(CO), karbondioksida(CO2), dan uap air(H2O).",
         "inilah yang akan membuat suhu bumi menjadi panas " +
         "jadi mari sama sama kita basmi dampak efek rumah kaca.",
