@@ -1,6 +1,7 @@
 monogatari.script({
     // Part two
     'PartTwo': [
+        "wait 2000",
         "show scene jalanSiang with fadeIn duration 2s",
         "play music bgm02 with loop",
         "Sesampainya di persimpangan",

@@ -3,9 +3,16 @@ monogatari.script({
     //sfx motor bunyi
     //sfx klakson
     'PartFive': [
+        "show scene kelasSore with fadeOut duration 1s",
+        "wait 1000",
+        "show scene #000000 with fadeIn duration 1s",
+        "wait 1000",
         "show scene langitSore with fadeIn duration 1s",
-        "Diperjalanan menuju stasiun",
+        "wait 1000",
+        "show scene langitSore with fadeIn duration 1s",
+        "wait 1000",
         "show scene jalanRaya with fadeIn duration 1s",
+        "Diperjalanan menuju stasiun",
         "play sound kemacetan with loop",
         "play sound motorIdle with loop",
         //"show character  with fadeIn",

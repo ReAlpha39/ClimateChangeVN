@@ -20,7 +20,7 @@ monogatari.script({
         //bell sekolah
         //Tak lama kemudian roy tiba tiba menghampiri ku.
         "show scene kelasSore with fadeIn duration 2s",
-        "wait 3000",
+        "wait 2000",
         "show character roy bicara with fadeIn",
         "play voice 082",
         "roy Rif, mau ikut ga nih?",

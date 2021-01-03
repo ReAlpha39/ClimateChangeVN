@@ -70,6 +70,8 @@ monogatari.script({
 
     'partOneCont': [
         "Kinan pun berjalan menuju kamar mandi.",
+        "show scene kamarKinanSiang with fadeOut duration 2s",
+        "wait 100",
         "show scene dalamRumah with fadeIn duration 2s",
         "arif Jangan lupa nanti buka jendela kamarmu ya.",
         "show character kinan piyamaBicara",
@@ -77,7 +79,7 @@ monogatari.script({
         "kinan Siap kak.",
         //"Line 33", need to edit the effect
         //"hide character kinan with fadeOut",
-        "show scene #000000 with fadeIn 2s",
+        "show scene  with fadeIn 2s",
         "wait 2000",
         "show scene dalamRumah with fadeIn duration 2s",
         "wait 3000",
@@ -101,12 +103,14 @@ monogatari.script({
         //(Note: klo cuma buka jendela sama aja boong)
         "kinan Oke kak, Kinan buka jendela dulu.",
         "hide character kinan with fadeOut duration 2s",
-        "show scene #000000 with fadeIn 2s",
         "wait 100",
+        "show scene #000000 with fadeIn 2s",
+        "wait 2000",
         "show scene dalamRumah with fadeIn duration 2s",
         //"Line 43",
         "arif Hari ini kayanya buat roti bakar aja paling ya.",
         "show scene #000000 with fadeIn 2s",
+        "wait 2000",
         "Setelah beberapa menit membuat roti bakar.",
         "show scene dalamRumah with fadeIn duration 2s",
         "arif Akhirnya sudah jadi.",

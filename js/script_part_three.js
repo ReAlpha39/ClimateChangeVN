@@ -2,6 +2,7 @@ monogatari.script({
     // Scene Sekolah
     'PartThree': [
         //sfx open door
+        "wait 2000",
         "show scene kelasSiang with fadeIn duration 2s",
         "play sound kelas with loop",
         "play voice 049",
