@@ -1,0 +1,143 @@
+Scene Pagi :
+Reporter : Tinjauan keadaan cuaca pada hari ini menunjukkan keadaan cuaca cerah di kota ...
+diperkirakan suhu naik menjadi 35 derajat celcius. lalu lintas sekarang terlihat macet di sepanjang jalan ....
+
+Arif : Huaaaaaahhh (melek)
+Arif : wah pagi yang cerah.
+(Arif mematikan ac dan membuka jendela rumahnya)
+Arif : apakah kinan sudah bangun?
+(Arif pergi ke kamarnya kinan) (sf : membuka pintu)
+Arif : Kinan, Kinan.
+Arif : Ayo bangun, sudah pagi ni
+Kinan : huuuuhhh (Masih tidur)
+Kinan : 5 menit lagi ya kak....
+Arif : eh jangan begitu, adek kan sudah besar, harus bangun pagi dong biar sehat.
+Kinan :  iya Kaka (bangun dari tidurny)
+Arif :  1. Menyuruh kinan Membuka jendela kamarnya.
+	2. Menyuruh kinan mandi
+
+(pilihan 1) 
+Kinan : heeehhh. buat apa buka jendela?, AC kan lebih dingin, kalo buka jendela jadi panas kaka. 
+	kinan ga mau,ntar kepanasan. hehehe (ngeledek)
+arif  : Hmmmmm.(ekspresi merajuk)
+Kinan : Iya kaka, nanti kinan bukain, kinan mau mandi dulu.
+(pilihan 2)
+Kinan  : gak, kinan malas mandi. mau ditempat tidur aja seharian. :) hehehe (ngeledek)
+Arif   : Hmmmmm.(ekspresi merajuk)
+Kinan  : iya kaka. kakak juga jangan lupa mandi, bau tau :D (senang usil)
+
+(kinan menuju toilet)
+arif   : Jangan lupa nanti buka jendelanya
+Kinan  : siap oni-chan
+
+(Setelah kinan mandi)
+Kinan ; Buat apa sih buka jendela kaka? kan lebih enak ditutup aja terus hidupin ac biar dingin.
+Arif  : kinana tau beruang dikutub?
+kinan : tau lah, kan kinan suka sama beruang. hehehe
+arif  : kalo kinan gunakan AC terus menerus kasihan beruang dikutub, nanti esnya mencair 
+	ga ada tempat tinggal beruangnya. mau lihat beruangnya sedih ga punya tewmpat tinggal lagi?
+kinan : ga mau ah. ntar beruangnya bisa mati, kinan kan jadi sedih (murung)
+arif  : kalo kinan sedih berarti kinan dah tau kan apa yg harus dilakukan?
+kinan : oke kak, kinan buka jendelanya dulu.
+
+(Dapur)
+Arif : hari ini kayaknya buat roti aja paling ya.
+()
+Arif : la la la la ....
+Arif : Akhirnya sudah jadi 
+(Setelah kinan membuka jendela)
+
+kinan : Ayo kak kita berangkat bareng.
+arif  : iya iya, semangat sekali kinan.
+kinan : hehehe (Raut wajah gembira)
+
+(mereka berangkat ke sekolah bersama - sama) (sf : menutup pintu)
+
+Scene di jalan :
+
+Kinan : kak, pergi dulu ya. bye bye
+Arif : Hati hati ya dek.
+
+(Beberapa menit kemudian)
+
+Roy : yo arif
+Arif : eh ada roy
+Roy :Sendiri aja, mana pacar mu? hahah
+Arif : 1. aku ga punya pacar kok
+       2. Pacarku masih dipinjem orang lain. (Sambil tertawa)
+ 
+Pilihan ()
+
+Roy : dasar ngenes amat kamu rif, hahahah
+Arif : kok punya temen kayak gini ya. 
+Roy : oh gitu ya kamu rif. hahaha
+
+Pilihan 2
+
+Roy : ah, bisa aja kamu rif. bilang aja jomblo susah amat dah
+Arif : iya nih aku jomblo, cariin kek pacar buat ku. heheh
+Roy : aman, disekolah banyak kok cewek. hahah
+
+()
+
+Roy : mo bareng ga pake motor ku ini?
+Arif : 1 Hayuk gas
+       2 Ga ah, mending jalan kaki biar lebih sehat.
+
+(pilihan 1)
+
+Roy : Ayo naik,
+(Arif kemudian naik ke motor arif) (Sf : Suara knalpot motor)
+
+(pilihan 2)
+
+Roy : Ya elah, jalan kaki ma lama.
+Roy : Mending naik motor aja, biar cepat sampai
+Arif : Maksih roy, tapi ku pengen jalan kaki aja
+Roy : ya udah lah, bareng aja sama kamu
+Arif : gapapa nih?
+Roy :  ya gapapa
+
+(Roy dan Arif bertemu Nadia)
+
+Roy : tuh ada nadia rif.
+Arif : mau disamperin kah?
+Roy : Ayok
+
+(jika memilih pilihan 1 ) (sf : suara knalpot motor melambat)
+
+Arif : Pagi nadia
+Nadia : eh ada arif sama roy, pagi juga
+Roy : pagi nadia
+Nadia : Sejak kapan kamu bawa motor ke sekolah sih roy?
+Roy : baru tadi pagi
+Nadia : rumah mu kan dekat, masa masih bawa motor juga
+Roy : ih Biarin, kan motorku juga.
+Roy : dah lah mau cabut dulu
+Roy : bye
+
+(Scene ketika memilih naik motor bersama arif)
+Arif : eh turunin aku dulu. biar aku bareng ma nadia aja
+Roy : oke deh
+(Arif turun & roy langsung cabut)
+
+Nadia : lah kenapa ga bareng sama roy?
+Arif : gapapa sih, mau bareng sama kamu aja
+Nadia : hoooo
+Arif : ngomong ngomong, tadi si roy ngambek tuh.
+Nadia : hah!! ngambek
+Arif : iya pas kamu nasehatin tadi.
+Nadia : oalah, aku nasehatin supaya dia tuh sadar jangan bawa motor ke sekolah.
+Nadia : karena bisa menabah efek dari rumah kaca
+Arif : Huhh?? rumah kaca?? maksud mu pelajaran kita minggu kemaren ya
+Nadia : iya, nah kalo misalnya terjadi secara terus menerus jadinya suhu di bumi jadi panas
+Arif : wah, kamu pintar banget nad. aku aja masih bingung tentang pembahasan kemaren
+Nadia : hehh!! (Muka malu)
+Arif :  kenapa nad
+Nadia : e... e... gak ada. (Muka malu)
+Arif : oalah. kirain kenapa
+Nadia : dah keburu telat nih, ayok cepat 
+Arif : Oke
+
+Scene disekolah :
+

@@ -218,7 +218,7 @@ monogatari.assets ('sounds', {
 	'door_open': 'SE_buka_pintu.mp3',
 	'door_knock': 'SE_ketuk_pintu.mp3',
 	'door_close': 'SE_tutup_pintu.mp3',
-	'bell_sekolah': 'SE_Bel_Sekolah_v2.mp3',
+	'bell_sekolah': 'SE_bel_Sekolah_v2.mp3',
 	'burung_short': 'SE_burung_short.mp3',
 	'jalanan': 'SE_jalan.mp3',
 	'kemacetan': 'SE_Jalan_bising.mp3',
