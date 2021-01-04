@@ -44,7 +44,12 @@ monogatari.assets ('gallery', {
 
 // Define the music used in the game.
 monogatari.assets ('music', {
-	'morning': '1 Alongside Chirping Cicadas.mp3'
+	'morning': '1 Alongside Chirping Cicadas.mp3',
+	'bgm01': 'bgm01.mp3',
+	'bgm02': 'bgm02.mp3',
+	'bgm03': 'bgm03.mp3',
+	'bgm04': 'bgm04.mp3',
+	'bgm05': 'bgm05.mp3',
 });
 
 // Define the voice files used in the game.
@@ -213,7 +218,7 @@ monogatari.assets ('sounds', {
 	'door_open': 'SE_buka_pintu.mp3',
 	'door_knock': 'SE_ketuk_pintu.mp3',
 	'door_close': 'SE_tutup_pintu.mp3',
-	'bell_sekolah': 'SE_Bel_Sekolah_v2.mp3',
+	'bell_sekolah': 'SE_bel_Sekolah_v2.mp3',
 	'burung_short': 'SE_burung_short.mp3',
 	'jalanan': 'SE_jalan.mp3',
 	'kemacetan': 'SE_Jalan_bising.mp3',

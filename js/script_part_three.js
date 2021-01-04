@@ -2,50 +2,38 @@ monogatari.script({
     // Scene Sekolah
     'PartThree': [
         //sfx open door
+        "wait 2000",
         "show scene kelasSiang with fadeIn duration 2s",
         "play sound kelas with loop",
-        //"show character  with fadeIn",
-        //"play voice 049",
-        "siswaOne Hey.", //Rada aneh, knpa ngga
-        //"show character  with fadeIn",
-        //"play voice 050",
-        "siswaTwo Halo.",//kek biasa aja seperti "Pagi"?
-        //"show character  with fadeIn",
-        //"play voice 051",
-        "siswaOne Ngomong ngomong, Kalian tau nggak " +
+        "play voice 049",
+        "siswaOne Pagi", //Rada aneh, knpa ngga
+        "play voice 050",
+        "siswaTwo Pagi juga.",//kek biasa aja seperti "Pagi"?
+        "play voice 051",
+        "siswaOne Ngomong-ngomong, kamu tau nggak " +
         "kalo skrng di daerah kita sudah terlalu panas?",
-        //"show character  with fadeIn",
-        //"play voice 052",
+        "play voice 052",
         "siswaTwo Ya nih, aku juga ngerasa begitu.",
-        //"show character  with fadeIn",
-        //"play voice 053",
+        "play voice 053",
         "siswaOne Dulu kan daerah kita dingin ya.", //Dulu? tahun brpa? lul
-        //"show character  with fadeIn",
-        //"play voice 054",
+        "play voice 054",
         "siswaTwo Iya, dulu itu bisa sampe 18-25 derajat aja, "+
         "skrng saya dengar berita pagi tadi malah suhunya 35 derajat.",
-        //"show character  with fadeIn",
-        //"play voice 055",
+        "play voice 055",
         "siswaOne Serius lu?",
-        //"show character  with fadeIn",
-        //"play voice 056",
+        "play voice 056",
         "siswaTwo Iya serius.",
-        //"show character  with fadeIn",
-        //"play voice 057",
+        "play voice 057",
         "siswaOne Apa jangan jangan di daerah kita banyak yang "+
         "make kendaraan makanya jadi panas ya.",
-        //"show character  with fadeIn",
-        //"play voice 058",
+        "play voice 058",
         "siswaTwo Bisa jadi sih.",
-        //"show character  with fadeIn",
-        //"play voice 059",
+        "play voice 059",
         "siswaOne Waduh aku kesini malah bawa sepeda motor loh.",
-        //"show character  with fadeIn",
-        //"play voice 060",
+        "play voice 060",
         "siswaTwo Besok jangan bawa deh coba untuk 1 bulan dulu. "+
         "Biar kita bareng gitu pergi ke sekolah jalan kaki.",
-        //"show character  with fadeIn",
-        //"play voice 061",
+        "play voice 061",
         "siswaOne Oke siap.",
         "show character nadia sekolahBicara with fadeIn",
         "play voice 062",
@@ -153,6 +141,7 @@ monogatari.script({
         "terhadap permukaan bumi atau yang kita kenal dengan pemanasan global.",
         "Pak Andi pun menjelaskan materinya kepada kami.",
         "show scene kelasSiang with fadeIn duration 2s",
+        "play sound bell_sekolah",
         "Saking asiknya belajar bersama pak andi, tanpa sadar bel istirahat pun berbunyi.",
         "jump PartFour"
     ]

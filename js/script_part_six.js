@@ -4,6 +4,7 @@ monogatari.script({
         "Sepulangnya kerumah.",
         "show scene dalamRumah with fadeIn duration 2s",
         "play sound door_open",
+        "play music bgm04 with loop",
         "arif Halo..",
         "arif Kenapa didalam sepi ya?",
         "play sound door_close",
@@ -101,6 +102,7 @@ monogatari.script({
         "............",
         ".......",
         "...",
+        "stop music bgm04 with fade 3",
         "show scene #000000 with fadeIn duration 2s",
         "Semenjak kejadian naiknya suhu di kota sejuk, "+
         "Banyak para siswa sadar betapa bahayanya asap kendaraan "+

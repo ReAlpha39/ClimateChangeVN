@@ -1,12 +1,13 @@
 monogatari.script({
     // Part one
     'PartOne': [
-        "reporter Tinjauan keadaan cuaca pada hari ini menunjukkan keadaan cuaca cerah di kota " +
-        "diperkirakan suhu naik menjadi 32 derajat celcius. lalu lintas sekarang terlihat macet di sepanjang jalan",
+        "play sound burung_short with loop",
         "arif Huaaaaaahhh...",
         "show scene kamarArifSiang with fadeIn duration 2s",
+        "play music bgm01 with loop",
         "aku membuka mataku yang terpapar sinar mentari pagi.",
         "arif Wah pagi yang cerah.",
+        "stop sound burung_short with fade 3",
         "arif Tapi kok lebih panas ya dari kemarin.",
         "arif Matikan Ac dulu lah, sekalian buka jendela.",
         "Kira-Kira Kinan sudah bangun dulu ya?",
@@ -69,6 +70,8 @@ monogatari.script({
 
     'partOneCont': [
         "Kinan pun berjalan menuju kamar mandi.",
+        "show scene kamarKinanSiang with fadeOut duration 2s",
+        "wait 100",
         "show scene dalamRumah with fadeIn duration 2s",
         "arif Jangan lupa nanti buka jendela kamarmu ya.",
         "show character kinan piyamaBicara",
@@ -76,9 +79,10 @@ monogatari.script({
         "kinan Siap kak.",
         //"Line 33", need to edit the effect
         //"hide character kinan with fadeOut",
-        "show scene #000000 with fadeIn 2s",
-        "wait 100",
+        "show scene  with fadeIn 2s",
+        "wait 2000",
         "show scene dalamRumah with fadeIn duration 2s",
+        "wait 3000",
         "show character kinan seragamBicara with fadeIn",
         "play voice 009",
         "kinan Buat apa sih buka jendela kaka? kan lebih enak ditutup aja terus " +
@@ -99,12 +103,14 @@ monogatari.script({
         //(Note: klo cuma buka jendela sama aja boong)
         "kinan Oke kak, Kinan buka jendela dulu.",
         "hide character kinan with fadeOut duration 2s",
-        "show scene #000000 with fadeIn 2s",
         "wait 100",
+        "show scene #000000 with fadeIn 2s",
+        "wait 2000",
         "show scene dalamRumah with fadeIn duration 2s",
         //"Line 43",
         "arif Hari ini kayanya buat roti bakar aja paling ya.",
         "show scene #000000 with fadeIn 2s",
+        "wait 2000",
         "Setelah beberapa menit membuat roti bakar.",
         "show scene dalamRumah with fadeIn duration 2s",
         "arif Akhirnya sudah jadi.",
@@ -120,6 +126,7 @@ monogatari.script({
         "play voice 015",
         "kinan Makasih kakak.",
         "hide character kinan with fadeOut duration 1s",
+        "stop music bgm01 with fade 3",
         "show scene #000000 with fadeIn duration 2s",
         "Kami pun berangkat ke sekolah bersama - sama.",
         //"(sfx close_door)",
