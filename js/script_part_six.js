@@ -148,6 +148,9 @@ monogatari.script({
         "gas rumah kaca berupa karbonmonoksida(CO), karbondioksida(CO2), dan uap air(H2O).",
         "inilah yang akan membuat suhu bumi menjadi panas " +
         "jadi mari sama sama kita basmi dampak efek rumah kaca.",
+        "show scene langitSiang with fadeOut duration 2s",
+        "wait 2000",
+        "show video credit immersive with close",
         "end"
     ]
 });

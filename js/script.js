@@ -240,7 +240,7 @@ monogatari.assets ('sounds', {
 
 // Define the videos used in the game.
 monogatari.assets ('videos', {
-
+	'credit': 'Credits.mp4'
 });
 
 // Define the images used in the game.
