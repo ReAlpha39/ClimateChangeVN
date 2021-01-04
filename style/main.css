@@ -113,7 +113,10 @@ button:hover {
 
 /* Character Name Style */
 [data-ui="who"] {
-
+	display: block;
+	width: 100%;
+	margin: 0;
+	padding: 0.5rem 4rem;
 }
 
 /* Style for Centered Text */
