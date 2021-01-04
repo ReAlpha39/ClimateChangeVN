@@ -108,7 +108,7 @@ button:hover {
 	display: block;
 	width: 100%;
 	margin: 0;
-	padding: 0.5rem 11rem;
+	padding: 0.5rem 15rem;
 }
 
 /* Character Name Style */
@@ -127,7 +127,7 @@ button:hover {
 /* Character Images Styles */
 [data-screen="game"] [data-character] {
 	margin: 0 auto;
-	padding: 0 10rem;
+	padding: 0 13rem;
 }
 
 /* Other Images Styles */
