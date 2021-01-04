@@ -85,7 +85,7 @@ monogatari.script({
             'Choice': {
                 'Dialog': 'arif',
                 'Yes': {
-                    'Text': 'ini mau pergi ke mall, mau ikut gak Nad?',
+                    'Text': 'Ini mau pergi ke mall, mau ikut gak Nad?',
                     'Do': 'jump partFour_Three'
                 },
                 'No': {
@@ -97,7 +97,7 @@ monogatari.script({
     ],
 
     'partFour_Three': [
-        "arif ini mau pergi ke mall, mau ikut gak Nad?",
+        "arif Ini mau pergi ke mall, mau ikut gak Nad?",
         "show character nadia sekolahGembira at right",
         "play voice 090",
         "nadia Ayo, mumpung ga ada tugas dari guru nih.",

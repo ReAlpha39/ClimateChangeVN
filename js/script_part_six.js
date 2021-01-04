@@ -40,7 +40,7 @@ monogatari.script({
         "arif Ya iya, kakak buatin tapi maafin kakak ya.",
         "show character kinan piyamaNormal",
         "play voice 140",
-        "kinan mm..",
+        "kinan Mmm..",
         "Kinan menganggukkan kepalanya secara vertikal",
         "hide character kinan with fadeOut duration 1s",
         "Setelah itu kami pun makan malam bersama.",
@@ -81,7 +81,7 @@ monogatari.script({
         "arif Ayok baring dikasur dulu.",
         "show character kinan piyamaSenang with fadeIn",
         "play voice 148",
-        "kinan Oke kaka.",
+        "kinan Oke kak.",
         //"show character  with fadeIn",
         "hide character kinan with fadeOutDown",
         "play voice 149",
@@ -95,7 +95,7 @@ monogatari.script({
         "............",
         ".......",
         "...",
-        "arif Sudah tidur ternyata",
+        "arif Sudah tidur ternyata.",
         "arif Aku harus belajar nih.",
         //sfx pintu tutup
         "show background kamarKinanMalam",
@@ -115,6 +115,7 @@ monogatari.script({
         "show scene langitMalam with fadeOut duration 1s",
         "wait 1000",
         "show scene #000000",
+        "play music bgm05 with loop",
         "Semenjak kejadian naiknya suhu di kota sejuk, "+
         "Banyak para siswa sadar betapa bahayanya asap kendaraan "+
         "bermotor yang asapnya sangat berbahaya dan berpotensi "+
@@ -166,6 +167,7 @@ monogatari.script({
         "inilah yang akan membuat suhu bumi menjadi panas " +
         "jadi mari sama sama kita basmi dampak efek rumah kaca.",
         "show scene langitSiang with fadeOut duration 2s",
+        "stop music bgm05 with fade 3",
         "wait 3000",
         "show video credit immersive with close",
         "end"
