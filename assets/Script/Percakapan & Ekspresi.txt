@@ -2,6 +2,7 @@ Scene Pagi :
 
 (Latar : kamar Arif)
 (000)Arif		: Huaaaaaahhh.
+(Aku membuka mataku yang terpapar sinar matahari  pagi)
 (000)Arif		: Wah pagi yang cerah.
 (000)Arif		: Tapi kok lebih panas ya dari kemaren.
 (000)Arif		: Matikan Ac dulu lah, sekalian buka jendela. (Sf : Tombol AC & buka jendela)
@@ -28,7 +29,7 @@ Scene Pagi :
 				  2. Eh kinan, mandi dulu sana.
 
 (pilihan 1) 
-(004)Kinan		: Heeehhh. buat apa buka jendela? AC kan lebih dingin, kalo buka jendela jadi panas kaka. kinan ga mau,ntar kepanasan. hehehe (meledek_kinanpajama)
+(004)Kinan		: Heeehhh. Buat apa buka jendela? AC kan lebih dingin, kalo buka jendela jadi panas kaka. kinan ga mau,ntar kepanasan. hehehe (meledek_kinanpajama)
 (000)Arif 		: Hmmmmm.(ekspresi merajuk)
 (005)Kinan		: Iya kaka, nanti kinan  matikan AC sekalian buka jendelanya, kinan mau mandi dulu. (senang_kinanpajama)
 (pilihan 2)
@@ -81,7 +82,7 @@ Scene Pagi :
 Pilihan 1
 
 (019)Roy 		: Dasar ngenes amat kamu rif. Hahahah... (tertawa_senang_roy)
-(000)Arif		: kok punya temen kayak gini ya. 
+(000)Arif		: Kok punya temen kayak gini ya. 
 (020)Roy 		: oh gitu ya kamu rif.(senyum_roy)
 
 Pilihan 2
@@ -112,7 +113,7 @@ Pilihan 2
 (Beberapa menit kemudian, Aku dan Roy bertemu dengan Nadia)
 
 (029)Roy 		: tuh ada nadia rif. (bicara_roy)
-(000)Arif 		: mau disamperin kah?
+(000)Arif 		: Mau disamperin kah?
 (030)Roy 		: Ayok.(bicara_roy)
 
 (jika memilih pilihan 1 ) (sf : suara knalpot motor melambat) 
@@ -192,7 +193,7 @@ Pilihan 2
      	 		  2 NO2 (nitrogen dioksida).
 
 (Pilihan 1)
-(073)Pak Andi	: Yup betul sekali, tidak hanya senyawa CO@ tetapi ada juga gas lain ada yang tau? (senang_pakandi)
+(073)Pak Andi	: Yup betul sekali. Tidak hanya senyawa CO@ tetapi ada juga gas lain ada yang tau? (senang_pakandi)
 
 (Pilihan 2)
 (074)Pak Andi	: jawabannya salah, ada yang tau gas apa saja? (bicara_pakandi)
@@ -387,7 +388,7 @@ Latar : (Kamar Kinan (Mode malam))
 
 Semenjak kejadian naiknys suhu di kota sejuk, Banyak para siswa sadar betapa bahayanya asap kendaraan bermotor
 yang asapnya sangat berbahaya dan berpotensi terjadinya efek rumah kaca, roy yang selalu ditegur nadia dan arif 
-pun sekarang sudah berjalan kaki ke sekolah. 6 bulan lebih  kemudian mereka jalani untuk mengurangi gas rumah kaca
+pun sekarang sudah berjalan kaki ke sekolah. 3 bulan lebih  kemudian mereka jalani untuk mengurangi gas rumah kaca
 pada suatu hari disekolah
 
 (Latar : Kelas)
@@ -408,6 +409,7 @@ baik efek buruk maupun efek baik. Berkendara motor boleh, tapi ingat semakin ban
 maka sedikit demi sedkit Pembakaran bahan bakar kendaraan bermotor ini menghasilkan gas rumah kaca berupa 
 karbonmonoksida (CO), karbondioksida (CO2), dan uap air (H2O). inilah yang akan membuat suhu bumi menjadi panas
 jadi mari sams sama kita basmi dampak efek rumah kaca. :)
+
 Stay safe for our health
 
 The End
