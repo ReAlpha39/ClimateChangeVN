@@ -142,7 +142,8 @@ button:hover {
 
 /* Quick Menu Style */
 [data-component="quick-menu"] {
-
+	background-color: var(--main-color);
+	padding: 0 3rem;
 }
 
 /* Quick Menu Buttons Style */
