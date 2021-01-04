@@ -50,6 +50,7 @@ monogatari.assets ('music', {
 	'bgm03': 'bgm03.mp3',
 	'bgm04': 'bgm04.mp3',
 	'bgm05': 'bgm05.mp3',
+	'bgm06': 'bgm06.mp3',
 });
 
 // Define the voice files used in the game.
