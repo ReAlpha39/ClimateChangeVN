@@ -1,31 +1,32 @@
 monogatari.script({
     // Scene Hiruyasumi
     'PartFour': [
-        "wait 1000",
         "play music bgm03 with loop",
         "arif Makan bareng yok Roy",
         "show character roy senyum with fadeIn",
         "play voice 079",
         "roy Ayok lah.",
-        "show character roy bicara with fadeIn",
+        "show character roy bicara",
         "play voice 080",
         "roy Ikut ngga Nad?",
         "show character roy bicara at left with move transition 1s",
         "show character nadia sekolahSenyum at right with fadeIn",
         "play voice 081",
         "nadia Boleh.",
-        //Aku, Nadia, dan Roy pergi ke kantin.
-        "show scene #000000 with fadeIn duration 2s",
+        "show background kelasSiang",
+        "show scene kelasSiang with fadeOut duration 1s",
+        "wait 1000",
+        "show scene #000000",
         "Setelah itu kami pun makan siang dan mengikuti pelajaran hingga akhir",
         //bell sekolah
         //Tak lama kemudian roy tiba tiba menghampiri ku.
-        "show scene kelasSore with fadeIn duration 2s",
-        "wait 2000",
+        "show scene kelasSore with fadeIn duration 1s",
+        "wait 1000",
         "show character roy bicara with fadeIn",
         "play voice 082",
         "roy Rif, mau ikut ga nih?",
         "arif Kemana?",
-        "show character roy senyum with fadeIn",
+        "show character roy senyum",
         "play voice 083",
         "roy Biasa ngabisin waktu lah.",
         {
@@ -45,11 +46,11 @@ monogatari.script({
 
     'partFour_One': [
         "arif Boleh nih.",
-        "show character roy bicara with fadeIn",
+        "show character roy bicara",
         "play voice 084",
         "roy Ada rekomendasi ngga?",
         "arif Ke Mall gimana?",
-        "show character roy tertawaSenang with fadeIn",
+        "show character roy tertawaSenang",
         "play voice 085",
         "roy Boleh nih. Bareng aja ya kita ntar.",
         "arif Oke sip.",
@@ -58,11 +59,11 @@ monogatari.script({
 
     'partFour_Two': [
         "arif Hmmm, keknya ga deh.",
-        "show character roy normal with fadeIn",
+        "show character roy normal",
         "play voice 086",
         "roy Gue ga ada teman nih Rif, temenin dong.",
         "arif Gimana ya?",
-        "show character roy bicara with fadeIn",
+        "show character roy bicara",
         "play voice 087",
         "roy Ayolah kita ke mall ngabisin waktu, ntar ku bayarin dah.",
         //Impro "Eee.. oke deh."
@@ -73,11 +74,11 @@ monogatari.script({
     'partFourCont': [
         //Nadia datang menghampiri ku dan Roy.
         "show character roy bicara at left with move transition 1s",
-        "show character nadia sekolahNormal at right with fadeInLeft",
+        "show character nadia sekolahNormal at right with fadeIn",
         "play voice 088",
         "nadia Kalian pada bahas apa nih?",
         "arif Mau ngabisin waktu nih, dari pada ngga ada kerjaan dirumah.",
-        "show character nadia sekolahBicara with fadeIn",
+        "show character nadia sekolahBicara at right",
         "play voice 089",
         "nadia Emangnya pada mau ngabisin waktu dimana?",
         {
@@ -97,7 +98,7 @@ monogatari.script({
 
     'partFour_Three': [
         "arif ini mau pergi ke mall, mau ikut gak Nad?",
-        "show character nadia sekolahGembira at right with fadeIn",
+        "show character nadia sekolahGembira at right",
         "play voice 090",
         "nadia Ayo, mumpung ga ada tugas dari guru nih.",
         "jump partFourContTwo"
@@ -105,29 +106,29 @@ monogatari.script({
 
     'partFour_Four': [
         "arif Mmm...",
-        "show character nadia sekolahSenang at right with fadeIn",
+        "show character nadia sekolahSenang at right",
         "play voice 091",
         "nadia Gimana kalo kita ke mall aja?",
-        "show character roy gugup at left with fadeIn",
+        "show character roy gugup at left",
         "play voice 092",
         "roy E... Iya sih kita juga rencana mau ke mall.",
-        "show character nadia sekolahGembira at right with fadeIn",
+        "show character nadia sekolahGembira at right",
         "play voice 093",
         "nadia Aku ikut ya. Hehe...",
         "jump partFourContTwo"
     ],
 
     'partFourContTwo': [
-        "show character roy kaget at left with fadeIn",
+        "show character roy kaget at left",
         "play voice 094",
         "roy Lu ikut juga, motor ku cuman muat 2 orang.",
-        "show character nadia sekolahBicara at right with fadeIn",
+        "show character nadia sekolahBicara at right",
         "play voice 095",
         "nadia Kan aku bisa naik KRL.",
-        "show character roy gugup at left with fadeIn",
+        "show character roy gugup at left",
         "play voice 096",
         "roy Waduh...",
-        "show character nadia sekolahMarah at right with fadeIn",
+        "show character nadia sekolahMarah at right",
         "play voice 097",
         "nadia Kenapa? ga senang kah aku ikut?", //(muka marah)
         //"show character roy gugup with fadeIn",
@@ -135,23 +136,23 @@ monogatari.script({
         "roy E.. e... gak kok.",
         "arif Dah lah jangan berantem.",
         "arif Ini mau ngumpul dimana?",
-        "show character roy bicara at left with fadeIn",
-        "show character nadia sekolahNormal at right with fadeIn",
+        "show character roy bicara at left",
+        "show character nadia sekolahNormal at right",
         "play voice 099",
         "roy Di depan stasiun aja gimana?",
-        "show character nadia sekolahSenyum at right with fadeIn",
+        "show character nadia sekolahSenyum at right",
         "play voice 100",
         "nadia Boleh tuh.",
         "arif Setuju nih.",
-        "show character roy tertawaSenang at left with fadeIn",
+        "show character roy tertawaSenang at left",
         "play voice 101",
         "roy Oke ayok gas.",
-        "show character nadia sekolahBicara at right with fadeIn",
-        "show character roy normal at left with fadeIn",
+        "show character nadia sekolahBicara at right",
+        "show character roy normal at left",
         "play voice 102",
         "nadia Aku mau ganti pakaian dulu, kalian duluan aja.",
         "arif Oke deh.",
-        "show character nadia sekolahGembira at right with fadeIn",
+        "show character nadia sekolahGembira at right",
         "play voice 103",
         "nadia Mau pulang dulu nih, bye.",
         "arif Bye Nad.",

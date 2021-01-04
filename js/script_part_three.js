@@ -1,9 +1,7 @@
 monogatari.script({
     // Scene Sekolah
     'PartThree': [
-        //sfx open door
-        "wait 2000",
-        "show scene kelasSiang with fadeIn duration 2s",
+        "show scene kelasSiang with fadeIn duration 1s",
         "play sound kelas with loop",
         "play voice 049",
         "siswaOne Pagi", //Rada aneh, knpa ngga
@@ -18,7 +16,7 @@ monogatari.script({
         "siswaOne Dulu kan daerah kita dingin ya.", //Dulu? tahun brpa? lul
         "play voice 054",
         "siswaTwo Iya, dulu itu bisa sampe 18-25 derajat aja, "+
-        "skrng saya dengar berita pagi tadi malah suhunya 35 derajat.",
+        "sekarang saya dengar berita pagi tadi malah suhunya 35 derajat.",
         "play voice 055",
         "siswaOne Serius ini?",
         "play voice 056",
@@ -43,10 +41,10 @@ monogatari.script({
         "play voice 063",
         "roy Ah bodoh lah, aku mah santai aja. Panas kek gini mah biasa.",
         "arif Gak usah gitu lah Roy, ntar nambah panas lagi kalo kamu bawa motor.",
-        "show character nadia sekolahBicara at right with fadeIn",
+        "show character nadia sekolahBicara at right",
         "play voice 064",
         "nadia Betul tuh roy.",
-        "show character roy marah at left with fadeIn",
+        "show character roy marah at left",
         "play voice 065",
         "roy Dah lah. Bahas topik lain ngapa?", //(Ngotot)
         //sfx buka pintu
@@ -54,7 +52,10 @@ monogatari.script({
         "hide character nadia with fadeOut",
         "hide character roy with fadeOut",
         "stop sound kelas with fade 1",
-        "show scene #000000 with fadeIn duration 2s",
+        "show background kelasSiang",
+        "show scene kelasSiang with fadeOut duration 1s",
+        "wait 1000",
+        "show scene #000000",
         "Beberapa menit kemudian",
         "play sound bell_sekolah",
         "show scene lorongKelasSiang with fadeIn duration 2s",
@@ -67,7 +68,7 @@ monogatari.script({
         "show character p_andi normal with fadeInRight",
         "play voice 066",
         "p_andi Selamat pagi semua.",
-        "show character p_andi bicara with fadeIn",
+        "show character p_andi bicara",
         "play voice 067",
         "p_andi Pagi ini kita akan memperdalam materi tentang rumah kaca.",
         //"show character p_andi senang with fadeIn",
@@ -82,7 +83,7 @@ monogatari.script({
         "meningkatnya emisi gas. Apa saja gas tersebut?",
         //Improvisasi Line 180
         "Tidak ada seseorang pun yang menjawab.", //typical murid
-        "show character p_andi bicara with fadeIn",
+        "show character p_andi bicara",
         "play voice 071",
         "p_andi Kok diam nih, ok saya tunjuk aja ya orangnya.", //typical guru
         //"show character  with fadeIn",
@@ -105,7 +106,7 @@ monogatari.script({
 
     'partThree_One': [
         "arif CO2 (Karbon dioksida).",
-        "show character p_andi senang with fadeIn",
+        "show character p_andi senang",
         "play voice 073",
         "p_andi Yup betul sekali, tidak hanya senyawa CO2 "+
         "tetapi ada juga gas lain ada yang tau?",
@@ -115,7 +116,7 @@ monogatari.script({
     'partThree_Two': [
         "arif NO2 (nitrogen dioksida)",
         //harusnya "Jawabannya kurang tepat" biar halus gitu
-        "show character p_andi bicara with fadeIn",
+        "show character p_andi bicara",
         "play voice 074",
         "p_andi jawabannya salah, ada yang tau gas apa saja?",
         "jump partThreeCont"
@@ -123,7 +124,7 @@ monogatari.script({
 
     'partThreeCont': [
         "Nadia mengangkat tangannya.",
-        "show character p_andi senang with fadeIn",
+        "show character p_andi senang",
         "play voice 075",
         "p_andi Ya Nadia, silahkan dijawab.",
         //"show character  with fadeIn",
@@ -135,12 +136,12 @@ monogatari.script({
         "play voice 077",
         "p_andi Yup tepat sekali, gas gas itulah nanti yang membuat energi "+
         "matahari terperangkap dalam atmosfer bumi.",
-        "show character p_andi bicara with fadeIn",
+        "show character p_andi bicara",
         "play voice 078",
         "p_andi Sehingga akan meningkatkan efek pemanasan tambahan "+
         "terhadap permukaan bumi atau yang kita kenal dengan pemanasan global.",
-        "Pak Andi pun menjelaskan materinya kepada kami.",
-        "show scene kelasSiang with fadeIn duration 2s",
+        "hide character p_andi with fadeOut",
+        "Pak Andi pun menjelaskan materinya kepada kami hingga selesai.",
         "play sound bell_sekolah",
         "Saking asiknya belajar bersama pak andi, tanpa sadar bel istirahat pun berbunyi.",
         "jump PartFour"
